@@ -1,0 +1,9 @@
+fastapi
+pydantic
+pandas
+joblib
+numpy
+scikit-learn
+streamlit
+tensorflow
+shap

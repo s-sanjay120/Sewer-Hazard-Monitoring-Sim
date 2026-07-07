@@ -5,5 +5,7 @@ joblib
 numpy
 scikit-learn
 streamlit
-tensorflow
+torch
+torchvision
+torchaudio
 shap

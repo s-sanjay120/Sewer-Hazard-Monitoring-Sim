@@ -1,0 +1,5001 @@
+methane,air_quality,temperature,humidity,risk
+385,129,29,66,Safe
+618,212,23,93,High Risk
+553,110,45,82,Warning
+343,478,41,54,High Risk
+659,496,29,37,High Risk
+245,330,29,61,Safe
+195,297,41,63,Warning
+237,55,22,74,Safe
+282,550,36,53,High Risk
+289,173,34,64,Safe
+369,530,39,84,High Risk
+140,480,39,81,Warning
+919,456,30,77,High Risk
+73,253,22,35,Safe
+769,134,43,51,High Risk
+453,443,27,67,Warning
+980,74,41,45,High Risk
+155,272,34,65,Safe
+278,69,35,42,Safe
+954,450,45,36,Critical
+436,153,40,93,Warning
+602,98,32,87,Warning
+354,282,39,49,Warning
+804,533,24,82,Critical
+117,466,23,73,Warning
+493,240,34,55,Warning
+870,216,31,35,High Risk
+409,472,44,77,High Risk
+223,65,25,61,Safe
+884,149,26,32,Warning
+860,436,37,39,High Risk
+506,221,29,85,Warning
+673,417,33,53,High Risk
+265,122,36,85,Safe
+735,314,38,55,Warning
+877,65,21,52,Warning
+281,510,23,54,High Risk
+703,267,33,41,Warning
+979,485,33,36,High Risk
+281,358,32,40,Warning
+366,494,29,41,Warning
+502,114,27,34,Warning
+296,449,36,57,Warning
+213,378,37,50,Warning
+124,375,28,53,Warning
+491,385,40,33,Warning
+728,545,43,83,Critical
+230,573,28,56,Warning
+911,77,43,36,High Risk
+252,253,23,42,Warning
+354,308,23,70,Warning
+425,351,44,58,High Risk
+954,445,41,62,Critical
+273,117,29,37,Safe
+64,209,22,92,Warning
+476,196,25,90,Warning
+735,344,42,77,High Risk
+253,246,37,72,Warning
+853,292,36,83,High Risk
+120,404,43,56,Warning
+377,256,34,38,Warning
+782,460,22,77,High Risk
+846,142,26,32,Warning
+950,530,30,93,Critical
+294,126,40,49,Safe
+570,172,39,87,Warning
+436,190,33,49,Safe
+325,521,28,35,High Risk
+559,289,32,54,Warning
+473,173,34,55,Safe
+205,274,35,78,Safe
+122,55,35,60,Safe
+430,324,28,33,Warning
+551,382,28,35,High Risk
+275,89,21,47,Safe
+57,246,22,55,Safe
+919,497,31,54,High Risk
+807,475,30,81,High Risk
+68,177,24,53,Safe
+783,296,34,74,High Risk
+680,573,38,48,High Risk
+754,94,34,79,Warning
+968,268,39,67,High Risk
+739,262,21,34,Warning
+145,540,40,49,Warning
+420,110,23,79,Safe
+399,454,22,95,High Risk
+500,567,29,45,High Risk
+411,362,39,36,Warning
+342,440,31,48,Warning
+220,440,37,74,Warning
+58,585,25,72,Warning
+246,384,22,90,Warning
+685,89,33,53,Warning
+891,183,41,33,High Risk
+398,236,32,50,Warning
+276,313,20,77,Warning
+285,498,42,90,High Risk
+211,153,28,52,Safe
+411,289,35,41,Warning
+460,396,24,44,Warning
+70,327,28,46,Safe
+853,284,35,46,High Risk
+465,254,27,66,Warning
+212,77,45,76,Safe
+226,373,34,43,Warning
+829,270,28,81,High Risk
+677,73,36,31,Warning
+409,168,40,89,Warning
+778,600,27,57,Critical
+584,194,22,38,Warning
+242,78,45,44,Safe
+361,155,39,41,Safe
+956,418,41,46,Critical
+218,389,26,82,Warning
+131,106,23,57,Safe
+849,577,27,93,Critical
+336,386,33,90,High Risk
+247,203,21,34,Safe
+177,490,21,34,Warning
+734,338,40,30,Warning
+81,314,45,48,Warning
+796,139,44,48,High Risk
+679,475,41,84,High Risk
+825,235,30,48,High Risk
+371,435,31,51,Warning
+883,374,25,72,High Risk
+405,470,20,90,High Risk
+988,530,42,59,Critical
+320,363,42,43,High Risk
+79,233,27,70,Safe
+711,51,26,58,Warning
+804,180,28,80,Warning
+765,257,20,74,High Risk
+187,568,30,55,Warning
+483,218,36,69,Warning
+346,59,33,89,Warning
+202,304,31,86,Warning
+78,330,27,58,Safe
+955,318,34,30,High Risk
+139,368,25,49,Warning
+408,454,27,52,Warning
+491,146,36,62,Safe
+284,281,33,55,Warning
+57,439,37,44,Warning
+935,346,36,67,High Risk
+642,600,39,40,High Risk
+224,561,28,46,Warning
+224,354,35,64,Warning
+136,311,24,87,Warning
+567,244,25,46,Warning
+843,372,43,73,Critical
+247,399,21,53,Warning
+271,579,45,88,Critical
+856,326,38,50,High Risk
+507,343,28,42,Warning
+183,56,30,55,Safe
+210,357,32,71,Warning
+330,75,22,58,Safe
+716,403,41,42,High Risk
+269,267,24,48,Warning
+769,155,41,76,High Risk
+591,139,25,43,Warning
+560,110,44,74,Warning
+538,514,39,78,High Risk
+659,131,24,36,Warning
+337,144,23,87,Warning
+419,424,21,40,Warning
+528,221,45,84,High Risk
+971,403,36,89,Critical
+461,90,44,62,Warning
+546,563,22,36,High Risk
+560,308,45,48,High Risk
+522,333,34,58,Warning
+163,401,31,41,Warning
+327,382,34,70,Warning
+976,397,20,43,High Risk
+656,309,39,71,Warning
+168,177,31,80,Safe
+864,275,27,83,High Risk
+131,222,43,66,Warning
+916,549,36,46,Critical
+331,295,44,90,High Risk
+744,411,38,33,High Risk
+227,127,38,95,Safe
+494,405,41,58,High Risk
+244,502,32,81,Warning
+757,52,27,79,Warning
+815,548,30,48,Critical
+598,181,30,78,Warning
+599,493,22,64,High Risk
+783,234,38,93,High Risk
+434,178,23,78,Safe
+249,512,41,82,High Risk
+629,383,42,47,High Risk
+952,121,43,76,High Risk
+620,118,26,79,Warning
+260,201,30,79,Warning
+52,184,45,50,Safe
+74,353,38,78,Warning
+600,165,25,89,Warning
+951,584,35,94,Critical
+132,95,23,42,Safe
+915,119,33,64,Warning
+470,391,34,85,Warning
+455,492,32,66,Warning
+622,135,29,35,Warning
+536,82,37,37,Warning
+793,469,42,68,Critical
+838,295,24,88,High Risk
+977,319,29,60,High Risk
+975,182,40,70,Warning
+423,305,35,58,Warning
+570,443,33,85,High Risk
+972,139,38,87,High Risk
+350,563,22,54,High Risk
+412,104,22,94,Warning
+755,372,34,75,High Risk
+146,536,44,30,High Risk
+186,390,28,52,Warning
+387,476,41,43,High Risk
+823,504,24,80,Critical
+887,197,33,52,Warning
+327,379,39,82,Warning
+52,425,26,41,Warning
+726,418,40,58,High Risk
+810,213,37,58,High Risk
+107,595,31,33,Warning
+535,567,43,62,Critical
+806,194,36,36,Warning
+629,500,36,46,High Risk
+406,368,28,94,High Risk
+729,304,23,32,Warning
+463,65,32,90,Warning
+734,532,39,73,High Risk
+666,153,38,64,Warning
+89,459,25,71,Warning
+886,427,26,56,High Risk
+910,543,41,85,Critical
+763,467,28,88,Critical
+365,262,23,84,Warning
+608,535,45,42,Critical
+116,523,40,42,Warning
+847,71,33,62,Warning
+305,300,33,59,Warning
+350,97,34,44,Safe
+415,411,38,87,High Risk
+420,82,41,32,Warning
+145,598,43,50,High Risk
+676,280,45,45,High Risk
+337,398,25,58,Warning
+272,438,33,57,Warning
+508,512,31,77,High Risk
+495,394,26,53,Warning
+808,200,41,64,High Risk
+446,559,45,77,High Risk
+70,110,28,55,Safe
+218,380,22,43,Warning
+596,153,45,92,High Risk
+636,80,33,87,Warning
+341,119,43,51,Warning
+472,218,36,77,Warning
+483,578,25,75,High Risk
+208,500,26,49,Warning
+533,208,44,68,High Risk
+542,80,44,91,High Risk
+227,477,35,79,Warning
+239,125,41,46,Safe
+1000,351,41,60,Critical
+770,175,25,92,High Risk
+839,382,26,73,High Risk
+354,58,20,63,Safe
+760,368,22,69,High Risk
+801,232,26,81,High Risk
+715,347,27,33,Warning
+177,369,35,84,Warning
+852,93,28,75,Warning
+370,434,44,81,High Risk
+448,76,33,62,Safe
+803,371,21,39,High Risk
+477,311,33,33,Warning
+274,181,22,73,Safe
+166,54,44,85,Safe
+56,275,31,85,Safe
+267,558,26,62,High Risk
+848,212,44,58,High Risk
+393,101,35,73,Safe
+941,388,23,31,High Risk
+469,524,44,78,High Risk
+669,353,23,87,High Risk
+180,257,27,62,Safe
+193,204,21,57,Safe
+936,590,45,62,Critical
+913,275,38,92,High Risk
+367,405,25,31,Warning
+981,83,26,54,Warning
+201,231,44,83,Warning
+266,314,45,86,High Risk
+748,52,21,53,Warning
+550,394,29,74,High Risk
+60,91,34,85,Safe
+868,530,33,82,Critical
+865,397,22,56,High Risk
+222,405,26,44,Warning
+137,535,41,83,High Risk
+665,265,43,32,High Risk
+372,360,37,84,Warning
+430,78,41,70,Warning
+410,548,25,57,High Risk
+872,252,27,81,High Risk
+661,488,45,81,High Risk
+502,76,43,70,Warning
+732,240,34,31,Warning
+663,200,27,51,Warning
+546,353,29,31,High Risk
+379,399,37,54,Warning
+130,507,30,75,Warning
+921,502,44,36,Critical
+368,189,31,68,Safe
+54,512,24,48,Warning
+496,258,25,31,Warning
+127,441,44,73,Warning
+468,354,43,62,High Risk
+816,524,26,52,Critical
+137,262,43,92,Warning
+970,87,20,52,Warning
+641,363,39,43,High Risk
+624,363,28,92,High Risk
+856,590,38,74,Critical
+312,121,45,68,Warning
+906,193,35,59,Warning
+459,333,29,62,Warning
+251,64,43,34,Warning
+970,553,31,49,Critical
+254,272,38,94,Warning
+394,459,36,69,Warning
+576,317,25,46,Warning
+237,352,22,46,Warning
+759,238,41,33,High Risk
+54,430,39,31,Warning
+866,131,45,48,High Risk
+416,320,21,72,Warning
+738,350,37,94,High Risk
+230,520,28,42,Warning
+382,340,44,36,Warning
+904,87,44,52,High Risk
+838,105,43,38,High Risk
+108,504,23,46,Warning
+692,342,22,87,High Risk
+610,208,40,41,Warning
+301,505,28,85,High Risk
+799,200,35,48,Warning
+253,105,20,72,Safe
+726,340,34,84,Warning
+276,84,21,55,Safe
+86,558,44,43,High Risk
+570,562,36,39,High Risk
+51,484,32,44,Warning
+429,279,29,63,Warning
+932,170,30,46,Warning
+797,519,26,68,Critical
+339,544,44,62,High Risk
+498,436,38,52,Warning
+470,83,31,54,Safe
+883,433,37,33,High Risk
+812,497,28,68,High Risk
+1000,346,43,45,High Risk
+165,321,38,82,Safe
+476,211,45,52,Warning
+129,292,29,52,Safe
+297,361,42,71,High Risk
+496,525,40,88,High Risk
+890,237,38,64,High Risk
+110,215,40,47,Safe
+360,116,30,32,Safe
+514,133,26,56,Warning
+885,54,29,79,Warning
+182,302,22,71,Safe
+664,106,20,34,Warning
+997,597,30,92,Critical
+689,243,37,87,High Risk
+311,338,37,87,Warning
+348,369,26,79,Warning
+524,303,30,51,Warning
+144,259,24,68,Safe
+103,596,22,90,High Risk
+838,64,41,53,High Risk
+288,358,45,62,High Risk
+236,552,25,69,Warning
+400,127,29,86,Warning
+957,296,23,93,High Risk
+696,116,27,92,Warning
+311,271,36,84,Warning
+895,220,33,37,High Risk
+929,376,40,56,High Risk
+220,460,20,87,Warning
+677,435,34,64,High Risk
+187,96,41,83,Safe
+122,221,28,53,Safe
+211,308,26,48,Safe
+911,209,39,74,High Risk
+619,73,32,90,Warning
+124,370,29,59,Warning
+195,361,27,91,Warning
+972,454,42,79,Critical
+319,569,27,32,High Risk
+777,376,25,95,Critical
+401,70,22,83,Safe
+248,436,41,39,Warning
+926,193,23,78,Warning
+259,130,45,54,Warning
+742,515,25,64,High Risk
+97,300,31,72,Safe
+233,313,21,67,Safe
+906,385,26,70,High Risk
+681,344,45,89,High Risk
+1000,177,36,58,Warning
+164,168,39,57,Safe
+651,369,37,84,High Risk
+259,56,32,89,Warning
+167,415,27,38,Warning
+246,446,34,79,Warning
+181,188,29,79,Safe
+457,361,44,40,High Risk
+639,296,41,70,High Risk
+218,106,25,91,Safe
+723,382,38,81,High Risk
+987,104,33,57,Warning
+103,563,33,64,Warning
+441,557,37,30,High Risk
+832,345,26,64,High Risk
+198,479,34,80,Warning
+672,240,22,83,Warning
+428,498,23,77,Warning
+679,476,22,92,High Risk
+684,550,43,70,Critical
+617,53,35,45,Warning
+110,221,35,40,Safe
+768,244,25,31,High Risk
+932,139,44,31,High Risk
+441,416,33,34,Warning
+116,382,20,77,Warning
+104,510,20,94,High Risk
+944,170,23,73,Warning
+810,221,36,49,High Risk
+895,177,31,95,High Risk
+842,173,42,85,High Risk
+372,265,28,50,Warning
+613,365,34,72,High Risk
+244,322,28,72,Safe
+855,60,45,95,High Risk
+226,557,37,69,Warning
+147,350,33,38,Safe
+514,400,32,87,High Risk
+652,521,42,95,Critical
+179,316,44,38,Warning
+623,364,31,74,High Risk
+125,153,43,50,Safe
+339,354,35,95,High Risk
+858,500,20,65,High Risk
+996,448,37,72,High Risk
+575,380,44,83,High Risk
+550,69,28,93,Warning
+510,146,42,90,High Risk
+94,322,41,30,Warning
+547,548,37,45,High Risk
+571,236,45,49,High Risk
+811,459,26,80,High Risk
+703,407,41,56,High Risk
+52,318,28,60,Safe
+681,182,27,58,Warning
+272,185,32,48,Safe
+903,174,26,46,Warning
+611,484,41,93,Critical
+765,380,32,70,High Risk
+447,97,27,77,Safe
+983,61,28,58,Warning
+247,419,26,44,Warning
+219,587,26,54,Warning
+369,271,39,68,Warning
+69,545,45,60,High Risk
+412,383,25,74,Warning
+75,110,40,36,Safe
+668,511,21,90,Critical
+598,537,21,90,Critical
+917,106,39,45,Warning
+491,397,21,94,High Risk
+492,75,41,35,Warning
+652,562,29,35,High Risk
+610,177,32,53,Warning
+691,248,31,61,Warning
+883,554,34,73,Critical
+739,146,30,69,Warning
+417,72,32,94,Warning
+895,127,24,65,Warning
+381,491,21,81,Warning
+494,121,31,71,Safe
+304,292,20,92,Warning
+570,75,43,80,Warning
+569,211,40,78,Warning
+204,145,37,75,Safe
+960,493,26,73,High Risk
+867,244,39,67,High Risk
+423,334,28,92,Warning
+753,299,42,39,High Risk
+245,174,23,52,Safe
+351,400,29,67,Warning
+605,248,28,92,High Risk
+386,351,31,77,Warning
+634,355,31,88,High Risk
+806,394,30,91,Critical
+739,223,40,91,High Risk
+257,279,35,85,Warning
+110,313,20,94,Warning
+507,442,29,68,High Risk
+552,541,38,94,Critical
+422,59,37,60,Safe
+158,253,32,64,Safe
+561,547,43,62,Critical
+364,343,23,32,Warning
+875,372,45,43,Critical
+598,416,23,61,High Risk
+133,239,20,54,Safe
+810,269,40,37,High Risk
+697,562,22,35,High Risk
+520,64,35,38,Warning
+592,95,34,72,Warning
+586,175,42,34,Warning
+316,114,21,57,Safe
+651,184,37,50,Warning
+477,270,33,61,Warning
+601,173,25,63,Warning
+362,360,42,70,High Risk
+155,162,44,82,Safe
+524,277,29,37,Warning
+53,584,22,42,Warning
+232,484,30,57,Warning
+342,486,42,34,High Risk
+355,207,25,95,Warning
+345,436,28,77,Warning
+141,431,20,53,Warning
+561,216,36,66,Warning
+922,256,21,58,High Risk
+271,348,39,71,Warning
+628,597,45,72,Critical
+437,324,35,64,Warning
+345,569,40,34,High Risk
+585,306,39,47,Warning
+727,225,41,47,High Risk
+540,365,33,91,High Risk
+328,174,45,48,Warning
+676,559,29,85,High Risk
+357,383,33,42,Warning
+901,110,28,36,Warning
+547,505,21,58,High Risk
+838,393,35,51,High Risk
+66,62,29,59,Safe
+926,260,34,30,High Risk
+200,593,38,54,Warning
+573,441,30,37,High Risk
+503,75,31,51,Warning
+776,255,39,36,High Risk
+728,288,43,57,High Risk
+900,507,41,47,Critical
+424,579,28,82,High Risk
+865,540,45,40,Critical
+249,348,21,47,Safe
+932,382,38,65,High Risk
+390,192,38,95,Warning
+446,565,26,35,High Risk
+189,530,41,92,High Risk
+861,239,43,33,High Risk
+119,438,26,46,Warning
+476,295,35,33,Warning
+678,389,35,75,High Risk
+365,349,23,30,Warning
+538,76,23,60,Warning
+704,334,43,79,High Risk
+829,372,21,89,Critical
+354,246,40,76,Warning
+531,237,23,38,Warning
+439,505,28,73,High Risk
+950,572,44,47,Critical
+216,111,21,87,Safe
+844,374,31,72,High Risk
+657,213,25,86,High Risk
+846,376,31,69,High Risk
+877,93,41,77,High Risk
+547,252,45,44,High Risk
+932,573,34,80,Critical
+226,450,36,87,Warning
+78,390,26,58,Warning
+732,528,41,47,Critical
+420,462,45,51,High Risk
+350,196,35,71,Safe
+136,597,23,54,Warning
+880,133,38,77,Warning
+577,148,29,71,Warning
+395,595,20,75,High Risk
+379,346,41,77,Warning
+271,351,24,74,Warning
+1000,222,20,91,High Risk
+991,76,43,91,High Risk
+339,82,38,53,Safe
+251,125,23,56,Safe
+659,198,27,55,Warning
+113,294,33,56,Safe
+820,135,39,85,Warning
+199,104,42,63,Safe
+808,566,38,84,Critical
+319,130,44,80,Warning
+83,423,43,58,Warning
+127,552,43,44,High Risk
+427,361,31,88,High Risk
+218,128,27,80,Safe
+500,286,42,89,High Risk
+130,107,39,38,Safe
+859,536,22,66,Critical
+922,443,28,34,High Risk
+531,154,20,68,Warning
+483,150,20,39,Safe
+698,535,34,63,High Risk
+427,63,38,82,Safe
+622,519,33,89,Critical
+704,101,37,30,Warning
+957,108,40,65,Warning
+281,287,20,40,Warning
+738,83,31,80,Warning
+249,186,43,36,Safe
+359,321,25,69,Warning
+110,163,37,86,Safe
+793,524,30,56,Critical
+113,88,32,95,Safe
+873,583,40,71,Critical
+397,583,43,37,High Risk
+666,61,31,32,Warning
+890,459,41,85,Critical
+465,315,34,92,Warning
+104,90,38,91,Safe
+399,280,36,47,Warning
+293,507,24,69,High Risk
+861,531,25,87,Critical
+730,243,38,76,Warning
+742,480,40,95,High Risk
+694,513,20,39,High Risk
+878,359,31,48,High Risk
+544,535,20,86,Critical
+441,491,40,57,Warning
+265,185,26,30,Safe
+174,460,40,70,Warning
+584,234,43,36,High Risk
+404,529,31,32,High Risk
+868,577,23,53,Critical
+898,461,28,31,High Risk
+929,461,20,41,High Risk
+682,125,43,68,Warning
+530,169,45,42,Warning
+187,138,35,86,Safe
+481,539,20,57,High Risk
+163,92,42,82,Safe
+716,127,36,82,Warning
+856,377,43,79,Critical
+261,584,20,88,High Risk
+647,116,36,51,Warning
+80,391,39,85,Warning
+485,307,43,52,Warning
+860,456,32,82,High Risk
+685,296,28,77,Warning
+111,318,45,91,Warning
+969,572,44,30,Critical
+408,370,28,91,High Risk
+858,156,44,52,High Risk
+377,177,31,33,Safe
+404,263,44,95,High Risk
+510,118,44,70,Warning
+353,75,41,30,Warning
+525,525,21,45,High Risk
+327,440,43,49,High Risk
+330,378,30,58,Warning
+591,173,26,83,Warning
+218,508,29,62,Warning
+364,426,44,91,High Risk
+184,55,28,70,Safe
+310,485,34,82,Warning
+438,92,24,86,Warning
+959,450,28,51,High Risk
+434,571,43,92,Critical
+337,240,32,60,Warning
+689,430,37,93,High Risk
+740,568,34,36,High Risk
+199,294,36,76,Safe
+795,584,38,88,Critical
+836,477,32,87,Critical
+249,457,40,81,Warning
+429,504,42,82,High Risk
+699,356,34,35,High Risk
+436,517,40,69,High Risk
+985,459,21,52,High Risk
+499,334,37,83,Warning
+59,82,27,77,Safe
+883,64,39,81,Warning
+544,360,33,48,High Risk
+238,118,23,56,Safe
+126,464,26,53,Warning
+866,296,27,82,High Risk
+614,54,44,32,Warning
+700,467,40,49,High Risk
+744,207,28,95,High Risk
+658,221,37,60,Warning
+560,533,37,51,High Risk
+566,423,37,65,High Risk
+85,177,22,43,Safe
+785,273,21,79,High Risk
+695,574,28,30,High Risk
+349,133,29,72,Safe
+647,455,45,35,High Risk
+626,54,35,90,Warning
+447,185,23,62,Safe
+899,563,25,32,Critical
+289,459,43,78,High Risk
+125,72,28,67,Safe
+326,136,20,79,Safe
+990,108,22,46,Warning
+981,421,23,52,High Risk
+801,416,38,65,High Risk
+548,256,25,35,Warning
+282,58,44,34,Warning
+778,269,39,79,High Risk
+204,520,42,62,High Risk
+940,236,36,87,High Risk
+656,320,38,41,Warning
+776,431,37,80,High Risk
+730,158,38,34,Warning
+686,315,42,38,High Risk
+879,247,24,79,High Risk
+741,576,28,49,High Risk
+986,166,23,83,Warning
+230,285,39,66,Safe
+236,71,37,45,Safe
+588,464,32,50,High Risk
+112,313,34,33,Safe
+334,360,32,35,Warning
+948,353,20,80,High Risk
+898,224,22,82,High Risk
+445,476,21,62,Warning
+891,403,39,68,High Risk
+975,372,43,84,Critical
+200,84,32,83,Safe
+143,321,32,66,Safe
+185,372,29,75,Warning
+352,139,39,50,Safe
+888,190,44,51,High Risk
+83,122,21,67,Safe
+306,348,35,82,Warning
+599,62,38,47,Warning
+689,146,25,44,Warning
+958,104,31,89,High Risk
+199,508,27,63,Warning
+448,114,30,50,Safe
+100,515,40,53,Warning
+286,264,44,73,Warning
+644,73,36,72,Warning
+725,52,27,71,Warning
+683,238,31,54,Warning
+324,509,44,81,High Risk
+329,589,38,66,High Risk
+782,338,40,67,High Risk
+71,546,30,78,Warning
+832,302,26,39,High Risk
+894,568,29,70,Critical
+996,560,24,93,Critical
+243,513,30,50,Warning
+865,448,27,53,High Risk
+994,321,23,40,High Risk
+891,492,25,94,Critical
+822,298,42,50,High Risk
+993,229,26,82,High Risk
+951,319,20,58,High Risk
+766,309,39,39,High Risk
+261,170,36,48,Safe
+114,74,25,44,Safe
+664,380,22,92,High Risk
+718,78,31,94,Warning
+762,407,37,68,High Risk
+410,267,29,49,Warning
+352,365,43,53,High Risk
+357,538,33,42,High Risk
+249,273,36,61,Safe
+202,160,36,93,Safe
+786,114,38,91,High Risk
+400,200,40,49,Safe
+662,52,21,62,Warning
+520,141,25,52,Warning
+474,246,29,86,Warning
+791,139,27,93,High Risk
+918,70,25,37,Warning
+330,61,35,62,Safe
+980,170,33,75,Warning
+554,430,32,31,High Risk
+985,529,32,55,Critical
+347,170,31,94,Warning
+440,540,31,34,High Risk
+269,67,44,32,Warning
+124,475,38,43,Warning
+273,98,42,93,Warning
+677,186,20,57,Warning
+224,120,28,39,Safe
+675,528,24,94,Critical
+114,173,40,30,Safe
+695,383,34,72,High Risk
+718,143,41,39,Warning
+818,56,23,73,Warning
+701,352,29,41,High Risk
+183,61,35,41,Safe
+727,530,30,64,High Risk
+371,206,41,95,High Risk
+429,284,34,82,Warning
+223,409,30,42,Warning
+857,500,41,64,Critical
+416,480,29,48,Warning
+246,234,44,70,Warning
+72,413,44,77,Warning
+289,492,31,75,Warning
+402,324,33,51,Warning
+386,246,44,74,Warning
+872,266,36,58,High Risk
+488,371,32,37,Warning
+634,389,20,54,High Risk
+155,439,26,48,Warning
+326,232,31,73,Warning
+441,425,40,42,Warning
+370,178,34,57,Safe
+547,540,37,41,High Risk
+316,375,39,82,Warning
+256,203,20,88,Warning
+560,225,45,68,High Risk
+599,439,34,42,High Risk
+832,447,34,95,Critical
+274,437,25,63,Warning
+820,496,33,33,High Risk
+560,429,26,45,High Risk
+459,376,36,52,Warning
+963,273,29,53,High Risk
+793,513,43,54,Critical
+146,420,44,80,Warning
+478,52,40,84,Safe
+987,585,23,50,Critical
+96,195,22,35,Safe
+685,490,24,54,High Risk
+699,372,27,73,High Risk
+52,145,36,85,Safe
+701,374,23,47,High Risk
+844,66,28,63,Warning
+721,205,42,67,High Risk
+354,523,23,31,High Risk
+816,463,23,74,High Risk
+373,583,25,36,High Risk
+818,401,36,92,Critical
+581,278,28,82,Warning
+627,74,35,40,Warning
+752,149,31,47,Warning
+485,520,26,60,High Risk
+230,124,36,90,Safe
+175,273,25,78,Safe
+390,253,27,54,Warning
+531,349,29,89,High Risk
+234,313,35,59,Safe
+362,584,23,55,High Risk
+348,351,34,88,High Risk
+301,371,20,60,Warning
+782,480,34,52,High Risk
+992,150,23,56,Warning
+498,525,37,72,High Risk
+98,501,30,36,Warning
+509,304,39,30,Warning
+574,391,36,45,High Risk
+266,487,43,70,High Risk
+225,99,35,50,Safe
+903,192,30,66,Warning
+773,433,22,64,High Risk
+238,526,30,81,Warning
+214,448,30,33,Warning
+554,419,31,39,High Risk
+343,305,23,83,Warning
+123,181,42,70,Safe
+75,227,37,56,Safe
+192,309,29,90,Warning
+359,423,22,77,Warning
+290,164,20,86,Warning
+833,325,42,49,High Risk
+850,394,22,47,High Risk
+584,526,34,52,High Risk
+476,68,41,84,Warning
+887,222,25,58,High Risk
+56,560,40,55,Warning
+689,271,31,76,Warning
+393,231,28,55,Warning
+955,423,27,68,High Risk
+371,367,25,85,Warning
+986,447,32,48,High Risk
+767,545,45,39,Critical
+420,141,29,47,Safe
+918,196,28,69,Warning
+230,522,29,32,Warning
+944,204,21,52,High Risk
+851,575,26,83,Critical
+337,190,29,36,Safe
+926,154,33,63,Warning
+468,581,34,55,High Risk
+902,507,42,44,Critical
+209,525,37,59,Warning
+847,101,21,32,Warning
+587,547,45,74,Critical
+738,470,39,51,High Risk
+557,223,34,64,Warning
+162,121,44,86,Warning
+468,153,23,92,Warning
+280,387,44,82,High Risk
+62,491,29,50,Warning
+786,390,35,48,High Risk
+830,447,40,92,Critical
+711,404,31,71,High Risk
+386,535,23,67,High Risk
+67,390,23,58,Warning
+594,262,25,95,High Risk
+270,359,20,37,Warning
+784,428,28,89,Critical
+351,169,32,83,Safe
+347,480,26,63,Warning
+407,77,39,68,Safe
+695,163,21,69,Warning
+418,523,29,62,High Risk
+848,67,23,64,Warning
+130,410,31,72,Warning
+658,85,25,84,Warning
+647,586,21,93,Critical
+169,156,44,79,Safe
+129,456,33,48,Warning
+717,346,38,46,Warning
+610,85,26,76,Warning
+504,325,36,61,Warning
+761,242,25,52,High Risk
+176,529,20,87,High Risk
+799,254,27,76,High Risk
+955,352,28,66,High Risk
+629,411,24,82,High Risk
+968,213,28,70,High Risk
+408,183,20,83,Safe
+699,429,33,69,High Risk
+870,151,41,84,High Risk
+170,371,25,46,Warning
+880,97,44,61,High Risk
+631,429,32,67,High Risk
+66,372,45,69,Warning
+690,177,43,79,Warning
+446,361,39,55,Warning
+79,341,34,93,Warning
+648,154,21,48,Warning
+857,127,40,67,Warning
+691,207,25,42,Warning
+86,369,25,73,Warning
+705,137,43,87,High Risk
+584,160,34,60,Warning
+780,321,45,90,Critical
+746,566,20,66,High Risk
+585,305,43,35,High Risk
+958,127,23,57,Warning
+445,64,33,74,Safe
+877,530,29,91,Critical
+581,282,45,46,High Risk
+128,391,30,73,Warning
+99,118,45,75,Safe
+783,271,38,49,High Risk
+218,383,33,32,Warning
+805,418,23,59,High Risk
+745,115,32,82,Warning
+658,278,25,47,Warning
+545,511,23,92,Critical
+97,460,29,54,Warning
+698,58,43,70,Warning
+763,336,29,67,High Risk
+684,122,27,58,Warning
+876,173,27,60,Warning
+84,143,40,55,Safe
+911,489,44,71,Critical
+442,585,24,92,High Risk
+883,354,28,90,Critical
+285,523,45,41,High Risk
+309,154,44,64,Warning
+634,218,25,65,Warning
+520,513,26,48,High Risk
+361,436,30,82,Warning
+819,51,44,81,High Risk
+813,577,30,56,Critical
+500,217,26,31,Warning
+160,256,34,79,Safe
+622,535,43,90,Critical
+779,580,43,43,Critical
+918,575,30,84,Critical
+468,253,45,64,Warning
+639,323,23,81,Warning
+211,290,31,46,Safe
+415,301,33,64,Warning
+811,242,31,48,High Risk
+832,381,35,46,High Risk
+573,238,39,69,Warning
+678,584,44,71,Critical
+926,595,43,88,Critical
+801,422,24,37,High Risk
+927,511,44,52,Critical
+166,494,25,87,Warning
+387,528,28,30,High Risk
+545,296,37,47,Warning
+645,253,42,79,High Risk
+372,147,27,54,Safe
+447,272,25,35,Warning
+965,351,44,42,Critical
+476,226,28,50,Warning
+380,507,29,48,High Risk
+942,496,29,89,Critical
+318,200,24,58,Safe
+494,239,25,93,Warning
+651,473,30,82,High Risk
+769,536,28,78,Critical
+213,458,37,35,Warning
+413,382,32,68,Warning
+331,556,33,41,High Risk
+122,283,32,45,Safe
+901,494,26,79,High Risk
+904,108,45,57,High Risk
+71,269,29,47,Safe
+652,267,35,75,Warning
+166,316,31,55,Safe
+198,361,39,76,Warning
+53,186,29,33,Safe
+482,149,27,48,Safe
+378,364,22,88,High Risk
+505,284,29,93,High Risk
+701,515,44,61,Critical
+51,200,40,43,Safe
+196,450,43,72,Warning
+283,290,22,34,Warning
+928,450,44,54,Critical
+353,549,27,69,High Risk
+733,333,33,77,Warning
+533,132,42,80,Warning
+851,431,27,63,High Risk
+321,56,28,58,Safe
+215,121,22,68,Safe
+347,460,28,68,Warning
+334,514,45,55,High Risk
+179,553,33,94,High Risk
+124,280,36,81,Safe
+160,530,32,37,Warning
+340,77,41,32,Warning
+371,205,32,60,Warning
+990,308,42,95,Critical
+895,211,24,61,High Risk
+796,446,26,52,High Risk
+918,468,34,38,High Risk
+578,55,39,79,Warning
+212,289,44,52,Warning
+739,536,28,48,High Risk
+182,142,42,86,Warning
+389,75,32,63,Safe
+864,133,34,77,Warning
+695,485,29,84,High Risk
+282,556,26,31,High Risk
+344,213,37,91,Warning
+217,541,24,42,Warning
+967,271,40,60,High Risk
+343,155,42,55,Warning
+924,94,36,70,Warning
+774,357,40,31,High Risk
+570,412,24,54,High Risk
+584,555,36,69,High Risk
+599,220,30,31,Warning
+452,138,40,31,Safe
+105,467,28,49,Warning
+284,239,33,63,Warning
+242,540,37,34,Warning
+631,158,35,87,Warning
+182,143,32,54,Safe
+435,80,43,36,Warning
+538,218,40,71,Warning
+776,123,31,51,Warning
+476,71,29,56,Safe
+532,562,38,33,High Risk
+314,140,33,34,Safe
+623,216,22,77,Warning
+725,236,40,46,Warning
+956,559,30,73,Critical
+993,51,42,41,High Risk
+726,279,42,44,High Risk
+575,179,21,50,Warning
+911,482,37,59,High Risk
+467,61,34,93,Warning
+938,371,40,64,High Risk
+523,270,29,72,Warning
+692,306,24,56,Warning
+478,121,34,59,Safe
+236,174,26,57,Safe
+63,103,34,66,Safe
+403,205,45,88,High Risk
+730,247,32,57,Warning
+157,600,39,31,Warning
+91,222,45,63,Warning
+576,293,31,30,Warning
+812,90,40,87,High Risk
+797,345,27,93,High Risk
+684,261,39,54,Warning
+721,497,38,50,High Risk
+514,311,33,80,Warning
+413,540,24,60,High Risk
+774,351,35,56,High Risk
+709,300,33,77,Warning
+603,558,34,49,High Risk
+121,500,34,47,Warning
+259,297,32,64,Warning
+894,262,29,82,High Risk
+925,493,37,40,High Risk
+312,453,44,90,High Risk
+997,216,30,84,High Risk
+85,407,22,51,Warning
+635,275,42,51,High Risk
+206,489,24,69,Warning
+391,370,42,48,High Risk
+521,92,26,55,Warning
+152,529,24,84,Warning
+410,136,42,31,Warning
+166,532,41,68,High Risk
+598,269,33,46,Warning
+878,482,41,89,Critical
+61,408,25,57,Warning
+290,460,40,43,Warning
+850,364,41,82,Critical
+692,71,32,58,Warning
+692,316,31,58,Warning
+907,95,40,79,Warning
+98,375,28,92,Warning
+308,535,37,66,High Risk
+486,487,20,36,Warning
+529,429,38,82,High Risk
+267,184,36,94,Warning
+798,213,40,71,High Risk
+546,500,45,49,High Risk
+82,284,20,82,Safe
+801,320,20,49,High Risk
+754,73,33,93,High Risk
+783,177,35,71,Warning
+654,243,39,64,Warning
+473,214,36,79,Warning
+597,287,31,78,Warning
+427,318,44,53,Warning
+74,562,32,63,Warning
+93,154,35,37,Safe
+551,456,34,56,High Risk
+529,302,37,89,High Risk
+610,206,29,85,Warning
+765,373,38,92,Critical
+252,430,26,51,Warning
+169,149,32,35,Safe
+233,457,44,58,Warning
+976,521,32,42,Critical
+304,599,27,76,High Risk
+876,545,26,60,Critical
+216,112,41,86,Warning
+537,340,34,85,Warning
+751,346,20,31,High Risk
+536,357,20,50,High Risk
+823,142,23,73,Warning
+472,100,34,84,Safe
+872,444,31,51,High Risk
+631,89,45,60,Warning
+880,558,38,35,Critical
+506,271,27,95,High Risk
+303,274,34,92,Warning
+706,114,37,34,Warning
+189,136,43,46,Safe
+882,177,44,67,High Risk
+227,98,28,74,Safe
+160,97,20,88,Safe
+205,523,32,36,Warning
+481,572,30,92,High Risk
+641,379,42,55,High Risk
+563,523,30,60,High Risk
+320,319,28,71,Warning
+537,490,34,82,High Risk
+616,154,40,46,Warning
+629,450,23,49,High Risk
+847,162,35,89,High Risk
+144,546,23,90,High Risk
+583,535,31,92,Critical
+728,354,30,38,High Risk
+560,354,30,32,High Risk
+671,537,32,80,High Risk
+830,86,26,50,Warning
+854,482,28,43,High Risk
+799,404,43,44,Critical
+116,413,21,30,Warning
+180,133,44,81,Safe
+219,65,38,80,Safe
+440,361,30,57,Warning
+884,178,28,55,Warning
+380,303,37,81,Warning
+426,154,21,50,Safe
+420,428,42,43,High Risk
+941,154,35,31,Warning
+611,378,27,43,High Risk
+836,324,26,51,High Risk
+81,277,20,65,Safe
+208,67,30,90,Safe
+901,295,28,73,High Risk
+265,354,43,31,High Risk
+803,158,20,74,Warning
+979,86,39,76,Warning
+384,182,25,92,Warning
+556,303,21,37,Warning
+177,305,35,47,Safe
+624,129,31,88,Warning
+781,574,43,36,Critical
+114,256,42,85,Warning
+801,600,27,76,Critical
+994,518,27,86,Critical
+777,466,40,38,High Risk
+106,414,21,89,Warning
+930,210,41,40,High Risk
+925,253,22,85,High Risk
+102,217,33,36,Safe
+712,524,34,63,High Risk
+58,462,44,45,Warning
+772,405,25,82,High Risk
+765,441,20,42,High Risk
+82,216,36,69,Safe
+947,310,22,48,High Risk
+269,530,31,76,High Risk
+926,340,33,70,High Risk
+390,548,26,45,High Risk
+261,79,34,77,Safe
+228,380,25,49,Warning
+591,477,38,44,High Risk
+199,126,31,88,Safe
+413,248,33,51,Warning
+634,404,22,35,High Risk
+442,351,29,54,Warning
+726,419,23,41,High Risk
+533,575,28,63,High Risk
+480,218,43,66,Warning
+735,233,26,75,Warning
+225,424,42,30,Warning
+624,323,34,58,Warning
+773,153,26,90,High Risk
+287,281,33,51,Warning
+132,447,27,68,Warning
+446,407,38,56,Warning
+132,149,41,76,Safe
+170,192,44,57,Safe
+860,595,27,57,Critical
+869,531,31,93,Critical
+496,504,36,34,High Risk
+104,222,26,74,Safe
+694,598,27,85,High Risk
+213,170,24,55,Safe
+774,111,43,56,High Risk
+202,536,31,89,High Risk
+820,486,41,36,Critical
+832,190,22,90,High Risk
+199,321,38,54,Safe
+562,580,36,40,High Risk
+637,434,21,95,High Risk
+281,535,42,72,High Risk
+936,561,41,60,Critical
+836,468,39,48,High Risk
+333,199,38,38,Safe
+523,528,24,91,Critical
+81,332,37,89,Warning
+56,304,25,63,Safe
+367,94,26,49,Safe
+638,578,32,68,High Risk
+702,539,28,86,Critical
+236,145,43,90,Warning
+497,109,33,73,Safe
+530,286,30,66,Warning
+504,591,43,46,Critical
+259,563,35,58,High Risk
+459,167,21,42,Safe
+137,261,44,82,Warning
+795,97,31,58,Warning
+947,80,36,95,High Risk
+318,258,35,53,Warning
+159,52,33,56,Safe
+673,265,38,59,Warning
+382,261,41,57,Warning
+548,564,32,68,High Risk
+402,570,43,95,Critical
+456,338,22,43,Warning
+304,200,33,64,Safe
+819,281,25,94,High Risk
+659,416,24,38,High Risk
+880,136,33,89,High Risk
+782,493,31,80,High Risk
+159,266,26,30,Safe
+102,125,44,92,Warning
+887,91,36,60,Warning
+983,541,32,61,Critical
+543,368,39,39,High Risk
+118,534,43,72,High Risk
+967,479,20,71,High Risk
+663,446,36,38,High Risk
+233,208,37,31,Safe
+887,175,20,82,Warning
+843,361,28,44,High Risk
+302,115,20,31,Safe
+449,531,40,46,High Risk
+713,149,41,74,Warning
+984,126,23,89,High Risk
+117,229,42,33,Warning
+687,194,34,68,Warning
+147,123,30,65,Safe
+730,93,26,69,Warning
+126,91,23,56,Safe
+537,57,25,49,Warning
+644,279,34,59,Warning
+326,307,37,46,Warning
+142,481,33,55,Warning
+926,494,39,55,High Risk
+848,453,38,58,High Risk
+956,336,41,82,High Risk
+438,240,20,54,Warning
+552,356,24,48,High Risk
+922,297,35,95,High Risk
+745,406,32,76,High Risk
+131,596,36,70,Warning
+991,507,25,64,Critical
+517,90,27,67,Warning
+665,203,25,79,Warning
+853,141,33,67,Warning
+856,88,34,39,Warning
+611,475,24,36,High Risk
+363,238,23,75,Warning
+511,142,22,46,Warning
+566,536,27,46,High Risk
+620,140,45,41,Warning
+623,151,41,47,Warning
+918,226,37,66,High Risk
+361,278,28,64,Warning
+908,435,45,83,Critical
+468,557,35,47,High Risk
+293,69,26,55,Safe
+451,547,24,55,High Risk
+464,113,23,93,Warning
+756,539,23,37,Critical
+137,540,33,56,Warning
+326,277,27,91,Warning
+596,543,42,32,Critical
+617,89,30,48,Warning
+428,525,31,93,High Risk
+841,487,43,80,Critical
+533,319,45,32,High Risk
+50,540,43,67,High Risk
+278,392,30,38,Warning
+184,76,28,95,Safe
+559,251,37,71,Warning
+251,580,27,68,High Risk
+560,274,43,69,High Risk
+938,223,36,35,High Risk
+60,273,44,57,Warning
+541,129,37,35,Warning
+724,332,22,68,Warning
+741,239,42,77,High Risk
+776,269,33,56,High Risk
+104,198,28,79,Safe
+781,401,26,38,High Risk
+324,238,41,61,Warning
+900,208,21,65,High Risk
+925,72,22,68,Warning
+480,105,34,84,Safe
+322,424,45,33,High Risk
+228,287,42,60,Warning
+796,396,21,72,High Risk
+96,377,38,45,Warning
+548,506,39,38,High Risk
+421,501,36,79,High Risk
+941,483,26,65,High Risk
+379,489,24,67,Warning
+524,262,34,42,Warning
+59,128,27,65,Safe
+211,349,24,56,Safe
+74,154,20,91,Safe
+797,249,29,46,High Risk
+436,468,28,37,Warning
+254,319,28,79,Warning
+235,180,27,76,Safe
+160,461,40,57,Warning
+119,98,42,34,Safe
+234,466,26,42,Warning
+196,400,43,80,Warning
+257,63,26,81,Safe
+497,419,21,79,Warning
+644,363,29,45,High Risk
+673,130,43,78,Warning
+552,436,38,34,High Risk
+783,94,41,36,High Risk
+648,306,26,76,Warning
+340,138,39,38,Safe
+553,202,39,58,Warning
+122,293,22,55,Safe
+886,135,36,64,Warning
+562,559,33,94,Critical
+67,242,36,36,Safe
+318,262,33,80,Warning
+563,520,37,30,High Risk
+797,108,43,51,High Risk
+387,439,33,47,Warning
+288,331,31,90,Warning
+291,585,32,33,High Risk
+758,518,33,45,Critical
+735,219,41,92,High Risk
+828,104,33,53,Warning
+710,90,39,44,Warning
+677,420,27,94,High Risk
+337,286,26,55,Warning
+945,260,22,54,High Risk
+349,69,45,43,Warning
+845,550,38,69,Critical
+756,329,22,74,High Risk
+480,214,20,30,Warning
+673,107,25,56,Warning
+339,557,25,87,High Risk
+353,416,43,32,High Risk
+243,452,32,42,Warning
+827,545,45,41,Critical
+727,241,34,71,Warning
+446,462,40,86,High Risk
+118,76,44,58,Safe
+723,121,41,86,High Risk
+988,492,20,33,High Risk
+550,335,26,59,Warning
+994,152,28,90,High Risk
+441,453,26,81,Warning
+606,172,45,55,Warning
+727,330,32,36,Warning
+875,446,45,54,Critical
+485,209,30,95,Warning
+344,84,28,92,Warning
+552,454,39,66,High Risk
+884,452,26,37,High Risk
+842,449,32,68,High Risk
+153,385,28,73,Warning
+980,109,37,64,Warning
+784,391,37,32,High Risk
+518,260,44,82,High Risk
+656,518,44,72,Critical
+809,293,34,63,High Risk
+299,563,30,77,High Risk
+866,109,38,82,Warning
+222,287,38,47,Safe
+353,509,42,94,Critical
+256,467,31,85,Warning
+463,445,25,77,Warning
+860,600,26,65,Critical
+897,133,32,41,Warning
+539,582,37,66,High Risk
+328,447,21,83,Warning
+499,409,24,75,Warning
+55,457,38,86,Warning
+582,385,26,48,High Risk
+320,236,40,95,Warning
+965,367,39,76,High Risk
+258,79,43,93,Warning
+161,589,24,52,Warning
+710,454,28,60,High Risk
+560,278,40,48,Warning
+332,547,34,45,High Risk
+536,114,34,30,Warning
+553,76,22,40,Warning
+231,331,32,85,Safe
+481,550,45,54,High Risk
+406,590,33,57,High Risk
+799,437,25,57,High Risk
+219,233,22,92,Warning
+996,388,34,50,High Risk
+352,524,36,61,High Risk
+114,435,25,51,Warning
+53,261,40,75,Safe
+670,175,35,51,Warning
+338,392,40,57,Warning
+75,210,35,56,Safe
+716,482,20,36,High Risk
+51,334,31,84,Safe
+387,521,33,56,High Risk
+100,224,37,88,Warning
+777,549,38,39,Critical
+842,336,25,82,High Risk
+897,221,34,65,High Risk
+724,163,21,72,Warning
+692,485,21,53,High Risk
+635,429,40,90,High Risk
+791,334,38,40,High Risk
+838,66,36,51,Warning
+494,508,45,79,High Risk
+330,187,28,50,Safe
+455,597,38,47,High Risk
+59,261,24,61,Safe
+172,125,28,93,Safe
+149,349,24,75,Safe
+984,75,27,34,Warning
+152,568,23,32,Warning
+786,299,28,46,High Risk
+260,144,29,81,Safe
+399,251,21,60,Warning
+483,121,20,85,Safe
+298,136,24,30,Safe
+530,491,45,34,High Risk
+604,577,20,50,High Risk
+373,574,38,79,High Risk
+479,245,32,30,Warning
+354,177,33,77,Safe
+635,215,35,71,Warning
+974,404,29,38,High Risk
+627,245,41,67,High Risk
+559,517,20,46,High Risk
+128,332,36,79,Safe
+330,365,40,95,High Risk
+361,517,35,40,High Risk
+696,96,20,60,Warning
+426,558,43,51,High Risk
+411,413,21,91,High Risk
+327,268,30,42,Warning
+925,346,36,77,High Risk
+905,330,37,88,High Risk
+57,365,22,86,Warning
+804,165,45,88,High Risk
+952,345,29,46,High Risk
+861,88,33,93,High Risk
+774,72,42,32,High Risk
+328,197,29,50,Safe
+194,549,41,80,High Risk
+372,523,23,71,High Risk
+535,414,25,31,High Risk
+883,564,42,90,Critical
+196,493,45,76,Warning
+599,533,24,86,Critical
+748,525,40,60,High Risk
+215,95,20,51,Safe
+273,244,36,94,Warning
+329,251,45,78,Warning
+130,130,21,79,Safe
+891,564,39,59,Critical
+439,567,44,60,High Risk
+463,99,40,88,Warning
+97,69,41,51,Safe
+882,174,31,55,Warning
+896,575,31,40,Critical
+234,553,24,58,Warning
+156,575,33,77,Warning
+239,403,30,90,Warning
+902,576,35,62,Critical
+463,589,39,48,High Risk
+797,368,28,43,High Risk
+260,554,21,35,High Risk
+291,163,24,77,Safe
+563,128,31,46,Warning
+143,553,42,74,High Risk
+867,600,20,81,Critical
+296,402,42,92,High Risk
+649,492,27,45,High Risk
+962,162,30,61,Warning
+282,414,34,84,Warning
+904,198,35,49,Warning
+628,433,25,76,High Risk
+257,409,29,51,Warning
+559,413,23,92,High Risk
+421,406,21,57,Warning
+194,380,24,55,Warning
+321,258,40,42,Warning
+302,55,40,57,Safe
+234,228,25,33,Safe
+169,349,26,37,Safe
+654,314,24,58,Warning
+565,235,23,53,Warning
+687,105,39,81,Warning
+417,252,37,60,Warning
+808,227,30,46,High Risk
+218,430,44,90,High Risk
+525,387,20,94,High Risk
+839,262,21,31,High Risk
+878,144,25,88,High Risk
+134,284,24,39,Safe
+342,367,45,76,High Risk
+869,415,45,48,Critical
+197,188,22,54,Safe
+601,272,24,57,Warning
+74,166,41,48,Safe
+722,68,26,72,Warning
+514,156,31,84,Warning
+529,336,26,46,Warning
+813,449,42,57,Critical
+751,507,21,95,Critical
+168,392,28,43,Warning
+283,289,26,42,Warning
+60,123,20,70,Safe
+573,204,20,84,Warning
+786,370,38,53,High Risk
+657,50,25,52,Warning
+940,362,26,70,High Risk
+97,270,43,84,Warning
+280,139,32,62,Safe
+516,341,39,93,High Risk
+840,442,32,75,High Risk
+697,98,44,45,Warning
+256,307,21,95,Warning
+844,336,30,67,High Risk
+109,322,23,52,Safe
+300,586,41,59,High Risk
+64,198,24,70,Safe
+789,394,45,54,Critical
+660,262,44,86,High Risk
+527,91,37,49,Warning
+468,192,28,81,Safe
+293,293,20,50,Warning
+77,417,37,76,Warning
+166,174,30,51,Safe
+242,585,42,79,High Risk
+148,237,30,51,Safe
+288,457,25,50,Warning
+543,329,32,91,High Risk
+189,280,34,88,Warning
+401,194,23,37,Safe
+803,213,36,38,High Risk
+785,231,27,53,High Risk
+845,202,30,62,High Risk
+347,148,22,59,Safe
+108,171,42,88,Warning
+788,236,37,49,High Risk
+556,135,43,68,Warning
+783,98,36,49,Warning
+791,118,29,94,High Risk
+990,583,39,85,Critical
+826,114,28,50,Warning
+579,472,30,82,High Risk
+719,415,45,64,High Risk
+159,567,33,67,Warning
+244,393,42,82,Warning
+605,462,26,48,High Risk
+422,324,41,85,Warning
+228,499,20,49,Warning
+351,441,43,59,High Risk
+54,408,37,45,Warning
+427,599,36,59,High Risk
+292,316,34,37,Warning
+127,594,41,83,High Risk
+591,315,22,34,Warning
+382,56,25,46,Safe
+142,479,33,81,Warning
+516,407,23,31,High Risk
+260,515,35,77,High Risk
+490,212,41,52,Warning
+92,235,33,91,Warning
+79,286,39,86,Warning
+803,241,30,64,High Risk
+274,507,44,75,High Risk
+210,192,29,72,Safe
+831,83,38,54,Warning
+456,198,32,85,Safe
+532,259,24,58,Warning
+188,120,36,79,Safe
+462,599,44,51,High Risk
+503,178,36,45,Warning
+370,258,28,33,Warning
+141,502,33,93,High Risk
+558,216,22,49,Warning
+194,115,24,82,Safe
+194,486,43,83,Warning
+911,333,26,83,High Risk
+90,382,38,59,Warning
+896,226,36,90,High Risk
+446,184,21,61,Safe
+887,118,38,67,Warning
+981,185,43,46,High Risk
+350,224,28,81,Warning
+869,206,33,76,High Risk
+236,331,35,64,Safe
+121,485,22,88,Warning
+109,76,28,67,Safe
+983,180,23,49,Warning
+858,441,43,39,Critical
+306,514,45,94,Critical
+800,227,43,34,High Risk
+806,510,21,35,Critical
+511,303,38,36,Warning
+385,189,45,50,Warning
+677,223,32,89,High Risk
+867,332,32,66,High Risk
+146,435,38,88,Warning
+152,277,22,61,Safe
+188,93,20,82,Safe
+879,156,41,73,High Risk
+62,234,41,75,Warning
+339,351,21,31,Warning
+993,507,29,44,Critical
+219,252,26,74,Safe
+986,529,34,64,Critical
+732,434,38,46,High Risk
+441,137,27,55,Safe
+601,131,32,53,Warning
+234,254,21,65,Safe
+197,554,26,41,Warning
+979,503,29,46,Critical
+857,531,43,65,Critical
+464,282,45,74,Warning
+188,526,34,93,High Risk
+604,240,28,73,Warning
+948,190,23,60,Warning
+963,142,45,64,High Risk
+302,199,20,75,Safe
+582,155,44,37,Warning
+192,487,28,67,Warning
+464,562,35,60,High Risk
+275,324,39,51,Warning
+296,191,34,76,Safe
+416,224,32,65,Warning
+80,194,45,56,Safe
+268,527,20,85,High Risk
+707,69,22,76,Warning
+524,467,33,40,High Risk
+990,398,37,59,High Risk
+351,530,40,47,High Risk
+603,313,35,80,Warning
+712,211,45,83,High Risk
+377,403,23,50,Warning
+571,96,33,37,Warning
+428,368,34,61,Warning
+421,571,42,61,High Risk
+318,550,45,43,High Risk
+759,163,44,76,High Risk
+968,323,38,49,High Risk
+246,531,41,30,High Risk
+842,562,45,88,Critical
+421,202,45,43,Warning
+505,65,39,92,Warning
+912,509,39,87,Critical
+885,207,23,59,High Risk
+377,140,25,56,Safe
+82,152,29,50,Safe
+697,297,40,79,Warning
+84,570,45,90,High Risk
+836,413,24,95,Critical
+999,394,39,94,Critical
+749,400,33,47,High Risk
+128,589,45,61,High Risk
+366,402,42,43,High Risk
+452,561,42,52,High Risk
+526,517,38,85,High Risk
+243,106,30,67,Safe
+887,461,31,60,High Risk
+190,89,44,72,Safe
+246,427,34,91,Warning
+770,491,35,78,High Risk
+777,138,33,88,High Risk
+837,521,20,63,Critical
+837,534,44,64,Critical
+613,270,32,75,Warning
+949,323,44,44,High Risk
+280,157,30,48,Safe
+639,369,37,95,High Risk
+668,131,30,80,Warning
+651,303,27,88,High Risk
+339,253,45,93,High Risk
+843,184,42,38,High Risk
+867,148,37,65,Warning
+516,531,37,41,High Risk
+139,576,27,60,Warning
+99,235,44,42,Warning
+91,51,30,90,Safe
+430,466,27,82,Warning
+814,144,27,53,Warning
+1000,54,37,43,Warning
+233,488,44,77,Warning
+418,577,44,80,High Risk
+728,240,29,80,Warning
+989,509,44,37,Critical
+97,528,38,43,Warning
+454,270,33,82,Warning
+958,378,22,73,High Risk
+373,198,28,69,Safe
+671,533,23,81,High Risk
+771,521,23,69,Critical
+721,416,35,33,High Risk
+365,109,29,65,Safe
+326,446,31,57,Warning
+101,496,40,48,Warning
+271,257,30,56,Warning
+760,344,27,60,High Risk
+424,460,25,45,Warning
+513,292,24,46,Warning
+642,218,30,39,Warning
+494,531,31,69,High Risk
+545,326,25,43,Warning
+721,243,42,92,High Risk
+596,69,29,45,Warning
+333,85,45,68,Warning
+965,407,22,31,High Risk
+110,319,25,79,Safe
+427,597,40,62,High Risk
+387,307,25,61,Warning
+233,535,21,57,Warning
+289,60,21,30,Safe
+511,219,35,33,Warning
+704,505,28,73,High Risk
+321,121,28,55,Safe
+776,78,36,40,Warning
+102,409,29,87,Warning
+644,105,20,34,Warning
+528,277,26,89,High Risk
+132,597,42,39,High Risk
+605,217,41,59,High Risk
+393,418,25,93,High Risk
+952,582,20,82,Critical
+429,453,37,82,Warning
+485,94,26,93,Warning
+148,326,32,95,Warning
+956,206,33,41,High Risk
+623,394,31,62,High Risk
+264,434,25,45,Warning
+172,224,45,77,Warning
+955,212,32,40,High Risk
+175,500,29,76,Warning
+554,520,27,57,High Risk
+151,437,26,68,Warning
+578,591,30,69,High Risk
+830,416,21,61,High Risk
+777,600,43,90,Critical
+155,386,40,84,Warning
+364,175,20,47,Safe
+913,148,45,77,High Risk
+824,240,36,67,High Risk
+995,550,32,95,Critical
+401,465,40,76,Warning
+101,289,45,71,Warning
+922,295,45,39,High Risk
+417,414,20,93,High Risk
+915,274,32,59,High Risk
+245,53,23,78,Safe
+717,61,38,47,Warning
+714,545,35,32,High Risk
+102,297,40,91,Warning
+723,517,45,59,Critical
+739,299,22,88,High Risk
+448,286,40,33,Warning
+959,492,37,93,Critical
+151,397,38,61,Warning
+86,343,30,53,Safe
+595,280,33,38,Warning
+448,495,39,31,Warning
+374,368,24,72,Warning
+416,207,42,72,Warning
+726,143,41,87,High Risk
+260,120,20,51,Safe
+111,391,33,84,Warning
+220,217,40,31,Safe
+732,369,44,61,High Risk
+910,391,25,66,High Risk
+830,119,43,92,High Risk
+558,88,29,45,Warning
+830,539,42,86,Critical
+806,139,20,30,Warning
+724,585,30,81,High Risk
+57,164,21,51,Safe
+989,396,40,88,Critical
+719,255,30,61,Warning
+178,278,25,84,Safe
+142,214,42,30,Warning
+537,353,41,37,High Risk
+573,207,22,32,Warning
+405,300,31,41,Warning
+675,389,33,36,High Risk
+547,543,26,63,High Risk
+715,144,37,82,Warning
+298,272,20,66,Warning
+334,205,23,87,Warning
+195,290,43,35,Warning
+289,408,40,60,Warning
+786,419,43,63,Critical
+587,436,44,44,High Risk
+817,277,33,83,High Risk
+653,303,40,81,Warning
+884,69,43,31,High Risk
+65,322,32,30,Safe
+555,235,31,58,Warning
+334,312,37,52,Warning
+861,525,27,55,Critical
+619,577,39,34,High Risk
+360,300,35,67,Warning
+508,85,41,43,Warning
+731,449,27,82,High Risk
+831,581,24,74,Critical
+235,131,42,60,Safe
+304,88,37,52,Safe
+199,224,22,34,Safe
+553,562,42,73,Critical
+95,137,43,84,Safe
+574,470,38,58,High Risk
+618,356,24,51,High Risk
+964,273,30,70,High Risk
+78,483,27,54,Warning
+703,172,25,54,Warning
+76,459,34,69,Warning
+643,406,33,65,High Risk
+471,275,44,55,Warning
+962,81,44,89,High Risk
+981,76,36,78,Warning
+527,527,41,30,Critical
+966,304,26,34,High Risk
+660,98,42,94,High Risk
+517,113,31,48,Warning
+71,227,41,43,Warning
+540,190,24,40,Warning
+160,442,34,33,Warning
+259,416,33,65,Warning
+775,567,38,70,Critical
+622,561,39,64,High Risk
+161,489,37,86,Warning
+428,79,44,79,Warning
+861,582,25,79,Critical
+583,552,40,70,High Risk
+83,191,32,68,Safe
+655,100,36,75,Warning
+595,215,25,47,Warning
+680,419,43,55,High Risk
+213,399,34,75,Warning
+687,199,43,92,High Risk
+782,254,26,68,High Risk
+116,440,45,77,Warning
+296,318,26,86,Warning
+865,320,41,41,High Risk
+509,547,32,71,High Risk
+598,398,44,88,Critical
+874,228,28,53,High Risk
+931,530,25,36,Critical
+237,578,22,65,Warning
+158,531,36,89,High Risk
+218,132,39,87,Safe
+758,513,42,78,Critical
+517,378,39,76,High Risk
+432,374,35,46,Warning
+950,429,24,78,High Risk
+186,574,20,70,Warning
+267,301,44,70,Warning
+390,482,32,35,Warning
+768,519,31,91,Critical
+323,530,36,67,High Risk
+252,231,30,72,Warning
+693,296,30,34,Warning
+799,278,44,91,Critical
+300,330,43,59,Warning
+881,324,26,95,High Risk
+485,466,38,81,Warning
+512,468,29,87,High Risk
+262,87,20,71,Safe
+157,503,21,44,Warning
+851,462,36,31,High Risk
+305,244,43,76,Warning
+664,130,38,78,Warning
+798,580,21,93,Critical
+383,243,37,58,Warning
+358,479,32,71,Warning
+74,64,20,92,Safe
+362,373,26,77,Warning
+298,540,25,87,High Risk
+98,589,32,35,Warning
+642,400,40,76,High Risk
+427,237,21,61,Warning
+576,454,26,58,High Risk
+120,509,26,72,Warning
+370,298,26,35,Warning
+961,499,38,91,Critical
+458,498,20,57,Warning
+531,329,43,78,High Risk
+596,425,38,36,High Risk
+75,420,31,78,Warning
+99,514,20,72,Warning
+502,470,33,32,High Risk
+720,471,38,41,High Risk
+139,270,39,33,Safe
+337,328,40,36,Warning
+379,525,34,40,High Risk
+678,131,24,52,Warning
+241,450,42,47,Warning
+435,475,36,80,Warning
+607,501,27,61,High Risk
+600,162,37,79,Warning
+414,488,40,43,Warning
+89,212,29,75,Safe
+394,549,23,32,High Risk
+550,90,32,66,Warning
+755,246,31,93,High Risk
+655,59,36,66,Warning
+618,135,24,54,Warning
+877,512,37,92,Critical
+585,595,34,30,High Risk
+927,347,44,30,High Risk
+252,412,27,74,Warning
+130,342,32,47,Safe
+220,109,22,59,Safe
+736,162,41,80,Warning
+171,246,36,36,Safe
+377,266,42,42,Warning
+375,346,29,59,Warning
+684,482,30,44,High Risk
+821,221,27,81,High Risk
+78,594,32,52,Warning
+784,161,36,30,Warning
+362,409,30,77,Warning
+108,410,42,73,Warning
+770,241,23,77,High Risk
+631,161,23,75,Warning
+361,524,45,69,High Risk
+451,486,43,81,High Risk
+396,230,22,49,Warning
+596,227,41,43,High Risk
+493,378,20,78,Warning
+919,102,43,47,High Risk
+185,370,21,85,Warning
+408,142,34,51,Safe
+225,512,41,59,High Risk
+347,138,30,62,Safe
+911,430,29,94,Critical
+192,336,22,85,Safe
+259,569,33,56,High Risk
+255,212,36,82,Warning
+693,582,28,82,High Risk
+105,125,32,67,Safe
+640,249,39,86,High Risk
+56,453,44,79,Warning
+684,309,20,91,High Risk
+145,178,36,87,Safe
+834,447,38,69,High Risk
+878,189,22,73,Warning
+558,128,40,63,Warning
+345,471,22,55,Warning
+914,331,32,55,High Risk
+575,383,20,72,High Risk
+344,186,22,69,Safe
+952,163,20,63,Warning
+924,573,40,69,Critical
+246,168,33,74,Safe
+669,514,42,95,Critical
+271,472,27,71,Warning
+881,136,21,81,Warning
+907,519,31,44,Critical
+909,119,32,36,Warning
+835,224,28,86,High Risk
+768,426,36,38,High Risk
+181,237,25,75,Safe
+173,212,30,90,Warning
+751,205,27,33,High Risk
+872,284,38,87,High Risk
+760,157,45,85,High Risk
+526,400,33,56,High Risk
+259,444,22,41,Warning
+888,220,23,61,High Risk
+575,60,29,67,Warning
+165,395,35,62,Warning
+979,361,28,38,High Risk
+988,452,23,91,Critical
+323,182,37,93,Warning
+374,474,37,76,Warning
+608,559,24,56,High Risk
+708,201,28,43,Warning
+222,282,32,64,Safe
+890,201,32,41,High Risk
+201,402,43,45,Warning
+978,447,24,88,Critical
+685,194,36,35,Warning
+930,323,26,69,High Risk
+545,453,27,55,High Risk
+454,191,22,74,Safe
+279,546,40,73,High Risk
+737,593,20,55,High Risk
+776,585,32,64,Critical
+798,342,31,54,High Risk
+415,408,44,30,High Risk
+910,117,38,81,Warning
+180,358,27,83,Warning
+127,454,34,32,Warning
+431,378,25,74,Warning
+717,233,25,46,Warning
+245,406,32,41,Warning
+428,229,43,38,Warning
+483,327,31,72,Warning
+327,351,29,32,Warning
+847,62,28,91,High Risk
+256,255,33,65,Warning
+319,122,21,43,Safe
+110,455,32,82,Warning
+222,529,43,74,High Risk
+988,494,33,62,High Risk
+240,264,24,48,Safe
+912,83,29,48,Warning
+460,426,44,95,High Risk
+669,222,31,45,Warning
+547,564,43,34,Critical
+512,226,29,52,Warning
+577,78,21,72,Warning
+82,254,32,50,Safe
+508,182,37,95,Warning
+143,483,41,76,Warning
+373,452,40,39,Warning
+810,519,34,71,Critical
+536,184,34,61,Warning
+396,177,23,71,Safe
+289,184,43,86,Warning
+148,517,37,45,Warning
+729,449,30,88,High Risk
+120,143,37,33,Safe
+490,63,20,34,Safe
+517,480,44,76,High Risk
+472,539,40,75,High Risk
+482,434,27,58,Warning
+546,285,42,62,High Risk
+929,513,31,84,Critical
+495,566,36,60,High Risk
+458,558,35,92,High Risk
+876,568,37,83,Critical
+197,496,29,53,Warning
+625,349,28,74,Warning
+860,53,39,57,Warning
+218,147,35,59,Safe
+614,107,26,60,Warning
+771,421,43,32,Critical
+791,311,37,64,High Risk
+802,111,34,61,Warning
+207,460,29,91,Warning
+403,520,26,71,High Risk
+262,107,25,33,Safe
+166,580,45,53,High Risk
+300,386,33,33,Warning
+992,539,44,47,Critical
+858,417,27,35,High Risk
+753,276,27,53,High Risk
+51,570,24,67,Warning
+161,166,33,31,Safe
+82,328,28,85,Safe
+264,105,35,34,Safe
+915,452,23,50,High Risk
+303,417,36,63,Warning
+988,143,22,30,Warning
+643,51,44,95,High Risk
+984,577,36,42,Critical
+594,593,32,51,High Risk
+84,368,31,86,Warning
+602,496,37,38,High Risk
+185,115,20,54,Safe
+461,169,38,31,Safe
+832,499,37,55,High Risk
+693,308,31,66,Warning
+928,410,36,65,High Risk
+457,315,43,89,High Risk
+885,132,39,82,Warning
+102,573,44,73,High Risk
+198,60,40,70,Safe
+289,261,37,80,Warning
+89,415,31,42,Warning
+499,151,44,56,Warning
+214,596,37,82,Warning
+491,102,43,48,Warning
+810,138,24,88,High Risk
+96,279,30,60,Safe
+414,196,40,60,Safe
+492,346,45,64,Warning
+316,82,24,36,Safe
+899,457,28,78,High Risk
+870,181,35,77,Warning
+498,350,20,54,Warning
+273,506,30,63,High Risk
+212,571,20,58,Warning
+471,231,25,53,Warning
+234,158,25,47,Safe
+684,411,36,46,High Risk
+981,230,45,71,High Risk
+216,439,42,40,Warning
+758,177,33,61,Warning
+290,535,27,69,High Risk
+513,296,37,52,Warning
+983,430,25,61,High Risk
+533,441,23,51,High Risk
+385,269,33,31,Warning
+425,507,27,71,High Risk
+291,403,25,83,Warning
+161,479,38,35,Warning
+814,598,28,38,Critical
+702,96,43,30,Warning
+866,501,20,87,Critical
+464,126,31,83,Safe
+653,120,41,44,Warning
+613,255,29,92,High Risk
+742,238,45,88,High Risk
+173,573,21,42,Warning
+488,205,45,67,Warning
+675,521,27,58,High Risk
+511,432,43,32,High Risk
+568,317,42,32,High Risk
+427,522,43,87,Critical
+597,329,38,67,Warning
+421,236,25,84,Warning
+796,84,35,87,High Risk
+585,532,39,80,High Risk
+373,537,32,91,High Risk
+237,459,44,37,Warning
+407,276,45,91,High Risk
+895,167,27,64,Warning
+247,131,31,89,Safe
+702,254,20,94,High Risk
+605,425,21,55,High Risk
+666,94,39,44,Warning
+713,100,24,60,Warning
+548,382,42,82,High Risk
+987,439,42,42,Critical
+369,327,31,69,Warning
+579,117,40,77,Warning
+258,51,38,69,Safe
+769,211,35,78,High Risk
+577,136,23,52,Warning
+782,393,21,58,High Risk
+224,147,28,63,Safe
+78,167,27,88,Safe
+523,333,24,59,Warning
+147,448,34,61,Warning
+305,51,43,69,Warning
+868,517,38,87,Critical
+527,107,20,75,Warning
+668,463,39,38,High Risk
+896,80,23,38,Warning
+405,369,39,86,High Risk
+479,551,39,61,High Risk
+807,158,30,78,Warning
+629,498,20,49,High Risk
+171,552,21,69,Warning
+400,125,34,41,Safe
+862,438,21,49,High Risk
+791,295,44,55,High Risk
+293,112,41,54,Warning
+621,189,34,78,Warning
+619,359,20,55,High Risk
+649,438,26,59,High Risk
+412,227,43,57,Warning
+578,113,21,47,Warning
+950,186,23,87,High Risk
+356,444,44,68,High Risk
+308,50,20,46,Safe
+440,471,22,31,Warning
+876,192,32,40,Warning
+583,289,27,65,Warning
+261,367,27,40,Warning
+317,486,41,64,High Risk
+792,518,32,48,Critical
+942,415,30,63,High Risk
+998,539,29,48,Critical
+104,497,21,52,Warning
+796,569,22,45,Critical
+151,77,43,33,Safe
+386,86,34,50,Safe
+586,184,38,84,Warning
+929,526,28,83,Critical
+64,575,32,47,Warning
+665,319,35,51,Warning
+308,220,44,73,Warning
+692,66,42,76,Warning
+840,118,36,45,Warning
+763,282,45,90,Critical
+272,500,33,33,Warning
+511,50,30,48,Warning
+572,210,26,51,Warning
+780,363,25,68,High Risk
+848,466,43,77,Critical
+337,488,30,32,Warning
+134,219,45,68,Warning
+332,138,39,89,Warning
+943,375,23,93,Critical
+355,273,32,63,Warning
+170,219,45,33,Warning
+857,574,31,67,Critical
+836,109,27,95,High Risk
+143,67,25,79,Safe
+163,169,30,58,Safe
+699,567,34,67,High Risk
+478,204,26,83,Warning
+427,297,43,72,Warning
+637,163,24,73,Warning
+68,486,23,53,Warning
+292,196,40,77,Safe
+800,490,20,47,High Risk
+963,482,21,45,High Risk
+538,135,42,92,High Risk
+112,208,40,95,Warning
+887,162,43,74,High Risk
+226,141,45,62,Safe
+344,570,42,66,High Risk
+803,258,23,45,High Risk
+409,153,24,33,Safe
+832,554,38,93,Critical
+313,199,44,91,Warning
+794,496,23,84,High Risk
+620,436,41,61,High Risk
+801,166,39,77,Warning
+645,401,39,89,High Risk
+847,146,38,83,Warning
+535,420,39,34,High Risk
+946,142,22,94,High Risk
+119,571,25,94,High Risk
+817,395,28,85,High Risk
+830,279,28,87,High Risk
+674,356,42,85,High Risk
+318,192,26,80,Safe
+593,549,40,42,High Risk
+309,568,36,66,High Risk
+231,142,38,38,Safe
+494,66,33,38,Safe
+886,519,21,39,Critical
+292,523,39,47,High Risk
+162,266,39,83,Safe
+481,498,23,59,Warning
+979,81,36,79,Warning
+551,377,27,56,High Risk
+907,85,31,54,Warning
+432,392,23,64,Warning
+458,354,27,89,High Risk
+314,549,41,91,Critical
+154,74,45,47,Safe
+434,123,28,84,Safe
+544,172,31,60,Warning
+351,97,44,37,Warning
+496,235,45,50,Warning
+212,65,25,94,Safe
+993,83,26,83,Warning
+830,280,25,40,High Risk
+186,417,33,54,Warning
+563,370,23,43,High Risk
+400,300,21,84,Warning
+176,365,36,58,Warning
+838,208,29,73,High Risk
+390,340,30,72,Warning
+62,431,31,41,Warning
+111,444,21,41,Warning
+707,196,33,83,Warning
+249,104,36,80,Safe
+145,301,34,77,Safe
+818,219,42,57,High Risk
+358,553,34,37,High Risk
+633,280,35,71,Warning
+84,278,43,61,Warning
+444,74,42,59,Warning
+582,589,33,81,High Risk
+599,261,24,83,Warning
+559,134,36,76,Warning
+312,146,28,53,Safe
+655,437,36,46,High Risk
+479,273,40,30,Warning
+390,385,30,72,Warning
+714,118,44,54,Warning
+831,474,39,37,High Risk
+969,78,21,84,Warning
+76,370,37,79,Warning
+886,52,32,75,Warning
+933,563,45,64,Critical
+806,418,21,37,High Risk
+820,500,34,85,High Risk
+788,593,42,52,Critical
+663,185,45,72,Warning
+284,509,22,92,High Risk
+469,94,41,32,Warning
+651,247,28,91,High Risk
+432,498,39,93,High Risk
+868,416,33,72,High Risk
+951,510,41,87,Critical
+899,313,22,66,High Risk
+481,485,36,30,Warning
+560,436,34,84,High Risk
+606,576,45,56,Critical
+632,527,25,73,High Risk
+392,94,21,40,Safe
+799,320,26,95,High Risk
+79,106,29,45,Safe
+288,413,33,35,Warning
+228,401,34,59,Warning
+691,359,37,95,High Risk
+997,337,32,40,High Risk
+646,273,24,31,Warning
+770,90,45,36,High Risk
+990,362,27,93,Critical
+517,181,24,44,Warning
+900,543,33,56,Critical
+831,240,44,63,High Risk
+659,535,24,37,High Risk
+697,361,26,85,High Risk
+118,519,45,56,High Risk
+451,477,28,94,High Risk
+200,399,39,52,Warning
+462,314,33,75,Warning
+426,269,43,44,Warning
+655,129,42,81,Warning
+456,459,39,65,Warning
+359,269,28,61,Warning
+994,463,26,65,High Risk
+628,151,30,52,Warning
+149,459,37,71,Warning
+765,494,34,93,Critical
+840,429,21,93,Critical
+972,345,40,82,High Risk
+317,556,31,78,High Risk
+635,100,22,84,Warning
+654,266,41,93,High Risk
+358,424,33,58,Warning
+269,121,30,75,Safe
+283,347,43,83,Warning
+441,502,34,81,High Risk
+699,478,36,55,High Risk
+719,152,31,32,Warning
+281,114,25,73,Safe
+969,304,33,65,High Risk
+222,565,23,79,Warning
+442,246,36,36,Warning
+783,87,45,77,High Risk
+260,448,40,58,Warning
+53,510,41,81,High Risk
+214,312,28,95,Warning
+503,171,43,88,High Risk
+347,135,24,51,Safe
+878,99,24,63,Warning
+326,169,32,62,Safe
+345,525,36,57,High Risk
+175,219,33,92,Warning
+771,422,33,71,High Risk
+511,466,34,30,High Risk
+404,383,44,65,High Risk
+297,128,30,83,Safe
+252,507,24,54,High Risk
+983,90,32,76,Warning
+707,215,30,59,Warning
+308,415,38,56,Warning
+975,63,27,81,Warning
+439,96,38,63,Safe
+905,559,36,80,Critical
+900,345,39,68,High Risk
+504,109,42,39,Warning
+795,309,31,84,High Risk
+824,561,20,47,Critical
+929,358,28,42,High Risk
+653,580,27,36,High Risk
+120,539,34,58,Warning
+855,422,34,67,High Risk
+88,537,39,61,Warning
+913,525,37,94,Critical
+212,247,34,86,Warning
+957,407,26,95,Critical
+254,400,29,47,Warning
+664,110,43,74,Warning
+587,228,40,78,Warning
+112,220,31,85,Safe
+559,163,37,80,Warning
+323,429,44,91,High Risk
+120,588,30,55,Warning
+242,91,44,33,Safe
+771,344,31,56,High Risk
+267,525,34,78,High Risk
+868,501,37,71,Critical
+550,308,40,38,Warning
+292,417,20,50,Warning
+458,475,42,71,High Risk
+175,139,40,31,Safe
+793,221,34,57,High Risk
+848,258,45,31,High Risk
+631,194,34,82,Warning
+898,65,27,65,Warning
+405,52,36,45,Safe
+741,133,36,35,Warning
+486,124,30,67,Safe
+85,283,38,63,Safe
+948,367,31,49,High Risk
+111,151,32,66,Safe
+945,395,33,52,High Risk
+383,52,24,35,Safe
+844,229,33,51,High Risk
+228,301,28,61,Safe
+711,281,31,89,High Risk
+137,202,37,49,Safe
+136,174,21,54,Safe
+449,544,42,94,Critical
+165,521,45,79,High Risk
+292,257,39,40,Warning
+927,230,22,43,High Risk
+594,389,23,91,High Risk
+813,280,35,33,High Risk
+603,486,26,64,High Risk
+533,176,42,51,Warning
+666,58,42,44,Warning
+637,595,30,36,High Risk
+58,228,25,37,Safe
+186,466,20,59,Warning
+651,66,30,36,Warning
+835,584,26,61,Critical
+876,420,42,52,Critical
+601,520,29,73,High Risk
+449,57,45,82,Warning
+896,526,34,66,Critical
+241,171,30,63,Safe
+298,425,30,64,Warning
+343,385,40,63,Warning
+244,295,33,85,Safe
+902,117,39,72,Warning
+546,472,26,52,High Risk
+875,335,39,75,High Risk
+641,339,45,83,High Risk
+141,260,23,56,Safe
+77,69,26,41,Safe
+599,110,39,90,Warning
+511,271,44,54,High Risk
+449,309,43,71,Warning
+115,468,32,46,Warning
+71,76,35,47,Safe
+305,118,42,78,Warning
+524,556,31,64,High Risk
+647,305,33,62,Warning
+699,471,37,82,High Risk
+866,430,29,59,High Risk
+917,235,26,81,High Risk
+763,127,40,91,High Risk
+550,533,42,69,Critical
+873,229,21,48,High Risk
+257,529,45,32,High Risk
+900,245,34,61,High Risk
+360,90,22,52,Safe
+792,209,44,90,Critical
+431,220,40,45,Warning
+952,220,39,79,High Risk
+257,474,45,34,High Risk
+989,399,34,51,High Risk
+389,568,40,93,High Risk
+351,131,43,30,Warning
+861,527,41,57,Critical
+623,329,42,42,High Risk
+347,557,36,49,High Risk
+635,590,35,47,High Risk
+198,499,26,95,Warning
+186,73,40,59,Safe
+835,244,28,82,High Risk
+195,171,43,92,Warning
+239,428,38,90,Warning
+612,394,40,70,High Risk
+289,76,39,88,Warning
+970,337,44,63,High Risk
+249,309,29,78,Safe
+861,259,23,86,High Risk
+345,277,34,41,Warning
+460,502,41,90,Critical
+272,83,42,31,Warning
+632,484,26,92,High Risk
+386,555,21,42,High Risk
+347,62,27,50,Safe
+470,523,35,62,High Risk
+173,219,30,82,Safe
+325,569,44,44,High Risk
+502,562,31,76,High Risk
+506,435,32,86,High Risk
+455,211,25,57,Warning
+167,121,20,90,Safe
+879,440,43,80,Critical
+604,524,40,37,High Risk
+494,432,42,48,High Risk
+619,200,25,72,Warning
+797,534,34,52,Critical
+934,447,23,71,High Risk
+589,183,20,87,Warning
+799,383,43,40,Critical
+321,81,39,42,Safe
+456,524,37,74,High Risk
+939,486,38,62,High Risk
+587,133,21,67,Warning
+136,565,42,63,High Risk
+702,387,37,43,High Risk
+912,149,32,53,Warning
+449,512,21,82,High Risk
+370,282,28,49,Warning
+628,138,30,60,Warning
+284,305,24,51,Warning
+730,54,25,52,Warning
+74,408,22,70,Warning
+128,58,32,60,Safe
+83,436,31,34,Warning
+671,559,41,59,Critical
+550,288,27,38,Warning
+729,204,26,84,Warning
+192,66,43,95,Warning
+207,494,22,74,Warning
+251,538,42,35,High Risk
+797,472,35,86,Critical
+864,184,29,77,Warning
+767,221,35,30,High Risk
+127,406,27,93,Warning
+482,570,40,79,High Risk
+840,300,40,66,High Risk
+433,318,40,91,Warning
+841,448,24,58,High Risk
+97,265,31,68,Safe
+528,390,31,33,High Risk
+787,93,26,48,Warning
+362,433,45,83,High Risk
+827,530,20,71,Critical
+683,538,27,84,High Risk
+535,436,35,43,High Risk
+126,382,33,77,Warning
+583,132,24,45,Warning
+90,527,29,60,Warning
+335,147,33,88,Warning
+949,234,26,60,High Risk
+635,528,23,39,High Risk
+992,73,35,46,Warning
+675,363,36,41,High Risk
+783,242,20,83,High Risk
+181,286,20,70,Safe
+272,64,38,81,Safe
+204,595,30,61,Warning
+618,129,44,67,Warning
+737,70,28,47,Warning
+900,363,27,46,High Risk
+77,322,34,73,Safe
+357,347,35,59,Warning
+490,345,20,41,Warning
+113,499,42,59,Warning
+468,472,41,81,High Risk
+955,552,33,52,Critical
+609,425,45,67,High Risk
+279,475,40,41,Warning
+888,299,33,67,High Risk
+564,115,32,41,Warning
+244,582,39,52,Warning
+466,270,41,68,Warning
+565,84,27,65,Warning
+315,276,31,52,Warning
+531,579,20,83,High Risk
+919,52,22,30,Warning
+77,596,36,79,Warning
+640,346,44,39,High Risk
+642,575,38,61,High Risk
+726,132,32,76,Warning
+630,203,36,52,Warning
+237,119,32,81,Safe
+992,413,35,67,High Risk
+349,346,40,71,Warning
+136,310,36,88,Warning
+100,171,40,93,Safe
+522,477,21,78,High Risk
+662,387,27,73,High Risk
+597,438,32,54,High Risk
+544,488,22,60,High Risk
+472,255,38,55,Warning
+699,498,22,84,High Risk
+385,324,21,86,Warning
+985,454,38,59,High Risk
+62,522,39,31,Warning
+67,371,34,65,Warning
+763,349,21,64,High Risk
+754,163,24,63,Warning
+408,532,39,80,High Risk
+514,172,40,38,Warning
+980,297,44,78,High Risk
+172,562,26,83,Warning
+69,94,23,91,Safe
+318,441,29,73,Warning
+768,529,43,44,Critical
+152,75,42,68,Safe
+191,514,31,31,Warning
+550,388,23,71,High Risk
+667,163,39,36,Warning
+248,70,21,34,Safe
+608,493,43,93,Critical
+668,568,42,88,Critical
+970,471,23,49,High Risk
+992,238,29,73,High Risk
+467,276,23,76,Warning
+437,552,26,41,High Risk
+632,234,25,53,Warning
+680,275,23,31,Warning
+804,85,25,69,Warning
+861,594,32,35,Critical
+513,471,35,81,High Risk
+137,161,33,95,Safe
+188,219,29,47,Safe
+285,161,40,54,Safe
+242,416,42,63,Warning
+363,538,31,60,High Risk
+961,313,30,53,High Risk
+996,179,35,63,Warning
+201,561,39,33,Warning
+976,84,42,87,High Risk
+82,113,37,41,Safe
+900,81,44,50,High Risk
+477,343,20,51,Warning
+336,277,36,60,Warning
+289,375,29,63,Warning
+477,370,25,41,Warning
+884,487,30,93,Critical
+968,452,27,52,High Risk
+152,361,39,77,Warning
+946,235,26,37,High Risk
+284,104,21,80,Safe
+800,391,39,37,High Risk
+850,589,34,31,Critical
+993,418,44,48,Critical
+773,340,40,44,High Risk
+995,432,44,65,Critical
+453,379,39,85,Warning
+496,504,36,33,High Risk
+938,520,22,73,Critical
+537,542,35,70,High Risk
+100,78,45,74,Safe
+721,525,38,87,Critical
+529,531,42,33,Critical
+118,283,33,65,Safe
+718,565,34,42,High Risk
+517,319,42,52,High Risk
+929,371,23,84,High Risk
+371,323,32,90,Warning
+463,585,35,71,High Risk
+290,386,43,43,High Risk
+626,371,36,39,High Risk
+650,552,37,69,High Risk
+524,189,33,51,Warning
+940,301,32,78,High Risk
+937,254,34,83,High Risk
+624,110,33,58,Warning
+571,157,28,65,Warning
+978,92,43,75,High Risk
+411,420,32,75,Warning
+306,293,37,37,Warning
+877,413,42,65,Critical
+604,191,29,78,Warning
+873,585,44,90,Critical
+885,153,38,89,High Risk
+994,291,20,38,High Risk
+678,290,45,62,High Risk
+264,302,41,52,Warning
+353,589,26,49,High Risk
+753,490,38,86,Critical
+647,284,21,47,Warning
+632,325,39,90,High Risk
+681,529,44,90,Critical
+449,478,33,52,Warning
+293,458,25,52,Warning
+857,259,42,91,Critical
+170,214,24,80,Safe
+153,161,28,54,Safe
+818,263,36,85,High Risk
+349,497,25,75,Warning
+302,536,33,80,High Risk
+78,419,38,92,Warning
+703,78,43,65,Warning
+717,462,32,58,High Risk
+249,339,35,39,Safe
+708,552,22,49,High Risk
+325,452,36,30,Warning
+588,452,44,33,High Risk
+365,507,20,87,High Risk
+115,557,38,39,Warning
+830,292,41,76,High Risk
+407,585,22,80,High Risk
+406,499,26,65,Warning
+454,364,44,49,High Risk
+799,332,32,95,High Risk
+627,124,27,53,Warning
+450,226,40,56,Warning
+132,118,36,51,Safe
+977,501,37,59,Critical
+932,569,30,32,Critical
+785,122,23,38,Warning
+726,323,26,56,Warning
+904,213,43,60,High Risk
+619,486,30,84,High Risk
+542,538,36,56,High Risk
+431,60,21,86,Warning
+591,159,29,38,Warning
+84,236,35,43,Safe
+232,236,30,52,Safe
+191,552,40,78,Warning
+127,544,23,38,Warning
+863,600,20,77,Critical
+329,469,35,92,High Risk
+592,457,28,41,High Risk
+237,588,41,80,High Risk
+664,146,41,42,Warning
+809,574,29,48,Critical
+235,391,25,79,Warning
+90,63,20,65,Safe
+901,437,20,68,High Risk
+582,419,26,40,High Risk
+998,113,23,33,Warning
+110,482,40,85,Warning
+486,149,32,52,Safe
+884,389,44,53,Critical
+220,101,20,94,Safe
+527,508,33,53,High Risk
+276,423,29,55,Warning
+766,460,25,41,High Risk
+911,467,43,62,Critical
+89,402,24,33,Warning
+502,501,33,69,High Risk
+997,566,20,65,Critical
+693,198,35,78,Warning
+427,373,37,75,Warning
+130,452,21,59,Warning
+92,595,20,51,Warning
+80,160,40,77,Safe
+820,196,37,42,Warning
+711,288,43,85,High Risk
+862,232,36,64,High Risk
+267,499,35,61,Warning
+646,315,26,55,Warning
+727,340,42,35,High Risk
+204,451,36,35,Warning
+97,76,31,38,Safe
+83,556,33,47,Warning
+713,589,39,52,High Risk
+585,309,26,34,Warning
+99,359,22,48,Warning
+56,375,26,58,Warning
+192,410,36,89,Warning
+153,524,33,32,Warning
+561,189,24,63,Warning
+375,500,21,88,High Risk
+658,81,24,46,Warning
+388,528,42,69,High Risk
+287,423,45,47,High Risk
+895,131,35,77,Warning
+834,343,25,80,High Risk
+369,529,42,70,High Risk
+261,509,34,71,High Risk
+324,469,20,89,High Risk
+388,450,40,84,Warning
+693,315,36,52,Warning
+663,210,43,88,High Risk
+170,191,34,34,Safe
+65,239,36,73,Safe
+983,395,31,63,High Risk
+524,315,25,82,Warning
+621,90,28,64,Warning
+483,175,41,91,Warning
+662,343,33,73,Warning
+397,374,40,94,High Risk
+735,238,40,84,Warning
+348,176,35,93,Warning
+842,229,22,72,High Risk
+271,372,43,77,High Risk
+197,487,25,94,Warning
+848,273,35,89,High Risk
+889,256,25,86,High Risk
+680,409,45,63,High Risk
+589,342,33,47,Warning
+593,142,44,31,Warning
+254,352,31,59,Warning
+71,457,30,35,Warning
+409,541,42,49,High Risk
+316,388,39,62,Warning
+883,119,20,73,Warning
+827,123,20,90,High Risk
+569,345,31,31,Warning
+960,167,29,62,Warning
+824,140,34,70,Warning
+837,273,29,62,High Risk
+404,582,36,30,High Risk
+344,376,34,56,Warning
+695,373,32,92,High Risk
+407,91,34,64,Safe
+343,552,40,35,High Risk
+861,187,23,53,Warning
+759,561,40,94,Critical
+783,527,26,86,Critical
+145,286,23,89,Warning
+802,316,28,66,High Risk
+345,562,26,77,High Risk
+87,588,26,87,High Risk
+913,387,25,57,High Risk
+79,411,29,78,Warning
+500,441,27,76,Warning
+701,154,26,38,Warning
+966,284,36,92,High Risk
+653,174,25,76,Warning
+859,408,35,64,High Risk
+597,154,26,57,Warning
+552,128,39,32,Warning
+424,248,20,80,Warning
+317,265,40,64,Warning
+872,464,31,89,Critical
+386,339,39,40,Warning
+307,483,38,61,Warning
+78,99,28,62,Safe
+769,204,39,95,High Risk
+987,156,36,45,Warning
+780,406,26,76,High Risk
+660,365,32,63,High Risk
+987,198,45,69,High Risk
+912,549,22,86,Critical
+532,517,33,48,High Risk
+808,293,27,87,High Risk
+299,460,33,38,Warning
+942,407,45,57,Critical
+319,399,26,38,Warning
+471,245,28,95,Warning
+615,328,24,38,Warning
+630,501,28,66,High Risk
+979,540,41,90,Critical
+717,367,21,31,High Risk
+968,79,44,49,High Risk
+556,430,25,62,High Risk
+956,540,36,90,Critical
+157,469,43,34,Warning
+188,403,44,49,Warning
+601,72,24,47,Warning
+236,369,41,59,Warning
+446,120,35,92,Warning
+189,188,35,53,Safe
+254,82,35,63,Safe
+479,170,33,53,Safe
+276,553,21,42,High Risk
+913,131,35,58,Warning
+592,254,43,95,High Risk
+914,437,26,67,High Risk
+117,393,40,51,Warning
+562,351,34,70,High Risk
+894,116,37,78,Warning
+584,212,22,33,Warning
+567,460,32,75,High Risk
+416,516,34,56,High Risk
+232,106,28,67,Safe
+726,244,41,71,High Risk
+517,484,40,30,High Risk
+956,62,29,86,High Risk
+501,543,26,75,High Risk
+424,407,30,55,Warning
+180,211,30,34,Safe
+291,209,26,75,Warning
+882,197,24,33,Warning
+673,579,24,84,High Risk
+145,454,41,41,Warning
+483,436,21,84,Warning
+385,225,36,42,Warning
+501,546,22,67,High Risk
+999,310,25,64,High Risk
+901,226,26,36,High Risk
+228,539,44,30,High Risk
+567,208,34,62,Warning
+314,125,37,65,Safe
+511,458,38,49,High Risk
+234,535,39,35,Warning
+969,502,33,50,Critical
+842,375,38,61,High Risk
+658,508,44,82,Critical
+572,428,34,92,High Risk
+667,163,44,32,Warning
+686,247,35,93,High Risk
+547,537,43,88,Critical
+543,285,37,30,Warning
+91,50,26,76,Safe
+735,223,27,57,Warning
+95,267,33,42,Safe
+499,412,25,92,High Risk
+240,306,20,67,Safe
+907,242,33,80,High Risk
+409,482,33,85,Warning
+228,284,38,87,Warning
+916,172,34,79,Warning
+551,456,28,72,High Risk
+979,58,25,79,Warning
+626,407,31,68,High Risk
+217,168,27,73,Safe
+479,486,31,93,High Risk
+433,591,43,38,High Risk
+97,286,25,95,Warning
+797,350,26,64,High Risk
+845,509,38,68,Critical
+382,165,34,91,Warning
+369,268,20,72,Warning
+310,220,24,53,Warning
+816,413,27,35,High Risk
+935,445,39,85,High Risk
+640,452,21,90,High Risk
+271,408,36,42,Warning
+213,299,40,86,Warning
+528,118,31,41,Warning
+461,420,24,34,Warning
+836,268,30,81,High Risk
+753,116,41,74,High Risk
+709,240,26,48,Warning
+357,130,30,67,Safe
+653,427,27,34,High Risk
+389,514,38,61,High Risk
+83,93,27,58,Safe
+894,374,30,75,High Risk
+431,450,22,71,Warning
+974,102,35,77,Warning
+560,91,44,48,Warning
+662,200,20,50,Warning
+928,256,28,32,High Risk
+453,577,25,70,High Risk
+65,582,37,89,High Risk
+763,225,27,76,High Risk
+510,243,44,49,High Risk
+959,56,43,81,High Risk
+696,290,21,33,Warning
+659,232,37,35,Warning
+917,164,21,36,Warning
+358,331,26,41,Warning
+148,116,20,52,Safe
+330,492,30,71,Warning
+790,598,21,48,Critical
+159,158,22,77,Safe
+543,516,28,58,High Risk
+971,345,20,60,High Risk
+525,352,30,30,High Risk
+205,320,20,94,Warning
+120,507,43,61,High Risk
+181,587,33,49,Warning
+494,237,45,87,High Risk
+573,189,38,85,Warning
+950,75,37,74,Warning
+159,52,29,54,Safe
+453,517,32,67,High Risk
+903,297,20,41,High Risk
+967,375,24,74,High Risk
+743,574,31,74,High Risk
+253,470,33,88,High Risk
+409,143,40,65,Safe
+366,184,39,95,Warning
+655,269,26,59,Warning
+630,301,21,58,Warning
+949,534,36,71,Critical
+645,432,29,41,High Risk
+122,333,22,65,Safe
+376,395,23,30,Warning
+117,519,31,43,Warning
+110,72,24,83,Safe
+549,508,39,68,High Risk
+828,171,21,66,Warning
+384,106,26,84,Safe
+710,363,21,70,High Risk
+676,577,29,87,Critical
+60,544,24,91,High Risk
+386,294,21,67,Warning
+108,292,45,41,Warning
+329,389,23,56,Warning
+244,401,45,34,Warning
+566,452,21,51,High Risk
+927,516,20,80,Critical
+305,159,42,45,Warning
+430,553,26,95,High Risk
+846,337,38,37,High Risk
+332,457,20,72,Warning
+852,168,39,90,High Risk
+922,510,30,34,Critical
+801,202,21,71,High Risk
+497,164,44,75,Warning
+626,439,25,95,High Risk
+155,312,34,69,Safe
+791,566,31,43,Critical
+651,384,24,52,High Risk
+285,257,30,77,Warning
+81,110,29,67,Safe
+657,260,38,83,Warning
+838,95,40,72,Warning
+922,212,44,56,High Risk
+804,440,33,77,High Risk
+108,123,39,48,Safe
+448,419,43,74,High Risk
+530,492,40,30,High Risk
+753,317,44,61,High Risk
+133,342,32,62,Safe
+779,504,27,41,Critical
+783,510,37,38,Critical
+401,81,26,51,Safe
+215,415,33,73,Warning
+224,329,35,69,Safe
+234,154,30,61,Safe
+929,199,26,30,Warning
+52,485,41,34,Warning
+704,384,34,58,High Risk
+149,451,20,88,Warning
+78,425,25,58,Warning
+181,460,36,62,Warning
+775,466,31,53,High Risk
+128,70,26,78,Safe
+766,134,30,82,Warning
+703,394,26,94,High Risk
+283,522,22,55,High Risk
+904,319,45,85,High Risk
+540,367,42,60,High Risk
+691,591,43,43,Critical
+50,96,44,47,Safe
+965,306,20,92,High Risk
+465,459,35,48,Warning
+769,207,35,82,High Risk
+285,409,24,54,Warning
+95,85,24,94,Safe
+116,555,37,79,Warning
+698,382,31,91,High Risk
+524,183,41,37,Warning
+938,321,24,48,High Risk
+222,545,29,74,Warning
+706,335,30,56,Warning
+389,52,33,47,Safe
+137,200,25,30,Safe
+749,125,27,40,Warning
+641,386,44,49,High Risk
+858,222,24,37,High Risk
+495,394,24,83,Warning
+251,482,42,75,High Risk
+529,458,31,33,High Risk
+910,284,31,86,High Risk
+745,246,24,59,Warning
+586,90,37,71,Warning
+164,462,20,53,Warning
+319,563,32,47,High Risk
+591,382,34,52,High Risk
+689,421,34,67,High Risk
+169,548,43,36,High Risk
+724,427,25,60,High Risk
+111,63,21,32,Safe
+82,317,25,64,Safe
+236,531,31,55,Warning
+245,540,25,46,Warning
+457,271,21,64,Warning
+129,569,43,62,High Risk
+135,176,33,86,Safe
+742,192,22,33,Warning
+347,53,30,91,Warning
+440,212,26,60,Warning
+251,324,28,56,Warning
+290,141,37,68,Safe
+150,262,40,69,Safe
+724,578,24,57,High Risk
+545,451,38,39,High Risk
+302,188,24,51,Safe
+952,523,35,65,Critical
+390,175,23,78,Safe
+978,307,28,82,High Risk
+135,420,44,55,Warning
+437,422,30,94,High Risk
+710,233,37,80,Warning
+789,511,44,40,Critical
+341,151,21,55,Safe
+836,150,25,82,Warning
+510,58,21,87,Warning
+211,447,36,39,Warning
+129,407,29,67,Warning
+820,439,44,81,Critical
+330,314,43,61,Warning
+622,285,29,58,Warning
+381,512,23,74,High Risk
+211,166,41,87,Warning
+142,439,43,38,Warning
+282,465,34,53,Warning
+160,201,30,87,Warning
+607,474,37,73,High Risk
+179,385,25,92,Warning
+238,282,44,76,Warning
+412,479,32,75,Warning
+948,361,43,50,Critical
+525,469,31,41,High Risk
+531,328,40,83,Warning
+115,491,40,40,Warning
+259,64,26,46,Safe
+408,491,43,52,High Risk
+817,361,40,42,High Risk
+124,261,27,57,Safe
+328,165,20,80,Safe
+148,275,27,86,Warning
+778,384,21,48,High Risk
+401,295,37,87,Warning
+955,497,44,58,Critical
+188,71,23,53,Safe
+486,304,37,81,Warning
+455,116,29,85,Safe
+818,280,44,77,High Risk
+445,588,33,60,High Risk
+482,514,26,34,High Risk
+52,363,27,51,Warning
+152,184,45,88,Warning
+514,371,44,31,High Risk
+903,543,22,74,Critical
+674,518,24,51,High Risk
+993,89,43,74,High Risk
+533,185,25,91,Warning
+439,412,45,69,High Risk
+526,162,41,55,Warning
+376,72,35,71,Safe
+465,419,34,90,High Risk
+67,285,30,58,Safe
+195,255,28,51,Safe
+216,531,28,54,Warning
+752,600,40,69,Critical
+125,252,22,78,Safe
+493,214,24,54,Warning
+159,55,42,87,Warning
+896,234,39,74,High Risk
+113,243,35,36,Safe
+871,348,20,36,High Risk
+251,290,30,48,Warning
+517,167,26,40,Warning
+720,485,31,56,High Risk
+854,118,22,57,Warning
+338,342,36,34,Warning
+842,482,23,90,Critical
+78,448,36,85,Warning
+117,356,37,38,Warning
+704,486,42,69,High Risk
+793,297,44,51,High Risk
+923,304,41,85,High Risk
+413,267,33,67,Warning
+833,562,33,95,Critical
+226,398,30,65,Warning
+171,92,36,30,Safe
+894,454,21,80,High Risk
+671,339,31,63,Warning
+687,102,28,88,Warning
+759,272,33,95,High Risk
+249,177,27,57,Safe
+401,495,34,76,Warning
+489,475,36,33,Warning
+456,277,38,40,Warning
+684,319,23,82,Warning
+901,586,45,35,Critical
+448,52,23,89,Warning
+542,181,33,79,Warning
+533,517,31,95,Critical
+431,284,41,42,Warning
+565,597,37,43,High Risk
+130,378,30,93,Warning
+439,231,25,59,Warning
+760,412,41,69,Critical
+922,114,37,91,High Risk
+598,577,29,42,High Risk
+715,540,43,56,Critical
+405,318,24,83,Warning
+452,598,34,85,High Risk
+667,583,30,43,High Risk
+800,565,27,69,Critical
+139,58,22,48,Safe
+287,166,22,50,Safe
+419,111,35,31,Safe
+923,82,40,31,Warning
+765,553,40,73,Critical
+331,379,29,78,Warning
+679,232,37,87,High Risk
+149,437,38,39,Warning
+578,496,31,90,High Risk
+477,554,20,59,High Risk
+334,497,37,94,High Risk
+178,500,22,68,Warning
+63,205,26,95,Warning
+595,368,45,63,High Risk
+110,443,33,36,Warning
+483,117,41,54,Warning
+307,563,37,35,High Risk
+622,445,43,60,High Risk
+690,391,45,65,High Risk
+369,467,37,70,Warning
+435,89,39,43,Safe
+954,93,25,66,Warning
+941,447,25,44,High Risk
+462,345,21,87,Warning
+702,486,43,46,High Risk
+634,194,42,74,Warning
+69,532,33,88,High Risk
+181,334,40,91,Warning
+324,165,39,85,Safe
+748,216,28,82,Warning
+124,411,27,32,Warning
+677,195,21,54,Warning
+749,426,22,62,High Risk
+189,275,20,50,Safe
+928,499,38,67,High Risk
+228,569,23,79,Warning
+377,448,32,69,Warning
+147,484,37,32,Warning
+177,273,28,63,Safe
+107,363,23,59,Warning
+244,400,21,75,Warning
+185,457,27,36,Warning
+687,490,25,31,High Risk
+547,375,41,45,High Risk
+614,391,21,64,High Risk
+947,195,44,30,High Risk
+230,227,27,46,Safe
+152,88,36,61,Safe
+877,114,26,57,Warning
+701,513,25,88,Critical
+853,450,35,77,High Risk
+988,160,32,71,Warning
+566,251,45,64,High Risk
+640,558,25,68,High Risk
+90,115,25,64,Safe
+240,352,32,70,Warning
+856,507,33,33,Critical
+837,512,30,54,Critical
+695,332,40,59,Warning
+169,311,35,72,Safe
+275,550,38,67,High Risk
+394,78,21,93,Warning
+531,65,35,39,Warning
+110,350,36,41,Safe
+977,503,36,36,Critical
+221,210,34,43,Safe
+946,256,34,66,High Risk
+157,388,31,62,Warning
+419,77,35,35,Safe
+389,495,26,40,Warning
+627,114,26,85,Warning
+84,303,38,55,Safe
+119,181,37,68,Safe
+842,476,25,59,High Risk
+890,216,38,42,High Risk
+394,144,42,94,Warning
+685,127,32,32,Warning
+474,553,30,84,High Risk
+113,153,24,33,Safe
+421,176,28,89,Warning
+404,398,26,54,Warning
+317,527,45,58,High Risk
+92,131,42,91,Warning
+987,546,23,47,Critical
+399,239,27,40,Warning
+459,189,24,51,Safe
+588,176,43,83,Warning
+339,320,44,40,Warning
+446,504,25,49,High Risk
+477,55,42,89,Warning
+366,272,31,85,Warning
+983,529,39,58,Critical
+838,273,40,91,High Risk
+801,426,39,68,High Risk
+510,151,42,83,Warning
+553,579,41,59,Critical
+946,131,27,93,High Risk
+354,472,44,59,High Risk
+968,470,22,83,High Risk
+624,59,43,74,Warning
+863,262,20,64,High Risk
+108,357,43,62,Warning
+356,504,44,47,High Risk
+676,156,40,59,Warning
+826,430,41,61,Critical
+764,77,27,46,Warning
+779,365,41,52,Critical
+694,315,22,93,High Risk
+704,125,45,46,Warning
+243,491,44,62,Warning
+992,366,28,73,High Risk
+528,405,40,65,High Risk
+506,256,32,70,Warning
+962,313,29,55,High Risk
+96,336,27,68,Safe
+782,158,39,56,Warning
+786,548,39,89,Critical
+762,92,35,70,Warning
+520,137,24,71,Warning
+924,209,21,95,High Risk
+387,358,38,95,High Risk
+411,587,34,40,High Risk
+116,361,37,51,Warning
+853,407,30,42,High Risk
+578,397,45,71,High Risk
+804,263,44,93,Critical
+135,260,25,69,Safe
+342,503,27,57,High Risk
+325,439,38,34,Warning
+258,308,20,83,Warning
+823,392,31,75,High Risk
+153,532,37,40,Warning
+820,297,31,84,High Risk
+783,426,35,85,High Risk
+441,274,29,60,Warning
+930,240,24,73,High Risk
+320,212,36,34,Warning
+676,569,38,40,High Risk
+626,558,45,70,Critical
+689,394,30,81,High Risk
+873,479,29,39,High Risk
+230,360,34,61,Warning
+308,408,24,32,Warning
+391,315,20,54,Warning
+118,351,43,58,Warning
+209,313,37,75,Safe
+315,119,26,92,Warning
+652,182,31,52,Warning
+365,219,29,77,Warning
+134,475,22,30,Warning
+875,195,30,86,High Risk
+802,233,30,34,High Risk
+616,485,33,40,High Risk
+379,246,37,34,Warning
+178,594,30,85,Warning
+720,186,40,55,Warning
+646,387,44,67,High Risk
+765,431,26,76,High Risk
+746,255,30,69,Warning
+453,504,37,51,High Risk
+111,561,42,64,High Risk
+663,424,38,68,High Risk
+689,332,32,73,Warning
+160,420,22,50,Warning
+351,111,44,79,Warning
+205,422,45,52,Warning
+902,194,27,86,High Risk
+669,93,33,49,Warning
+180,327,44,49,Warning
+994,399,36,38,High Risk
+505,588,33,42,High Risk
+886,163,43,73,High Risk
+553,433,21,93,High Risk
+506,85,31,48,Warning
+570,208,20,54,Warning
+543,582,40,78,High Risk
+942,324,38,32,High Risk
+148,176,29,51,Safe
+330,74,22,95,Warning
+954,541,40,70,Critical
+238,249,36,84,Safe
+209,342,42,81,Warning
+604,214,20,86,High Risk
+973,510,38,46,Critical
+820,121,44,75,High Risk
+890,279,27,57,High Risk
+126,233,30,52,Safe
+376,364,23,31,Warning
+418,324,27,52,Warning
+69,72,41,95,Warning
+420,160,29,39,Safe
+380,467,28,49,Warning
+329,167,33,33,Safe
+986,243,37,44,High Risk
+306,295,36,87,Warning
+571,573,42,57,Critical
+774,369,34,49,High Risk
+785,590,36,73,Critical
+608,351,41,46,High Risk
+116,500,33,83,Warning
+420,74,23,76,Safe
+434,376,27,87,High Risk
+359,215,32,58,Warning
+98,538,27,69,Warning
+546,181,21,55,Warning
+51,241,45,55,Warning
+809,598,34,52,Critical
+514,489,33,50,High Risk
+254,545,24,31,High Risk
+946,561,21,88,Critical
+442,216,27,56,Warning
+725,297,26,37,Warning
+328,196,42,34,Warning
+743,58,30,59,Warning
+707,382,45,30,High Risk
+957,532,23,65,Critical
+255,182,34,81,Safe
+762,195,45,76,High Risk
+233,558,20,63,Warning
+123,104,42,59,Safe
+226,184,30,90,Safe
+970,135,29,94,High Risk
+76,290,22,85,Safe
+872,547,40,80,Critical
+579,321,31,44,Warning
+380,308,40,32,Warning
+790,467,40,62,High Risk
+255,69,38,58,Safe
+890,542,20,71,Critical
+181,127,30,51,Safe
+958,522,29,92,Critical
+241,237,39,85,Safe
+445,153,36,95,Warning
+323,592,45,95,Critical
+745,121,38,48,Warning
+622,74,40,84,Warning
+402,251,23,41,Warning
+909,600,38,84,Critical
+835,480,34,74,High Risk
+253,207,28,67,Warning
+990,325,33,66,High Risk
+565,578,26,31,High Risk
+776,346,24,74,High Risk
+677,524,44,69,Critical
+868,438,37,72,High Risk
+757,290,44,47,High Risk
+115,537,26,82,Warning
+194,141,22,64,Safe
+861,528,20,42,Critical
+334,476,37,68,Warning
+513,141,36,53,Warning
+825,523,33,88,Critical
+927,449,38,73,High Risk
+748,385,42,35,High Risk
+764,571,45,39,Critical
+609,260,26,74,Warning
+919,400,21,56,High Risk
+434,74,43,86,Warning
+916,141,44,50,High Risk
+154,594,29,59,Warning
+347,296,38,86,Warning
+788,521,20,71,Critical
+907,294,36,36,High Risk
+75,351,35,73,Warning
+120,326,28,32,Safe
+274,77,36,86,Warning
+611,553,39,57,High Risk
+311,107,21,52,Safe
+378,379,42,68,High Risk
+622,66,26,47,Warning
+336,389,35,58,Warning
+704,175,38,84,Warning
+118,132,43,78,Safe
+754,599,31,55,Critical
+341,394,20,89,High Risk
+718,147,40,93,Warning
+813,153,41,72,High Risk
+133,565,22,31,Warning
+949,357,32,56,High Risk
+584,527,38,61,High Risk
+549,415,31,83,High Risk
+507,177,41,33,Warning
+774,53,28,53,Warning
+814,493,26,33,High Risk
+908,514,28,50,Critical
+593,546,30,93,Critical
+660,380,27,74,High Risk
+225,567,26,49,Warning
+262,151,20,72,Safe
+874,149,23,77,Warning
+482,477,32,76,Warning
+521,275,38,32,Warning
+814,127,45,47,High Risk
+372,407,31,91,High Risk
+785,567,43,53,Critical
+465,126,33,44,Safe
+657,151,37,89,Warning
+617,274,43,32,High Risk
+719,136,45,41,Warning
+627,449,30,40,High Risk
+751,560,45,85,Critical
+309,458,45,38,High Risk
+335,576,21,52,High Risk
+859,319,35,94,High Risk
+360,285,34,61,Warning
+656,240,23,52,Warning
+790,591,27,57,Critical
+912,236,38,79,High Risk
+889,315,23,48,High Risk
+400,297,36,39,Warning
+991,550,39,33,Critical
+248,174,38,67,Safe
+80,491,26,55,Warning
+161,157,35,43,Safe
+622,524,24,92,Critical
+682,271,31,48,Warning
+613,347,35,30,Warning
+782,274,44,69,High Risk
+227,405,29,46,Warning
+409,401,27,69,Warning
+231,339,33,50,Safe
+178,122,45,66,Safe
+954,98,30,38,Warning
+350,421,36,69,Warning
+601,87,20,45,Warning
+955,457,34,95,Critical
+552,103,24,86,Warning
+52,51,36,92,Safe
+76,523,44,83,High Risk
+573,160,42,85,Warning
+796,554,36,75,Critical
+309,308,28,86,Warning
+232,337,31,79,Safe
+181,117,42,92,Warning
+51,406,38,32,Warning
+666,375,23,49,High Risk
+894,119,27,66,Warning
+759,141,29,39,Warning
+395,376,32,42,Warning
+121,134,45,40,Safe
+665,405,22,79,High Risk
+403,61,22,89,Warning
+555,517,42,85,Critical
+226,546,30,83,Warning
+543,513,38,59,High Risk
+414,265,40,42,Warning
+610,503,31,65,High Risk
+636,405,42,87,Critical
+167,300,23,92,Warning
+352,443,21,83,Warning
+71,366,43,79,Warning
+640,433,34,42,High Risk
+200,305,45,44,Warning
+540,294,26,84,Warning
+655,563,43,68,Critical
+730,335,28,46,Warning
+677,568,35,33,High Risk
+928,134,24,37,Warning
+998,194,20,44,Warning
+405,123,24,43,Safe
+959,425,26,70,High Risk
+931,152,42,84,High Risk
+632,488,30,73,High Risk
+166,162,34,77,Safe
+827,91,35,55,Warning
+691,55,38,82,Warning
+555,244,27,89,High Risk
+109,78,20,39,Safe
+446,492,27,91,High Risk
+729,224,24,47,Warning
+544,80,22,90,Warning
+212,597,41,37,High Risk
+357,100,41,40,Warning
+818,412,33,63,High Risk
+607,203,27,80,Warning
+616,73,35,86,Warning
+974,107,25,53,Warning
+204,144,26,61,Safe
+855,531,31,46,Critical
+547,165,26,71,Warning
+561,328,26,87,High Risk
+296,439,21,74,Warning
+480,167,27,66,Safe
+929,458,27,88,Critical
+808,352,45,54,Critical
+169,281,44,93,Warning
+294,450,42,43,High Risk
+425,310,44,75,Warning
+585,184,45,83,Warning
+977,308,42,74,High Risk
+221,418,32,47,Warning
+166,166,30,84,Safe
+250,577,40,86,High Risk
+969,130,30,45,Warning
+547,496,39,80,High Risk
+367,183,26,51,Safe
+778,324,39,73,High Risk
+582,524,23,55,High Risk
+843,151,21,47,Warning
+619,80,39,73,Warning
+201,459,44,82,Warning
+779,76,39,41,Warning
+913,324,36,91,High Risk
+269,492,44,90,High Risk
+161,100,22,80,Safe
+886,589,25,69,Critical
+221,387,44,65,Warning
+379,109,32,52,Safe
+505,225,40,39,Warning
+327,495,45,45,High Risk
+593,598,21,90,Critical
+528,465,36,56,High Risk
+809,84,33,88,High Risk
+933,153,29,53,Warning
+724,471,42,34,High Risk
+546,356,26,37,High Risk
+422,478,28,65,Warning
+823,563,34,51,Critical
+863,396,23,93,Critical
+838,122,45,91,High Risk
+369,195,45,74,Warning
+746,445,20,59,High Risk
+733,72,20,92,Warning
+402,183,35,74,Safe
+464,234,22,47,Warning
+902,416,25,62,High Risk
+796,197,23,56,Warning
+153,527,42,52,High Risk
+624,62,43,40,Warning
+473,229,21,80,Warning
+906,181,29,70,Warning
+666,176,40,52,Warning
+1000,288,39,74,High Risk
+985,161,23,42,Warning
+259,270,34,47,Warning
+948,177,31,38,Warning
+903,127,24,79,Warning
+924,325,25,53,High Risk
+84,89,28,41,Safe
+876,157,34,86,High Risk
+645,579,39,93,Critical
+608,72,38,36,Warning
+891,186,20,85,Warning
+132,430,24,88,Warning
+866,507,41,30,Critical
+841,437,32,52,High Risk
+523,247,36,59,Warning
+915,272,41,65,High Risk
+284,131,21,63,Safe
+247,585,27,67,Warning
+801,73,27,72,Warning
+432,423,25,72,Warning
+502,577,26,35,High Risk
+753,155,31,83,Warning
+868,489,28,32,High Risk
+418,362,27,83,Warning
+436,198,39,30,Safe
+572,76,25,55,Warning
+242,497,39,89,Warning
+915,136,27,45,Warning
+968,563,31,77,Critical
+548,380,22,90,High Risk
+256,280,35,32,Warning
+700,516,37,64,High Risk
+839,139,30,37,Warning
+900,493,41,76,Critical
+913,125,20,54,Warning
+708,178,25,94,Warning
+557,93,24,72,Warning
+768,430,29,93,Critical
+97,340,29,51,Safe
+414,466,21,59,Warning
+929,553,44,34,Critical
+244,575,44,32,High Risk
+860,135,32,30,Warning
+793,565,36,48,Critical
+745,70,37,46,Warning
+837,430,21,72,High Risk
+161,555,40,68,Warning
+370,331,32,36,Warning
+484,526,33,40,High Risk
+920,487,45,86,Critical
+226,240,34,82,Safe
+550,181,33,66,Warning
+85,255,24,83,Safe
+721,187,41,76,Warning
+418,206,36,88,Warning
+259,108,41,50,Warning
+931,450,21,54,High Risk
+557,536,42,40,Critical
+387,183,21,72,Safe
+701,493,27,36,High Risk
+461,296,23,65,Warning
+275,477,20,58,Warning
+540,415,42,76,High Risk
+629,224,39,39,Warning
+988,434,36,65,High Risk
+562,427,33,65,High Risk
+382,66,40,87,Warning
+209,494,45,83,Warning
+642,228,39,62,Warning
+909,306,26,91,High Risk
+794,82,43,38,High Risk
+797,366,38,87,Critical
+862,231,23,87,High Risk
+61,354,38,59,Warning
+180,248,27,43,Safe
+893,465,37,73,High Risk
+81,150,23,61,Safe
+414,345,39,51,Warning
+662,261,33,51,Warning
+596,249,31,95,High Risk
+280,350,26,44,Warning
+487,210,29,34,Warning
+904,165,26,32,Warning
+538,71,24,95,Warning
+102,433,30,66,Warning
+112,53,22,48,Safe
+90,319,26,57,Safe
+359,159,37,82,Safe
+445,465,25,66,Warning
+583,565,41,59,Critical
+189,111,33,81,Safe
+227,92,21,74,Safe
+120,159,31,38,Safe
+765,528,35,54,Critical
+447,544,22,73,High Risk
+957,514,26,40,Critical
+687,369,25,91,High Risk
+58,491,37,43,Warning
+221,394,31,76,Warning
+759,195,31,39,Warning
+293,584,43,70,High Risk
+992,598,32,79,Critical
+829,205,45,95,Critical
+847,503,24,44,Critical
+524,168,42,82,Warning
+234,215,33,79,Safe
+999,274,20,70,High Risk
+740,569,32,37,High Risk
+289,358,38,87,High Risk
+504,91,27,56,Warning
+514,504,43,66,Critical
+822,424,23,92,Critical
+129,130,43,68,Safe
+266,207,35,70,Warning
+786,488,20,57,High Risk
+887,454,39,55,High Risk
+239,53,29,87,Safe
+584,318,31,42,Warning
+169,462,30,63,Warning
+524,483,32,45,High Risk
+836,51,40,85,Warning
+532,596,27,66,High Risk
+819,367,42,66,Critical
+248,588,45,55,High Risk
+585,437,26,42,High Risk
+790,506,36,84,Critical
+458,193,30,88,Warning
+220,109,37,46,Safe
+202,583,42,34,High Risk
+336,272,33,46,Warning
+365,475,28,89,High Risk
+893,318,36,39,High Risk
+684,542,37,61,High Risk
+763,131,22,60,Warning
+813,598,35,75,Critical
+296,519,37,53,High Risk
+835,202,38,90,High Risk
+441,545,23,59,High Risk
+311,313,42,53,Warning
+107,374,42,70,Warning
+885,78,45,51,High Risk
+309,492,29,43,Warning
+274,509,20,85,High Risk
+850,371,25,78,High Risk
+946,69,39,40,Warning
+694,513,45,94,Critical
+313,98,28,33,Safe
+856,517,33,61,Critical
+612,197,37,38,Warning
+816,86,29,83,Warning
+894,79,42,73,High Risk
+470,575,43,58,High Risk
+553,255,31,55,Warning
+905,282,20,46,High Risk
+464,466,38,55,Warning
+504,362,30,46,High Risk
+534,106,34,32,Warning
+486,245,26,42,Warning
+707,471,40,37,High Risk
+405,434,36,33,Warning
+420,497,22,79,Warning
+391,389,21,55,Warning
+117,133,40,54,Safe
+359,265,25,59,Warning
+838,234,31,82,High Risk
+517,399,43,93,Critical
+736,134,24,43,Warning
+496,237,26,47,Warning
+223,363,21,55,Warning
+771,86,33,84,Warning
+623,106,27,62,Warning
+700,122,44,93,High Risk
+272,72,31,35,Safe
+825,326,24,34,High Risk
+361,359,35,87,High Risk
+53,204,23,93,Warning
+345,512,41,34,High Risk
+169,103,24,62,Safe
+325,565,38,50,High Risk
+77,571,35,34,Warning
+134,600,42,57,High Risk
+57,589,34,57,Warning
+313,126,26,68,Safe
+837,466,45,52,Critical
+205,216,38,91,Warning
+453,317,20,89,Warning
+459,342,30,75,Warning
+456,575,34,84,High Risk
+176,56,23,41,Safe
+589,254,43,95,High Risk
+742,522,27,75,High Risk
+69,53,35,36,Safe
+969,477,27,39,High Risk
+116,97,28,52,Safe
+623,206,22,44,Warning
+688,268,20,77,Warning
+668,338,23,48,Warning
+686,354,29,61,High Risk
+454,330,38,74,Warning
+810,591,34,30,Critical
+279,400,30,86,High Risk
+980,237,21,85,High Risk
+517,239,44,89,High Risk
+689,236,41,93,High Risk
+454,249,21,42,Warning
+731,398,34,69,High Risk
+707,112,26,41,Warning
+803,428,21,60,High Risk
+813,256,25,32,High Risk
+455,173,23,93,Warning
+159,567,43,87,High Risk
+770,254,36,86,High Risk
+825,107,20,82,Warning
+434,445,28,93,High Risk
+738,91,41,53,Warning
+209,398,43,44,Warning
+235,532,36,43,Warning
+97,550,41,39,High Risk
+260,587,31,68,High Risk
+493,344,40,91,Warning
+260,174,42,84,Warning
+741,163,34,75,Warning
+449,101,45,74,Warning
+794,100,26,90,High Risk
+558,373,37,79,High Risk
+505,521,38,75,High Risk
+809,480,40,74,High Risk
+293,333,39,47,Warning
+829,481,20,56,High Risk
+720,221,42,62,High Risk
+132,470,27,52,Warning
+900,116,40,74,Warning
+402,557,42,69,High Risk
+268,484,38,60,Warning
+820,497,33,45,High Risk
+657,57,22,61,Warning
+162,514,39,44,Warning
+900,597,22,39,Critical
+340,203,31,73,Warning
+510,66,31,85,Warning
+824,503,45,62,Critical
+641,269,42,94,High Risk
+509,533,41,39,Critical
+620,408,29,72,High Risk
+376,460,20,83,Warning
+593,133,26,37,Warning
+352,387,29,93,High Risk
+395,406,42,68,High Risk
+736,178,45,62,Warning
+992,582,28,52,Critical
+725,174,27,78,Warning
+326,536,43,52,High Risk
+576,100,24,87,Warning
+932,573,23,78,Critical
+790,209,21,78,High Risk
+53,458,36,83,Warning
+776,568,41,44,Critical
+871,226,32,45,High Risk
+334,440,36,75,Warning
+533,473,23,41,High Risk
+479,61,26,53,Safe
+367,151,27,61,Safe
+871,523,44,70,Critical
+291,307,37,52,Warning
+300,467,29,75,Warning
+997,422,40,66,High Risk
+898,406,29,38,High Risk
+760,463,24,90,Critical
+419,398,44,49,High Risk
+776,241,33,82,High Risk
+388,64,25,81,Safe
+393,589,43,60,High Risk
+938,279,29,79,High Risk
+313,511,30,55,High Risk
+897,100,25,88,High Risk
+350,165,27,32,Safe
+638,301,34,56,Warning
+629,256,27,88,High Risk
+279,502,43,45,High Risk
+886,119,25,68,Warning
+812,216,26,56,High Risk
+376,334,30,70,Warning
+99,113,41,72,Safe
+160,201,25,93,Warning
+116,324,31,58,Safe
+568,50,40,71,Warning
+338,517,27,53,High Risk
+473,319,42,92,High Risk
+303,575,42,66,High Risk
+111,354,37,49,Warning
+930,235,40,55,High Risk
+427,547,40,60,High Risk
+759,522,30,80,Critical
+622,96,23,58,Warning
+413,325,20,44,Warning
+283,165,27,62,Safe
+421,547,37,49,High Risk
+778,340,42,94,Critical
+66,547,45,44,High Risk
+842,484,21,75,High Risk
+605,310,27,30,Warning
+595,554,33,35,High Risk
+467,257,45,83,Warning
+878,148,21,82,Warning
+661,295,43,56,High Risk
+784,574,23,89,Critical
+288,103,37,94,Warning
+664,564,26,41,High Risk
+881,197,22,82,Warning
+673,437,44,61,High Risk
+897,248,31,42,High Risk
+478,380,38,91,High Risk
+750,341,36,57,Warning
+261,300,37,32,Warning
+790,502,35,67,Critical
+723,483,21,74,High Risk
+761,298,34,49,High Risk
+807,494,21,30,High Risk
+87,565,28,54,Warning
+823,227,29,92,High Risk
+848,57,44,62,High Risk
+387,81,45,88,Warning
+275,398,25,89,High Risk
+986,151,35,91,High Risk
+912,599,26,67,Critical
+901,217,20,85,High Risk
+754,212,27,81,High Risk
+274,248,27,74,Warning
+458,308,32,74,Warning
+196,87,26,76,Safe
+836,103,34,39,Warning
+57,117,44,50,Safe
+579,262,37,49,Warning
+805,368,36,52,High Risk
+842,234,40,93,High Risk
+946,227,35,38,High Risk
+279,575,32,85,High Risk
+638,256,23,52,Warning
+913,598,22,34,Critical
+912,382,42,94,Critical
+837,494,34,48,High Risk
+141,91,36,76,Safe
+80,135,20,80,Safe
+821,497,30,84,High Risk
+920,239,33,78,High Risk
+966,174,21,41,Warning
+339,543,21,44,High Risk
+129,135,21,62,Safe
+252,307,38,52,Warning
+478,526,26,48,High Risk
+323,126,31,32,Safe
+679,555,39,52,High Risk
+986,550,20,34,Critical
+948,129,41,69,High Risk
+808,216,44,44,High Risk
+758,180,31,94,High Risk
+122,433,34,89,Warning
+958,212,35,68,High Risk
+507,333,32,39,Warning
+396,393,25,95,High Risk
+315,317,45,52,Warning
+843,572,38,91,Critical
+525,581,42,73,Critical
+333,549,37,92,High Risk
+769,349,27,37,High Risk
+944,307,25,89,High Risk
+509,342,44,35,High Risk
+218,349,24,56,Safe
+344,78,43,68,Warning
+557,533,33,40,High Risk
+901,344,45,73,High Risk
+81,146,34,75,Safe
+233,397,32,77,Warning
+987,428,32,60,High Risk
+782,293,34,34,High Risk
+288,593,37,50,High Risk
+733,274,23,93,High Risk
+74,581,29,30,Warning
+597,348,39,59,Warning
+310,176,23,95,Warning
+282,336,23,45,Warning
+996,397,45,69,Critical
+322,508,42,48,High Risk
+317,461,29,82,Warning
+993,92,30,46,Warning
+353,508,34,49,High Risk
+637,571,31,62,High Risk
+759,241,22,79,High Risk
+411,110,45,30,Warning
+878,201,43,37,High Risk
+142,510,40,44,Warning
+82,257,28,91,Warning
+219,270,34,45,Safe
+487,515,21,79,High Risk
+127,400,30,69,Warning
+733,212,24,92,High Risk
+410,504,45,76,High Risk
+473,107,23,66,Safe
+818,230,20,69,High Risk
+881,585,37,90,Critical
+684,149,27,34,Warning
+731,532,44,31,Critical
+312,160,21,93,Warning
+790,465,42,31,Critical
+187,148,42,71,Safe
+816,119,23,64,Warning
+59,514,37,52,Warning
+303,384,28,70,Warning
+826,332,44,45,High Risk
+593,331,32,39,Warning
+264,52,37,44,Safe
+331,553,24,57,High Risk
+158,432,44,86,High Risk
+411,360,22,34,Warning
+565,54,36,90,Warning
+594,172,32,69,Warning
+419,298,28,30,Warning
+324,84,35,85,Safe
+346,94,22,95,Warning
+903,479,39,83,High Risk
+747,179,21,39,Warning
+770,365,30,54,High Risk
+784,513,39,86,Critical
+683,158,44,92,High Risk
+990,456,45,41,Critical
+161,147,38,91,Safe
+605,335,34,52,Warning
+738,101,42,46,Warning
+647,229,28,76,Warning
+740,78,26,52,Warning
+878,584,35,79,Critical
+246,66,34,74,Safe
+686,74,24,94,Warning
+682,140,20,74,Warning
+808,449,23,55,High Risk
+385,434,29,84,Warning
+709,557,33,40,High Risk
+239,576,38,52,Warning
+235,216,42,42,Warning
+739,429,26,80,High Risk
+997,90,38,61,Warning
+833,183,45,39,High Risk
+86,144,41,88,Warning
+443,586,36,34,High Risk
+395,243,20,85,Warning
+98,434,42,53,Warning
+171,521,39,65,Warning
+286,260,38,84,Warning
+575,391,43,37,High Risk
+759,187,32,32,Warning
+342,181,38,91,Warning
+73,370,27,66,Warning
+221,327,27,57,Safe
+274,465,42,44,High Risk
+486,502,35,77,High Risk
+828,337,31,65,High Risk
+678,92,32,33,Warning
+763,147,32,87,High Risk
+983,428,32,30,High Risk
+937,197,37,53,Warning
+314,349,39,53,Warning
+63,50,20,55,Safe
+493,99,33,59,Safe
+323,585,43,43,High Risk
+403,515,43,31,High Risk
+869,538,30,62,Critical
+190,75,27,30,Safe
+348,192,29,40,Safe
+913,488,22,41,High Risk
+739,573,21,48,High Risk
+141,302,34,36,Safe
+395,178,21,36,Safe
+544,266,22,49,Warning
+261,212,37,41,Warning
+864,211,45,40,High Risk
+359,181,39,64,Safe
+337,179,44,60,Warning
+554,453,39,71,High Risk
+719,401,34,93,High Risk
+826,396,30,49,High Risk
+332,349,37,79,Warning
+645,216,24,51,Warning
+273,244,24,53,Warning
+360,100,27,30,Safe
+679,261,40,45,Warning
+269,106,22,81,Safe
+412,342,21,72,Warning
+693,126,35,89,Warning
+182,153,38,91,Safe
+631,462,43,37,High Risk
+892,346,30,70,High Risk
+869,427,25,81,High Risk
+689,186,24,39,Warning
+502,206,33,42,Warning
+264,467,42,45,High Risk
+462,287,23,46,Warning
+299,355,36,64,Warning
+565,212,43,48,High Risk
+53,363,23,48,Warning
+80,234,34,30,Safe
+445,336,25,49,Warning
+355,494,35,83,Warning
+482,420,32,51,Warning
+139,474,43,34,Warning
+553,561,21,57,High Risk
+774,89,23,62,Warning
+178,103,25,46,Safe
+999,451,27,48,High Risk
+685,494,42,57,High Risk
+101,119,40,42,Safe
+755,266,22,75,High Risk
+180,64,42,35,Safe
+140,594,23,91,High Risk
+634,550,25,43,High Risk
+520,545,34,90,Critical
+450,420,43,50,High Risk
+591,452,24,40,High Risk
+112,234,45,61,Warning
+384,412,28,40,Warning
+133,68,26,35,Safe
+376,301,31,95,Warning
+914,483,23,74,High Risk
+116,93,29,36,Safe
+891,179,22,90,High Risk
+259,248,25,92,Warning
+769,233,45,64,High Risk
+805,507,40,54,Critical
+384,477,45,38,High Risk
+758,393,44,66,Critical
+163,372,29,86,Warning
+533,504,20,43,High Risk
+170,94,37,65,Safe
+780,123,29,33,Warning
+897,51,20,91,High Risk
+932,412,28,60,High Risk
+602,320,30,62,Warning
+516,71,24,53,Warning
+291,338,41,90,High Risk
+237,403,42,37,Warning
+682,540,27,36,High Risk
+385,465,25,36,Warning
+631,429,42,55,High Risk
+326,355,22,52,Warning
+528,145,25,72,Warning
+853,249,27,49,High Risk
+144,282,25,34,Safe
+390,294,23,63,Warning
+808,506,37,57,Critical
+188,427,25,47,Warning
+482,501,38,87,High Risk
+860,563,27,71,Critical
+160,499,37,86,Warning
+894,255,24,63,High Risk
+358,319,33,85,Warning
+167,270,29,65,Safe
+830,318,29,44,High Risk
+622,117,32,56,Warning
+475,174,40,90,Warning
+286,441,26,68,Warning
+681,148,26,51,Warning
+143,221,27,49,Safe
+439,386,24,55,Warning
+225,558,43,86,High Risk
+915,148,22,72,Warning
+802,58,32,68,Warning
+520,192,42,62,Warning
+288,101,23,47,Safe
+246,217,21,64,Safe
+609,81,20,72,Warning
+403,469,37,94,High Risk
+992,526,41,49,Critical
+230,52,40,65,Safe
+128,128,26,54,Safe
+879,315,21,85,High Risk
+615,109,39,83,Warning
+972,69,30,41,Warning
+273,501,44,38,High Risk
+448,236,24,91,Warning
+557,200,24,38,Warning
+621,529,32,78,High Risk
+537,571,35,91,Critical
+921,466,36,39,High Risk
+943,393,41,68,Critical
+143,541,37,41,Warning
+608,180,29,74,Warning
+262,373,23,30,Warning
+813,343,42,92,Critical
+904,436,36,63,High Risk
+643,292,27,39,Warning
+286,365,32,69,Warning
+943,308,34,65,High Risk
+448,117,37,72,Safe
+863,100,31,37,Warning
+504,308,21,59,Warning
+306,184,41,54,Warning
+747,203,20,35,Warning
+904,327,43,36,High Risk
+959,451,27,84,High Risk
+831,249,40,76,High Risk
+704,481,22,68,High Risk
+237,570,32,68,Warning
+812,372,44,89,Critical
+326,502,38,62,High Risk
+612,259,45,94,High Risk
+159,573,21,63,Warning
+637,435,34,72,High Risk
+743,234,32,87,High Risk
+493,118,33,77,Safe
+558,177,37,88,Warning
+397,455,30,57,Warning
+290,124,24,76,Safe
+262,101,44,37,Warning
+634,139,40,70,Warning
+408,115,32,30,Safe
+594,513,32,42,High Risk
+730,89,30,47,Warning
+967,406,43,42,Critical
+242,504,39,38,Warning
+901,55,37,42,Warning
+63,66,40,48,Safe
+381,273,42,65,Warning
+443,57,22,35,Safe
+637,467,25,56,High Risk
+862,343,39,90,High Risk
+644,78,38,69,Warning
+904,431,37,51,High Risk
+190,429,23,85,Warning
+176,321,35,37,Safe
+698,525,20,50,High Risk
+658,73,35,55,Warning
+155,445,27,91,Warning
+659,442,40,53,High Risk
+893,572,21,66,Critical
+320,581,39,85,High Risk
+204,212,37,85,Safe
+262,82,29,73,Safe
+312,366,29,95,High Risk
+561,346,27,36,Warning
+956,289,24,34,High Risk
+365,324,32,30,Warning
+793,68,27,33,Warning
+990,67,26,95,High Risk
+743,436,39,45,High Risk
+538,375,29,91,High Risk
+756,59,22,41,Warning
+741,203,34,50,Warning
+447,468,33,30,Warning
+785,291,23,72,High Risk
+804,172,29,95,High Risk
+942,513,20,55,Critical
+737,230,43,59,High Risk
+214,393,35,39,Warning
+419,597,20,44,High Risk
+276,301,38,91,Warning
+690,219,28,68,Warning
+943,383,23,44,High Risk
+765,309,45,90,Critical
+232,572,41,87,High Risk
+97,426,45,59,Warning
+116,208,44,74,Warning
+775,117,22,51,Warning
+643,597,30,52,High Risk
+928,205,38,50,High Risk
+560,483,42,47,High Risk
+385,518,27,63,High Risk
+792,548,34,56,Critical
+86,461,39,88,Warning
+416,72,25,39,Safe
+78,497,34,38,Warning
+264,273,32,36,Warning
+315,288,26,86,Warning
+784,106,22,70,Warning
+542,150,43,46,Warning
+62,540,42,69,High Risk
+835,141,32,33,Warning
+683,59,37,48,Warning
+714,405,41,68,High Risk
+982,543,30,77,Critical
+717,479,31,72,High Risk
+717,92,23,75,Warning
+865,427,35,88,Critical
+85,486,27,62,Warning
+179,411,32,57,Warning
+378,558,38,94,High Risk
+556,53,39,31,Warning
+719,433,42,47,High Risk
+305,85,26,62,Safe
+661,260,37,52,Warning
+575,475,37,94,High Risk
+531,361,34,60,High Risk
+269,184,21,57,Safe
+752,495,29,49,High Risk
+152,590,34,57,Warning
+105,585,24,61,Warning
+935,172,41,49,High Risk
+936,510,28,80,Critical
+435,76,20,64,Safe
+469,138,28,38,Safe
+737,543,29,85,High Risk
+856,515,27,76,Critical
+608,160,41,30,Warning
+126,465,43,50,Warning
+807,297,30,92,High Risk
+589,153,20,84,Warning
+875,245,43,89,Critical
+187,510,35,40,Warning
+256,247,34,65,Warning
+665,58,32,58,Warning
+386,55,35,55,Safe
+358,579,21,93,High Risk
+684,344,43,61,High Risk
+200,530,29,72,Warning
+263,196,34,88,Warning
+613,376,44,68,High Risk
+348,313,40,94,Warning
+890,75,26,74,Warning
+657,556,27,80,High Risk
+505,186,26,78,Warning
+390,139,30,83,Safe
+754,146,23,79,Warning
+370,466,32,69,Warning
+278,113,30,77,Safe
+855,505,25,83,Critical
+199,138,32,51,Safe
+715,391,21,77,High Risk
+390,456,38,76,Warning
+394,560,36,59,High Risk
+420,469,26,35,Warning
+342,430,37,73,Warning
+467,233,45,91,High Risk
+442,398,41,48,High Risk
+555,104,36,88,Warning
+392,315,21,33,Warning
+123,528,44,35,High Risk
+492,308,35,59,Warning
+312,566,38,66,High Risk
+177,371,45,83,Warning
+406,464,37,30,Warning
+377,568,44,63,High Risk
+873,426,30,51,High Risk
+241,386,31,91,Warning
+399,244,33,80,Warning
+91,465,35,37,Warning
+263,520,45,33,High Risk
+118,354,27,84,Warning
+169,201,33,64,Safe
+245,339,38,95,Warning
+372,548,43,34,High Risk
+719,529,26,58,High Risk
+689,459,35,83,High Risk
+848,399,30,32,High Risk
+323,126,32,48,Safe
+309,95,34,61,Safe
+597,64,27,78,Warning
+965,122,37,59,Warning
+887,479,42,92,Critical
+914,108,40,35,Warning
+775,107,31,70,Warning
+72,288,30,55,Safe
+333,499,20,35,Warning
+499,570,27,54,High Risk
+298,473,23,63,Warning
+330,108,26,75,Safe
+982,104,38,92,High Risk
+964,109,24,46,Warning
+547,131,29,93,Warning
+446,95,35,67,Safe
+447,154,26,90,Warning
+183,207,39,76,Safe
+272,591,37,55,High Risk
+848,488,45,61,Critical
+718,538,25,47,High Risk
+576,283,33,91,High Risk
+734,539,27,63,High Risk
+108,295,28,91,Warning
+142,228,26,73,Safe
+322,216,33,72,Warning
+956,381,40,65,High Risk
+957,453,43,49,Critical
+476,410,22,91,High Risk
+204,149,29,77,Safe
+818,206,41,55,High Risk
+182,407,35,78,Warning
+206,471,36,82,Warning
+880,422,30,68,High Risk
+722,508,39,73,High Risk
+518,269,39,79,Warning
+453,435,24,30,Warning
+658,353,35,95,High Risk
+788,445,34,88,Critical
+68,508,27,41,Warning
+680,220,30,36,Warning
+758,456,35,92,Critical
+817,115,30,33,Warning
+150,54,38,76,Safe
+181,390,21,91,Warning
+396,501,41,38,High Risk
+990,414,32,81,High Risk
+704,460,44,73,High Risk
+134,76,38,81,Safe
+769,593,20,48,Critical
+304,453,25,67,Warning
+816,423,23,83,High Risk
+300,151,44,80,Warning
+776,71,32,73,Warning
+349,209,29,91,Warning
+831,95,26,60,Warning
+271,205,45,66,Warning
+445,101,29,88,Warning
+577,486,44,68,High Risk
+809,219,20,62,High Risk
+438,570,38,34,High Risk
+613,197,35,63,Warning
+77,266,27,45,Safe
+166,547,40,55,Warning
+215,311,30,95,Warning
+67,403,43,60,Warning
+911,454,38,52,High Risk
+519,59,40,38,Warning
+907,435,43,34,Critical
+380,117,40,73,Safe
+735,195,26,45,Warning
+335,509,34,92,High Risk
+203,501,27,66,Warning
+230,395,43,42,Warning
+810,117,20,75,Warning
+441,170,28,94,Warning
+95,83,21,48,Safe
+305,415,22,49,Warning
+969,108,23,45,Warning
+966,591,40,67,Critical
+936,467,43,91,Critical
+962,356,20,85,High Risk
+141,230,31,78,Safe
+659,398,20,82,High Risk
+891,238,21,32,High Risk
+713,420,40,38,High Risk
+435,276,42,39,Warning
+338,177,34,88,Warning
+617,321,39,87,High Risk
+774,300,30,30,High Risk
+327,434,27,50,Warning
+362,481,24,56,Warning
+896,187,38,31,Warning
+454,501,20,46,High Risk
+184,87,43,57,Safe
+539,494,29,55,High Risk
+483,361,24,34,Warning
+741,268,29,58,Warning
+385,467,28,56,Warning
+57,572,38,55,Warning
+408,81,36,74,Safe
+864,109,29,80,Warning
+596,78,26,45,Warning
+510,215,29,80,Warning
+317,530,27,78,High Risk
+692,369,42,42,High Risk
+156,165,36,64,Safe
+168,355,44,33,Warning
+342,485,36,34,Warning
+913,354,38,31,High Risk
+556,77,33,56,Warning
+437,278,20,65,Warning
+693,552,41,67,Critical
+750,390,45,60,High Risk
+905,311,20,46,High Risk
+204,400,33,64,Warning
+489,102,45,68,Warning
+962,448,35,49,High Risk
+562,398,34,56,High Risk
+619,333,33,85,Warning
+402,264,27,86,Warning
+901,463,26,58,High Risk
+805,251,45,60,High Risk
+335,520,37,42,High Risk
+958,507,34,56,Critical
+299,328,27,57,Warning
+330,594,31,33,High Risk
+883,327,29,76,High Risk
+363,71,27,52,Safe
+564,455,45,52,High Risk
+142,349,39,64,Safe
+816,65,29,66,Warning
+814,433,40,56,High Risk
+474,484,43,64,High Risk
+774,201,20,70,High Risk
+766,181,21,66,Warning
+624,419,31,68,High Risk
+468,56,31,73,Safe
+761,221,30,66,High Risk
+701,300,32,71,Warning
+780,397,23,46,High Risk
+537,245,40,30,Warning
+890,396,27,66,High Risk
+374,547,39,34,High Risk
+228,316,43,60,Warning
+239,461,29,70,Warning
+573,103,35,87,Warning
+413,90,34,61,Safe
+786,317,42,43,High Risk
+319,297,27,58,Warning
+927,313,44,69,High Risk
+959,310,36,91,High Risk
+197,522,31,48,Warning
+770,190,32,43,Warning
+944,600,38,63,Critical
+499,325,41,78,Warning
+166,558,27,43,Warning
+886,73,31,55,Warning
+94,490,37,43,Warning
+756,381,44,75,Critical
+424,547,42,68,High Risk
+331,358,39,35,Warning
+157,257,32,84,Safe
+400,379,42,92,High Risk
+201,81,35,64,Safe
+414,288,29,32,Warning
+106,505,30,56,Warning
+83,180,39,62,Safe
+602,114,23,41,Warning
+453,385,28,77,Warning
+87,284,32,36,Safe
+997,180,32,60,Warning
+861,94,45,41,High Risk
+543,500,22,55,High Risk
+181,272,37,31,Safe
+393,314,28,84,Warning
+418,291,20,33,Warning
+103,206,35,62,Safe
+985,326,40,76,High Risk
+624,445,35,51,High Risk
+891,301,45,68,High Risk
+643,111,28,55,Warning
+967,76,45,79,High Risk
+340,189,30,47,Safe
+901,263,38,76,High Risk
+217,514,40,44,Warning
+358,145,23,95,Warning
+105,255,21,50,Safe
+323,308,34,56,Warning
+758,539,28,78,Critical
+786,597,23,73,Critical
+589,272,39,61,Warning
+513,182,27,39,Warning
+505,452,41,75,High Risk
+625,129,23,43,Warning
+902,405,28,64,High Risk
+402,523,39,47,High Risk
+483,419,34,35,Warning
+185,297,36,36,Safe
+306,155,36,75,Safe
+177,148,43,56,Safe
+755,243,30,80,High Risk
+277,394,28,76,Warning
+417,382,25,50,Warning
+987,300,26,66,High Risk
+424,482,35,75,Warning
+857,339,32,39,High Risk
+306,103,39,42,Safe
+766,391,30,44,High Risk
+651,439,23,50,High Risk
+557,342,28,53,Warning
+166,551,37,35,Warning
+179,84,34,31,Safe
+688,141,42,63,Warning
+957,359,45,57,Critical
+339,508,25,91,High Risk
+293,123,21,32,Safe
+522,437,43,52,High Risk
+92,476,42,43,Warning
+813,481,45,92,Critical
+693,499,41,41,High Risk
+259,526,38,54,High Risk
+831,531,24,44,Critical
+207,291,34,33,Safe
+530,556,33,76,High Risk
+278,213,22,86,Warning
+634,156,44,43,Warning
+283,204,28,65,Warning
+992,255,20,55,High Risk
+422,220,36,57,Warning
+635,329,45,58,High Risk
+482,459,31,39,Warning
+812,202,41,69,High Risk
+340,110,20,61,Safe
+653,595,24,49,High Risk
+810,503,30,54,Critical
+224,369,45,49,Warning
+643,76,22,43,Warning
+53,284,35,54,Safe
+415,434,31,34,Warning
+336,158,28,31,Safe
+672,321,25,83,Warning
+937,65,23,93,High Risk
+873,402,35,86,Critical
+390,131,44,93,Warning
+594,500,32,57,High Risk
+91,387,23,82,Warning
+159,572,31,84,Warning
+463,584,25,61,High Risk
+772,272,21,78,High Risk
+415,223,36,72,Warning
+808,287,25,84,High Risk
+692,538,33,48,High Risk
+633,552,34,67,High Risk
+851,364,45,56,Critical
+315,360,25,51,Warning
+893,70,24,38,Warning
+273,438,26,46,Warning
+403,259,41,89,High Risk
+500,447,37,44,Warning
+53,393,40,92,Warning
+576,520,41,83,Critical
+188,336,33,94,Warning
+462,465,41,87,High Risk
+434,93,41,62,Warning
+282,182,21,51,Safe
+387,288,40,40,Warning
+153,255,37,83,Safe
+688,167,38,94,Warning
+52,493,25,56,Warning
+985,264,32,52,High Risk
+971,51,20,73,Warning
+678,367,30,92,High Risk
+414,485,21,85,Warning
+990,278,33,33,High Risk
+662,395,26,67,High Risk
+838,493,44,74,Critical
+850,419,21,55,High Risk
+252,508,44,56,High Risk
+163,198,21,81,Safe
+142,192,45,60,Safe
+781,258,41,62,High Risk
+791,376,20,86,Critical
+858,352,28,60,High Risk
+89,399,30,70,Warning
+191,365,41,52,Warning
+135,70,29,77,Safe
+139,523,30,83,Warning
+905,239,20,80,High Risk
+909,473,41,76,Critical
+175,561,22,48,Warning
+461,432,25,95,High Risk
+986,393,30,81,High Risk
+93,342,29,95,Warning
+221,326,20,80,Safe
+980,569,23,59,Critical
+535,324,31,49,Warning
+474,305,42,84,Warning
+379,397,45,67,High Risk
+956,104,22,52,Warning
+431,221,32,47,Warning
+754,193,41,50,High Risk
+681,437,39,41,High Risk
+357,145,36,47,Safe
+932,574,25,56,Critical
+499,128,40,50,Safe
+297,214,37,94,Warning
+326,465,31,50,Warning
+269,158,41,90,Warning
+456,99,44,35,Warning
+964,173,43,84,High Risk
+696,584,24,90,Critical
+975,88,40,63,Warning
+238,536,31,52,Warning
+556,65,20,74,Warning
+751,439,23,71,High Risk
+604,60,23,92,Warning
+87,255,38,89,Warning
+733,122,25,84,Warning
+254,106,31,63,Safe
+538,149,39,70,Warning
+692,522,30,95,Critical
+558,417,39,51,High Risk
+575,458,45,75,High Risk
+430,268,38,92,Warning
+784,190,34,60,Warning
+717,344,33,40,Warning
+636,133,34,82,Warning
+545,472,37,31,High Risk
+577,85,37,79,Warning
+812,246,39,84,High Risk
+286,600,31,35,High Risk
+858,330,32,34,High Risk
+256,464,24,52,Warning
+865,486,34,35,High Risk
+728,566,44,56,Critical
+822,286,42,67,High Risk
+888,125,30,54,Warning
+139,104,36,30,Safe
+930,69,43,69,High Risk
+869,204,20,48,High Risk
+465,141,37,82,Safe
+526,191,38,31,Warning
+697,515,31,77,High Risk
+987,590,33,67,Critical
+887,535,28,93,Critical
+503,186,22,39,Warning
+768,432,32,50,High Risk
+748,127,20,52,Warning
+775,566,43,79,Critical
+980,310,36,44,High Risk
+858,138,21,55,Warning
+998,426,30,70,High Risk
+742,98,45,64,Warning
+873,80,32,51,Warning
+733,62,41,37,Warning
+561,231,26,65,Warning
+999,367,33,56,High Risk
+988,299,39,82,High Risk
+840,420,20,35,High Risk
+703,252,30,89,High Risk
+132,310,35,79,Safe
+737,247,20,46,Warning
+551,205,26,56,Warning
+622,125,27,94,Warning
+358,276,25,54,Warning
+161,74,33,58,Safe
+554,207,28,30,Warning
+291,152,21,76,Safe
+213,131,43,91,Warning
+268,173,43,50,Warning
+736,459,40,57,High Risk
+416,590,36,91,High Risk
+807,353,29,60,High Risk
+275,411,29,90,High Risk
+807,322,28,38,High Risk
+525,82,36,56,Warning
+570,460,43,30,High Risk
+319,423,29,58,Warning
+326,80,44,43,Warning
+631,442,32,52,High Risk
+841,291,39,69,High Risk
+806,178,30,66,Warning
+326,514,37,49,High Risk
+342,411,42,86,High Risk
+942,180,22,63,Warning
+537,512,23,91,Critical
+867,127,24,62,Warning
+906,179,45,74,High Risk
+480,300,38,77,Warning
+976,117,44,83,High Risk
+122,99,28,72,Safe
+424,464,33,45,Warning
+611,438,43,39,High Risk
+358,54,24,77,Safe
+613,298,22,50,Warning
+675,116,43,49,Warning
+648,127,35,33,Warning
+167,60,39,74,Safe
+474,481,28,34,Warning
+813,374,22,80,High Risk
+886,433,30,43,High Risk
+810,327,27,86,High Risk
+231,68,21,30,Safe
+297,97,30,41,Safe
+121,328,36,52,Safe
+846,122,29,90,High Risk
+985,242,39,46,High Risk
+767,237,41,41,High Risk
+435,377,21,70,Warning
+523,422,34,79,High Risk
+137,350,23,67,Safe
+788,486,41,36,Critical
+546,163,30,65,Warning
+823,427,36,49,High Risk
+991,302,35,55,High Risk
+257,407,41,68,High Risk
+242,276,40,73,Safe
+246,232,42,35,Warning
+381,349,36,82,Warning
+738,185,29,58,Warning
+929,133,30,47,Warning
+168,119,36,82,Safe
+699,66,26,37,Warning
+963,160,23,51,Warning
+454,220,22,58,Warning
+634,152,28,72,Warning
+694,376,31,72,High Risk
+107,528,42,34,High Risk
+307,385,20,33,Warning
+431,70,35,81,Safe
+594,518,38,82,High Risk
+227,555,20,65,Warning
+631,481,23,38,High Risk
+866,512,24,95,Critical
+823,358,28,42,High Risk
+88,561,35,91,High Risk
+570,270,30,63,Warning
+696,447,35,57,High Risk
+100,139,37,64,Safe
+657,345,38,77,Warning
+653,102,24,40,Warning
+367,97,44,37,Warning
+784,457,37,45,High Risk
+941,584,40,50,Critical
+205,155,41,50,Safe
+124,329,30,31,Safe
+918,92,32,43,Warning
+403,118,37,60,Safe
+879,317,28,66,High Risk
+439,486,36,70,Warning
+652,173,40,30,Warning
+629,370,26,53,High Risk
+983,235,44,43,High Risk
+922,322,31,56,High Risk
+534,364,36,79,High Risk
+129,156,45,77,Safe
+689,80,25,85,Warning
+194,233,44,40,Warning
+229,582,32,91,High Risk
+892,490,28,61,High Risk
+654,451,37,89,High Risk
+982,282,36,45,High Risk
+194,289,30,89,Warning
+150,321,36,43,Safe
+218,400,26,49,Warning
+535,192,32,44,Warning
+647,444,34,88,High Risk
+522,516,26,73,High Risk
+990,478,21,64,High Risk
+844,224,36,77,High Risk
+150,341,29,41,Safe
+84,265,33,59,Safe
+540,525,20,30,High Risk
+941,414,40,72,High Risk
+346,286,37,34,Warning
+307,74,41,57,Warning
+181,466,41,82,Warning
+912,117,35,62,Warning
+959,342,42,53,High Risk
+209,382,44,47,Warning
+862,183,24,46,Warning
+384,150,44,55,Warning
+668,293,34,72,Warning
+563,130,35,36,Warning
+234,587,25,67,Warning
+560,372,30,55,High Risk
+687,462,34,43,High Risk
+814,99,28,43,Warning
+950,292,39,77,High Risk
+74,227,21,80,Safe
+273,183,27,52,Safe
+333,501,26,94,High Risk
+327,421,41,88,High Risk
+262,336,34,53,Warning
+285,402,26,67,Warning
+144,505,43,92,High Risk
+402,321,41,70,Warning
+55,451,41,86,High Risk
+533,520,44,94,Critical
+205,93,30,76,Safe
+378,476,36,88,High Risk
+69,140,30,94,Safe
+984,449,25,66,High Risk
+921,122,37,66,Warning
+746,116,41,53,Warning
+578,577,31,64,High Risk
+483,290,30,88,Warning
+466,385,45,31,High Risk
+301,591,35,60,High Risk
+626,357,44,86,Critical
+133,335,38,67,Safe
+260,228,40,54,Warning
+466,305,32,55,Warning
+456,340,32,79,Warning
+586,493,29,76,High Risk
+758,537,28,85,Critical
+937,356,36,82,High Risk
+772,59,36,88,High Risk
+845,211,29,92,High Risk
+465,255,37,54,Warning
+342,583,33,36,High Risk
+456,429,21,90,High Risk
+372,548,26,36,High Risk
+224,385,24,37,Warning
+386,90,41,31,Warning
+121,439,32,72,Warning
+334,494,29,88,High Risk
+844,410,20,46,High Risk
+770,243,23,85,High Risk
+646,184,30,89,Warning
+855,540,32,83,Critical
+505,126,27,57,Warning
+230,125,27,32,Safe
+971,90,42,45,High Risk
+652,147,30,66,Warning
+642,214,30,65,Warning
+463,73,32,63,Safe
+276,414,20,85,Warning
+572,373,33,30,High Risk
+365,449,22,72,Warning
+880,404,24,33,High Risk
+104,213,39,32,Safe
+189,270,33,35,Safe
+416,539,24,68,High Risk
+915,141,35,47,Warning
+798,254,24,82,High Risk
+141,199,21,55,Safe
+872,438,45,69,Critical
+620,269,20,52,Warning
+872,487,34,34,High Risk
+156,544,45,81,High Risk
+864,219,29,64,High Risk
+908,334,20,73,High Risk
+387,114,45,80,Warning
+604,600,30,84,High Risk
+476,362,20,38,Warning
+615,557,28,58,High Risk
+963,221,22,72,High Risk
+699,582,37,75,High Risk
+104,226,40,32,Safe
+617,456,20,91,High Risk
+492,351,39,41,Warning
+506,324,32,51,Warning
+385,330,39,69,Warning
+597,523,22,87,Critical
+186,134,43,45,Safe
+789,470,42,70,Critical
+287,61,22,31,Safe
+139,193,25,53,Safe
+757,545,20,90,Critical
+130,323,28,92,Warning

@@ -69,6 +69,49 @@ function getRiskTone(risk: string) {
   return "border-sky-500/30 bg-sky-500/10 text-sky-200";
 }
 
+function isDefaultForm(form: SensorForm) {
+  return (
+    form.methane === initialForm.methane &&
+    form.air_quality === initialForm.air_quality &&
+    form.temperature === initialForm.temperature &&
+    form.humidity === initialForm.humidity
+  );
+}
+
+function buildTrendValues(history: HistoryItem[], key: keyof Omit<HistoryItem, "ID" | "Risk" | "Anomaly">) {
+  return history.map((item) => Number(item[key]));
+}
+
+function Sparkline({ values, color }: { values: number[]; color: string }) {
+  if (values.length === 0) {
+    return <div className="h-10 rounded-xl bg-slate-950/60"></div>;
+  }
+
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const range = max - min || 1;
+  const points = values
+    .map((value, index) => {
+      const x = (index / (values.length - 1)) * 100;
+      const y = 100 - ((value - min) / range) * 100;
+      return `${x},${y}`;
+    })
+    .join(" ");
+
+  return (
+    <svg viewBox="0 0 100 100" className="h-12 w-full overflow-visible">
+      <polyline
+        fill="none"
+        stroke={color}
+        strokeWidth="3"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        points={points}
+      />
+    </svg>
+  );
+}
+
 export default function Home() {
   const [activeSection, setActiveSection] = useState<SectionKey>("overview");
   const [form, setForm] = useState<SensorForm>(initialForm);
@@ -101,6 +144,19 @@ export default function Home() {
   useEffect(() => {
     void loadData();
   }, []);
+
+  useEffect(() => {
+    if (history.length === 0) return;
+    if (!isDefaultForm(form)) return;
+
+    const latest = history[history.length - 1];
+    setForm({
+      methane: latest.Methane,
+      air_quality: latest["Air Quality"],
+      temperature: latest.Temperature,
+      humidity: latest.Humidity,
+    });
+  }, [history]);
 
   const handlePredict = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -140,6 +196,31 @@ export default function Home() {
       { label: "Warning", value: counts.Warning?.toString() ?? "0" },
       { label: "High Risk", value: counts["High Risk"]?.toString() ?? "0" },
     ];
+  }, [history]);
+
+  const historyAnalytics = useMemo(() => {
+    const methane = buildTrendValues(history, "Methane");
+    const air_quality = buildTrendValues(history, "Air Quality");
+    const temperature = buildTrendValues(history, "Temperature");
+    const humidity = buildTrendValues(history, "Humidity");
+
+    const lastTrend = (values: number[]) => {
+      if (values.length < 2) return "flat";
+      return values[values.length - 1] > values[values.length - 2] ? "up" : values[values.length - 1] < values[values.length - 2] ? "down" : "flat";
+    };
+
+    return {
+      methane,
+      air_quality,
+      temperature,
+      humidity,
+      trend: {
+        methane: lastTrend(methane),
+        air_quality: lastTrend(air_quality),
+        temperature: lastTrend(temperature),
+        humidity: lastTrend(humidity),
+      },
+    };
   }, [history]);
 
   return (
@@ -354,6 +435,56 @@ export default function Home() {
                 <p className="mt-1 text-xs text-slate-400">
                   Every prediction is stored so operators can review patterns and respond consistently.
                 </p>
+              </div>
+              <div className="grid gap-3 lg:grid-cols-2">
+                <div className="rounded-xl border border-slate-800 bg-slate-950/60 p-4">
+                  <p className="text-xs font-semibold uppercase tracking-[0.3em] text-slate-400">Trend analytics</p>
+                  <div className="mt-4 space-y-4">
+                    {[
+                      { label: "Methane", values: historyAnalytics.methane, trend: historyAnalytics.trend.methane, suffix: "ppm", color: "#22d3ee" },
+                      { label: "Air quality", values: historyAnalytics.air_quality, trend: historyAnalytics.trend.air_quality, suffix: "ppm", color: "#60a5fa" },
+                      { label: "Temperature", values: historyAnalytics.temperature, trend: historyAnalytics.trend.temperature, suffix: "°C", color: "#fde047" },
+                      { label: "Humidity", values: historyAnalytics.humidity, trend: historyAnalytics.trend.humidity, suffix: "%", color: "#34d399" },
+                    ].map((metric) => (
+                      <div key={metric.label} className="rounded-2xl border border-slate-800 bg-slate-900/60 p-3">
+                        <div className="flex items-center justify-between text-xs text-slate-400">
+                          <span>{metric.label}</span>
+                          <span className={
+                            metric.trend === "up"
+                              ? "text-emerald-300"
+                              : metric.trend === "down"
+                              ? "text-rose-300"
+                              : "text-slate-400"
+                          }>
+                            {metric.trend === "up" ? "↑" : metric.trend === "down" ? "↓" : "—"}
+                          </span>
+                        </div>
+                        <div className="mt-3 flex items-end justify-between gap-3">
+                          <div>
+                            <p className="text-sm text-slate-300">Latest</p>
+                            <p className="text-xl font-semibold text-white">
+                              {history.length > 0 ? formatValue(metric.values[metric.values.length - 1], ` ${metric.suffix}`) : "N/A"}
+                            </p>
+                          </div>
+                          <div className="flex-1">
+                            <Sparkline values={metric.values.slice(-12)} color={metric.color} />
+                          </div>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+                <div className="rounded-xl border border-slate-800 bg-slate-950/60 p-4">
+                  <p className="text-xs font-semibold uppercase tracking-[0.3em] text-slate-400">Class distribution</p>
+                  <div className="mt-4 grid gap-3 sm:grid-cols-2">
+                    {overviewStats.map((stat) => (
+                      <div key={stat.label} className="rounded-2xl border border-slate-800 bg-slate-900/60 p-3">
+                        <p className="text-xs text-slate-400">{stat.label}</p>
+                        <p className="mt-2 text-2xl font-semibold text-white">{stat.value}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
               </div>
 
               {history.length > 0 ? (

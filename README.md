@@ -75,7 +75,7 @@ The API will be available at `http://localhost:8000`
 
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 The React dashboard will be available at `http://localhost:3000`

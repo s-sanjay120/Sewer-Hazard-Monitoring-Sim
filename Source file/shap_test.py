@@ -1,9 +1,12 @@
+from pathlib import Path
+
 import joblib
 import pandas as pd
 import shap
 
+models_dir = Path(__file__).resolve().parent.parent / "models"
 # Load model
-model = joblib.load("sewer_rf_model.pkl")
+model = joblib.load(f"{models_dir}/sewer_rf_model.pkl")
 
 # Create explainer
 explainer = shap.TreeExplainer(model)

@@ -106,7 +106,7 @@ The React dashboard will be available at `http://localhost:3000`
 |-----------|-----------|
 | Frontend | React, TypeScript/JavaScript |
 | Backend | FastAPI (Python) |
-| ML Models | Scikit-learn (Random Forest), TensorFlow/Keras (LSTM) |
+| ML Models | Scikit-learn (Random Forest & Isolation Forest), PyTorch (LSTM) |
 | Database | SQLite |
 | API | REST |
 

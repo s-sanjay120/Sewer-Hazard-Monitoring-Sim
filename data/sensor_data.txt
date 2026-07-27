@@ -1,0 +1,2951 @@
+19:21 | MQ-3 + MQ-135 + DHT22 Sensor Test
+19:21 | --------------------------------
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 234
+19:21 | MQ-135 (Air Quality): 220
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.70 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 234
+19:21 | MQ-135 (Air Quality): 221
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.80 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 222
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.70 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 220
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.70 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 215
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.70 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 214
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.70 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 210
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.80 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 208
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.80 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 215
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.80 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 215
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.70 %
+19:21 | ===== Sensor Readings =====
+19:21 | MQ-4 (Methane): 233
+19:21 | MQ-135 (Air Quality): 213
+19:21 | Temperature: 33.10 °C
+19:21 | Humidity: 64.70 %
+19:22 | MQ-3 + MQ-135 + DHT22 Sensor Test
+19:22 | --------------------------------
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 210
+19:22 | Temperature: 33.10 °C
+19:22 | Humidity: 64.70 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 211
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 209
+19:22 | Temperature: 33.10 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 210
+19:22 | Temperature: 33.10 °C
+19:22 | Humidity: 64.70 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 211
+19:22 | Temperature: 33.10 °C
+19:22 | Humidity: 64.70 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 209
+19:22 | Temperature: 33.10 °C
+19:22 | Humidity: 64.70 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 209
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.70 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 211
+19:22 | Temperature: 33.10 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 216
+19:22 | Temperature: 33.10 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 219
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.70 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 217
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 216
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 216
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.50 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 234
+19:22 | MQ-135 (Air Quality): 218
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 216
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 215
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 215
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.50 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 217
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 215
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 214
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.50 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 210
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 213
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.50 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 234
+19:22 | MQ-135 (Air Quality): 214
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.60 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 234
+19:22 | MQ-135 (Air Quality): 213
+19:22 | Temperature: 33.10 °C
+19:22 | Humidity: 64.50 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 234
+19:22 | MQ-135 (Air Quality): 212
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.50 %
+19:22 | ===== Sensor Readings =====
+19:22 | MQ-4 (Methane): 233
+19:22 | MQ-135 (Air Quality): 208
+19:22 | Temperature: 33.20 °C
+19:22 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 211
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 213
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 215
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 217
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 216
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 211
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 215
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 215
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 213
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 214
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 217
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 210
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 208
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 207
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 204
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 199
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 199
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.50 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 201
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 204
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 203
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 206
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 210
+19:23 | Temperature: 33.30 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 207
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 205
+19:23 | Temperature: 33.30 °C
+19:23 | Humidity: 64.40 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 207
+19:23 | Temperature: 33.30 °C
+19:23 | Humidity: 64.30 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 233
+19:23 | MQ-135 (Air Quality): 206
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.30 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 208
+19:23 | Temperature: 33.20 °C
+19:23 | Humidity: 64.30 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 211
+19:23 | Temperature: 33.30 °C
+19:23 | Humidity: 64.30 %
+19:23 | ===== Sensor Readings =====
+19:23 | MQ-4 (Methane): 234
+19:23 | MQ-135 (Air Quality): 207
+19:23 | Temperature: 33.30 °C
+19:23 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 207
+19:24 | Temperature: 33.20 °C
+19:24 | Humidity: 64.40 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 210
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 211
+19:24 | Temperature: 33.20 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 210
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 209
+19:24 | Temperature: 33.20 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 213
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.40 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 235
+19:24 | MQ-135 (Air Quality): 215
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 214
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.40 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 210
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.40 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 206
+19:24 | Temperature: 33.20 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 205
+19:24 | Temperature: 33.20 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 203
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 208
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 205
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.20 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 204
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 203
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 197
+19:24 | Temperature: 33.20 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 197
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.20 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 199
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.40 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 200
+19:24 | Temperature: 33.20 °C
+19:24 | Humidity: 64.40 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 199
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 200
+19:24 | Temperature: 33.20 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 234
+19:24 | MQ-135 (Air Quality): 203
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:24 | ===== Sensor Readings =====
+19:24 | MQ-4 (Methane): 235
+19:24 | MQ-135 (Air Quality): 207
+19:24 | Temperature: 33.30 °C
+19:24 | Humidity: 64.30 %
+19:26 | MQ-3 + MQ-135 + DHT22 Sensor Test
+19:26 | --------------------------------
+19:26 | ===== Sensor Readings =====
+19:26 | MQ-4 (Methane): 235
+19:26 | MQ-135 (Air Quality): 200
+19:26 | Temperature: 33.20 °C
+19:26 | Humidity: 64.40 %
+19:33 | MQ-3 + MQ-135 + DHT22 Sensor Test
+19:33 | --------------------------------
+19:33 | ===== Sensor Readings =====
+19:33 | MQ-4 (Methane): 237
+19:33 | MQ-135 (Air Quality): 190
+19:33 | Temperature: 33.00 °C
+19:33 | Humidity: 64.90 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 266
+19:38 | MQ-135 (Air Quality): 219
+19:38 | Temperature: 33.10 °C
+19:38 | Humidity: 65.40 %
+19:43 | ===== Sensor Readings =====
+19:43 | MQ-4 (Methane): 263
+19:43 | MQ-135 (Air Quality): 223
+19:43 | Temperature: 33.30 °C
+19:43 | Humidity: 65.90 %
+19:48 | ===== Sensor Readings =====
+19:48 | MQ-4 (Methane): 253
+19:48 | MQ-135 (Air Quality): 225
+19:48 | Temperature: 33.30 °C
+19:48 | Humidity: 66.60 %
+19:53 | ===== Sensor Readings =====
+19:53 | MQ-4 (Methane): 252
+19:53 | MQ-135 (Air Quality): 200
+19:53 | Temperature: 33.30 °C
+19:53 | Humidity: 67.10 %
+19:58 | ===== Sensor Readings =====
+19:58 | MQ-4 (Methane): 253
+19:58 | MQ-135 (Air Quality): 196
+19:58 | Temperature: 33.20 °C
+19:58 | Humidity: 67.60 %
+20:03 | ===== Sensor Readings =====
+20:03 | MQ-4 (Methane): 253
+20:03 | MQ-135 (Air Quality): 200
+20:03 | Temperature: 33.40 °C
+20:03 | Humidity: 66.70 %
+20:08 | ===== Sensor Readings =====
+20:08 | MQ-4 (Methane): 255
+20:08 | MQ-135 (Air Quality): 200
+20:08 | Temperature: 33.50 °C
+20:08 | Humidity: 66.50 %
+20:13 | ===== Sensor Readings =====
+20:13 | MQ-4 (Methane): 246
+20:13 | MQ-135 (Air Quality): 183
+20:13 | Temperature: 33.60 °C
+20:13 | Humidity: 65.40 %
+20:25 | ===== Sensor Readings =====
+20:25 | MQ-4 (Methane): 252
+20:25 | MQ-135 (Air Quality): 178
+20:25 | Temperature: 33.80 °C
+20:25 | Humidity: 64.90 %
+20:25 | ===== Sensor Readings =====
+20:25 | MQ-4 (Methane): 255
+20:25 | MQ-135 (Air Quality): 173
+20:25 | Temperature: 33.80 °C
+20:25 | Humidity: 64.20 %
+20:27 | MQ-3 + MQ-135 + DHT22 Sensor Test
+20:27 | --------------------------------
+20:27 | ===== Sensor Readings =====
+20:27 | MQ-4 (Methane): 256
+20:27 | MQ-135 (Air Quality): 162
+20:27 | Temperature: 33.60 °C
+20:27 | Humidity: 65.40 %
+20:28 | ===== Sensor Readings =====
+20:28 | MQ-4 (Methane): 246
+20:28 | MQ-135 (Air Quality): 151
+20:28 | Temperature: 33.50 °C
+20:28 | Humidity: 65.50 %
+20:29 | ===== Sensor Readings =====
+20:29 | MQ-4 (Methane): 246
+20:29 | MQ-135 (Air Quality): 155
+20:29 | Temperature: 33.50 °C
+20:29 | Humidity: 65.60 %
+20:30 | ===== Sensor Readings =====
+20:30 | MQ-4 (Methane): 247
+20:30 | MQ-135 (Air Quality): 165
+20:30 | Temperature: 33.50 °C
+20:30 | Humidity: 65.50 %
+20:31 | ===== Sensor Readings =====
+20:31 | MQ-4 (Methane): 247
+20:31 | MQ-135 (Air Quality): 154
+20:31 | Temperature: 33.50 °C
+20:31 | Humidity: 65.50 %
+20:32 | ===== Sensor Readings =====
+20:32 | MQ-4 (Methane): 247
+20:32 | MQ-135 (Air Quality): 159
+20:32 | Temperature: 33.50 °C
+20:32 | Humidity: 65.60 %
+20:33 | ===== Sensor Readings =====
+20:33 | MQ-4 (Methane): 247
+20:33 | MQ-135 (Air Quality): 155
+20:33 | Temperature: 33.50 °C
+20:33 | Humidity: 65.60 %
+20:34 | ===== Sensor Readings =====
+20:34 | MQ-4 (Methane): 247
+20:34 | MQ-135 (Air Quality): 156
+20:34 | Temperature: 33.50 °C
+20:34 | Humidity: 65.80 %
+20:35 | ===== Sensor Readings =====
+20:35 | MQ-4 (Methane): 247
+20:35 | MQ-135 (Air Quality): 158
+20:35 | Temperature: 33.40 °C
+20:35 | Humidity: 66.00 %
+20:36 | ===== Sensor Readings =====
+20:36 | MQ-4 (Methane): 248
+20:36 | MQ-135 (Air Quality): 163
+20:36 | Temperature: 33.40 °C
+20:36 | Humidity: 66.00 %
+20:37 | ===== Sensor Readings =====
+20:37 | MQ-4 (Methane): 248
+20:37 | MQ-135 (Air Quality): 164
+20:37 | Temperature: 33.40 °C
+20:37 | Humidity: 66.00 %
+20:38 | ===== Sensor Readings =====
+20:38 | MQ-4 (Methane): 247
+20:38 | MQ-135 (Air Quality): 155
+20:38 | Temperature: 33.40 °C
+20:38 | Humidity: 66.20 %
+20:39 | ===== Sensor Readings =====
+20:39 | MQ-4 (Methane): 248
+20:39 | MQ-135 (Air Quality): 157
+20:39 | Temperature: 33.50 °C
+20:39 | Humidity: 66.10 %
+20:40 | ===== Sensor Readings =====
+20:40 | MQ-4 (Methane): 248
+20:40 | MQ-135 (Air Quality): 160
+20:40 | Temperature: 33.40 °C
+20:40 | Humidity: 66.10 %
+20:41 | ===== Sensor Readings =====
+20:41 | MQ-4 (Methane): 248
+20:41 | MQ-135 (Air Quality): 162
+20:41 | Temperature: 33.50 °C
+20:41 | Humidity: 66.10 %
+20:42 | ===== Sensor Readings =====
+20:42 | MQ-4 (Methane): 249
+20:42 | MQ-135 (Air Quality): 166
+20:42 | Temperature: 33.40 °C
+20:42 | Humidity: 66.10 %
+20:43 | ===== Sensor Readings =====
+20:43 | MQ-4 (Methane): 248
+20:43 | MQ-135 (Air Quality): 164
+20:43 | Temperature: 33.40 °C
+20:43 | Humidity: 66.10 %
+20:44 | ===== Sensor Readings =====
+20:44 | MQ-4 (Methane): 248
+20:44 | MQ-135 (Air Quality): 193
+20:44 | Temperature: 33.50 °C
+20:44 | Humidity: 66.10 %
+20:45 | ===== Sensor Readings =====
+20:45 | MQ-4 (Methane): 249
+20:45 | MQ-135 (Air Quality): 193
+20:45 | Temperature: 33.40 °C
+20:45 | Humidity: 66.10 %
+20:46 | ===== Sensor Readings =====
+20:46 | MQ-4 (Methane): 248
+20:46 | MQ-135 (Air Quality): 187
+20:46 | Temperature: 33.40 °C
+20:46 | Humidity: 66.30 %
+20:47 | ===== Sensor Readings =====
+20:47 | MQ-4 (Methane): 248
+20:47 | MQ-135 (Air Quality): 182
+20:47 | Temperature: 33.40 °C
+20:47 | Humidity: 66.20 %
+20:48 | MQ-3 + MQ-135 + DHT22 Sensor Test
+20:48 | --------------------------------
+20:48 | ===== Sensor Readings =====
+20:48 | MQ-4 (Methane): 249
+20:48 | MQ-135 (Air Quality): 187
+20:48 | Temperature: 33.40 °C
+20:48 | Humidity: 66.40 %
+20:48 | ===== Sensor Readings =====
+20:48 | MQ-4 (Methane): 248
+20:48 | MQ-135 (Air Quality): 180
+20:48 | Temperature: 33.40 °C
+20:48 | Humidity: 66.40 %
+20:49 | ===== Sensor Readings =====
+20:49 | MQ-4 (Methane): 247
+20:49 | MQ-135 (Air Quality): 177
+20:49 | Temperature: 33.40 °C
+20:49 | Humidity: 66.50 %
+20:50 | ===== Sensor Readings =====
+20:50 | MQ-4 (Methane): 249
+20:50 | MQ-135 (Air Quality): 172
+20:50 | DHT22 Read Failed!
+20:50 | ===== Sensor Readings =====
+20:50 | MQ-4 (Methane): 238
+20:50 | MQ-135 (Air Quality): 167
+20:50 | Temperature: 33.30 °C
+20:50 | Humidity: 66.70 %
+20:51 | ===== Sensor Readings =====
+20:51 | MQ-4 (Methane): 239
+20:51 | MQ-135 (Air Quality): 163
+20:51 | Temperature: 33.40 °C
+20:51 | Humidity: 66.60 %
+20:52 | ===== Sensor Readings =====
+20:52 | MQ-4 (Methane): 239
+20:52 | MQ-135 (Air Quality): 158
+20:52 | Temperature: 33.40 °C
+20:52 | Humidity: 66.50 %
+20:52 | ===== Sensor Readings =====
+20:52 | MQ-4 (Methane): 240
+20:52 | MQ-135 (Air Quality): 163
+20:52 | Temperature: 33.40 °C
+20:52 | Humidity: 66.40 %
+20:53 | ===== Sensor Readings =====
+20:53 | MQ-4 (Methane): 241
+20:53 | MQ-135 (Air Quality): 159
+20:53 | Temperature: 33.50 °C
+20:53 | Humidity: 66.40 %
+20:54 | MQ-3 + MQ-135 + DHT22 Sensor Test
+20:54 | --------------------------------
+20:54 | ===== Sensor Readings =====
+20:54 | MQ-4 (Methane): 242
+20:54 | MQ-135 (Air Quality): 167
+20:54 | Temperature: 33.40 °C
+20:54 | Humidity: 66.60 %
+20:55 | ===== Sensor Readings =====
+20:55 | MQ-4 (Methane): 290
+20:55 | MQ-135 (Air Quality): 198
+20:55 | Temperature: 33.40 °C
+20:55 | Humidity: 66.40 %
+20:55 | ===== Sensor Readings =====
+20:55 | MQ-4 (Methane): 281
+20:55 | MQ-135 (Air Quality): 208
+20:55 | Temperature: 33.30 °C
+20:55 | Humidity: 66.60 %
+20:56 | ===== Sensor Readings =====
+20:56 | MQ-4 (Methane): 280
+20:56 | MQ-135 (Air Quality): 204
+20:56 | Temperature: 33.30 °C
+20:56 | Humidity: 66.70 %
+20:57 | ===== Sensor Readings =====
+20:57 | MQ-4 (Methane): 275
+20:57 | MQ-135 (Air Quality): 205
+20:57 | Temperature: 33.20 °C
+20:57 | Humidity: 67.00 %
+20:57 | ===== Sensor Readings =====
+20:57 | MQ-4 (Methane): 272
+20:57 | MQ-135 (Air Quality): 203
+20:57 | Temperature: 33.20 °C
+20:57 | Humidity: 67.20 %
+20:58 | ===== Sensor Readings =====
+20:58 | MQ-4 (Methane): 268
+20:58 | MQ-135 (Air Quality): 196
+20:58 | Temperature: 33.20 °C
+20:58 | Humidity: 67.10 %
+20:59 | ===== Sensor Readings =====
+20:59 | MQ-4 (Methane): 294
+20:59 | MQ-135 (Air Quality): 214
+20:59 | Temperature: 33.30 °C
+20:59 | Humidity: 67.30 %
+21:00 | ===== Sensor Readings =====
+21:00 | MQ-4 (Methane): 287
+21:00 | MQ-135 (Air Quality): 208
+21:00 | Temperature: 33.20 °C
+21:00 | Humidity: 67.30 %
+21:00 | ===== Sensor Readings =====
+21:00 | MQ-4 (Methane): 285
+21:00 | MQ-135 (Air Quality): 208
+21:00 | Temperature: 33.20 °C
+21:00 | Humidity: 67.50 %
+21:01 | ===== Sensor Readings =====
+21:01 | MQ-4 (Methane): 283
+21:01 | MQ-135 (Air Quality): 212
+21:01 | Temperature: 33.20 °C
+21:01 | Humidity: 67.60 %
+21:02 | ===== Sensor Readings =====
+21:02 | MQ-4 (Methane): 281
+21:02 | MQ-135 (Air Quality): 205
+21:02 | Temperature: 33.10 °C
+21:02 | Humidity: 68.00 %
+21:02 | ===== Sensor Readings =====
+21:02 | MQ-4 (Methane): 279
+21:02 | MQ-135 (Air Quality): 204
+21:02 | Temperature: 33.10 °C
+21:02 | Humidity: 68.00 %
+21:03 | ===== Sensor Readings =====
+21:03 | MQ-4 (Methane): 277
+21:03 | MQ-135 (Air Quality): 202
+21:03 | Temperature: 33.10 °C
+21:03 | Humidity: 68.10 %
+21:04 | ===== Sensor Readings =====
+21:04 | MQ-4 (Methane): 256
+21:04 | MQ-135 (Air Quality): 184
+21:04 | DHT22 Read Failed!
+21:05 | ===== Sensor Readings =====
+21:05 | MQ-4 (Methane): 255
+21:05 | MQ-135 (Air Quality): 183
+21:05 | DHT22 Read Failed!
+21:05 | ===== Sensor Readings =====
+21:05 | MQ-4 (Methane): 258
+21:05 | MQ-135 (Air Quality): 179
+21:05 | DHT22 Read Failed!
+21:06 | ===== Sensor Readings =====
+21:06 | MQ-4 (Methane): 258
+21:06 | MQ-135 (Air Quality): 178
+21:06 | DHT22 Read Failed!
+21:07 | ===== Sensor Readings =====
+21:07 | MQ-4 (Methane): 259
+21:07 | MQ-135 (Air Quality): 182
+21:07 | DHT22 Read Failed!
+21:07 | ===== Sensor Readings =====
+21:07 | MQ-4 (Methane): 256
+21:07 | MQ-135 (Air Quality): 181
+21:07 | DHT22 Read Failed!
+21:08 | ===== Sensor Readings =====
+21:08 | MQ-4 (Methane): 256
+21:08 | MQ-135 (Air Quality): 184
+21:08 | DHT22 Read Failed!
+21:09 | ===== Sensor Readings =====
+21:09 | MQ-4 (Methane): 257
+21:09 | MQ-135 (Air Quality): 180
+21:09 | DHT22 Read Failed!
+21:09 | ===== Sensor Readings =====
+21:09 | MQ-4 (Methane): 255
+21:09 | MQ-135 (Air Quality): 179
+21:09 | DHT22 Read Failed!
+21:10 | ===== Sensor Readings =====
+21:10 | MQ-4 (Methane): 254
+21:10 | MQ-135 (Air Quality): 167
+21:10 | DHT22 Read Failed!
+21:11 | ===== Sensor Readings =====
+21:11 | MQ-4 (Methane): 255
+21:11 | MQ-135 (Air Quality): 170
+21:11 | DHT22 Read Failed!
+21:12 | ===== Sensor Readings =====
+21:12 | MQ-4 (Methane): 255
+21:12 | MQ-135 (Air Quality): 177
+21:12 | DHT22 Read Failed!
+21:12 | ===== Sensor Readings =====
+21:12 | MQ-4 (Methane): 254
+21:12 | MQ-135 (Air Quality): 172
+21:12 | DHT22 Read Failed!
+21:13 | ===== Sensor Readings =====
+21:13 | MQ-4 (Methane): 254
+21:13 | MQ-135 (Air Quality): 179
+21:13 | DHT22 Read Failed!
+21:14 | ===== Sensor Readings =====
+21:14 | MQ-4 (Methane): 256
+21:14 | MQ-135 (Air Quality): 180
+21:14 | DHT22 Read Failed!
+21:14 | ===== Sensor Readings =====
+21:14 | MQ-4 (Methane): 269
+21:14 | MQ-135 (Air Quality): 182
+21:14 | Temperature: 33.00 °C
+21:14 | Humidity: 69.30 %
+21:15 | ===== Sensor Readings =====
+21:15 | MQ-4 (Methane): 329
+21:15 | MQ-135 (Air Quality): 243
+21:15 | Temperature: 32.90 °C
+21:15 | Humidity: 69.30 %
+21:16 | ===== Sensor Readings =====
+21:16 | MQ-4 (Methane): 330
+21:16 | MQ-135 (Air Quality): 250
+21:16 | Temperature: 32.90 °C
+21:16 | Humidity: 69.30 %
+21:17 | ===== Sensor Readings =====
+21:17 | MQ-4 (Methane): 336
+21:17 | MQ-135 (Air Quality): 256
+21:17 | Temperature: 32.90 °C
+21:17 | Humidity: 69.30 %
+21:17 | ===== Sensor Readings =====
+21:17 | MQ-4 (Methane): 328
+21:17 | MQ-135 (Air Quality): 252
+21:17 | Temperature: 33.00 °C
+21:17 | Humidity: 69.40 %
+21:18 | ===== Sensor Readings =====
+21:18 | MQ-4 (Methane): 275
+21:18 | MQ-135 (Air Quality): 197
+21:18 | DHT22 Read Failed!
+21:19 | ===== Sensor Readings =====
+21:19 | MQ-4 (Methane): 266
+21:19 | MQ-135 (Air Quality): 199
+21:19 | Temperature: 33.00 °C
+21:19 | Humidity: 69.60 %
+21:19 | ===== Sensor Readings =====
+21:19 | MQ-4 (Methane): 278
+21:19 | MQ-135 (Air Quality): 207
+21:19 | Temperature: 33.00 °C
+21:19 | Humidity: 69.60 %
+21:20 | ===== Sensor Readings =====
+21:20 | MQ-4 (Methane): 279
+21:20 | MQ-135 (Air Quality): 203
+21:20 | Temperature: 33.00 °C
+21:20 | Humidity: 69.60 %
+21:21 | ===== Sensor Readings =====
+21:21 | MQ-4 (Methane): 286
+21:21 | MQ-135 (Air Quality): 214
+21:21 | Temperature: 33.00 °C
+21:21 | Humidity: 69.60 %
+21:22 | ===== Sensor Readings =====
+21:22 | MQ-4 (Methane): 280
+21:22 | MQ-135 (Air Quality): 206
+21:22 | Temperature: 33.10 °C
+21:22 | Humidity: 69.60 %
+21:22 | ===== Sensor Readings =====
+21:22 | MQ-4 (Methane): 277
+21:22 | MQ-135 (Air Quality): 207
+21:22 | Temperature: 33.10 °C
+21:22 | Humidity: 69.50 %
+21:23 | ===== Sensor Readings =====
+21:23 | MQ-4 (Methane): 257
+21:23 | MQ-135 (Air Quality): 196
+21:23 | Temperature: 33.10 °C
+21:23 | Humidity: 69.30 %
+21:24 | ===== Sensor Readings =====
+21:24 | MQ-4 (Methane): 252
+21:24 | MQ-135 (Air Quality): 178
+21:24 | Temperature: 33.00 °C
+21:24 | Humidity: 69.50 %
+21:24 | ===== Sensor Readings =====
+21:24 | MQ-4 (Methane): 265
+21:24 | MQ-135 (Air Quality): 188
+21:24 | Temperature: 33.00 °C
+21:24 | Humidity: 69.60 %
+21:25 | ===== Sensor Readings =====
+21:25 | MQ-4 (Methane): 263
+21:25 | MQ-135 (Air Quality): 190
+21:25 | Temperature: 32.90 °C
+21:25 | Humidity: 69.70 %
+21:26 | ===== Sensor Readings =====
+21:26 | MQ-4 (Methane): 265
+21:26 | MQ-135 (Air Quality): 191
+21:26 | Temperature: 32.90 °C
+21:26 | Humidity: 70.00 %
+21:27 | ===== Sensor Readings =====
+21:27 | MQ-4 (Methane): 264
+21:27 | MQ-135 (Air Quality): 191
+21:27 | Temperature: 32.90 °C
+21:27 | Humidity: 70.00 %
+21:27 | ===== Sensor Readings =====
+21:27 | MQ-4 (Methane): 261
+21:27 | MQ-135 (Air Quality): 182
+21:27 | Temperature: 32.90 °C
+21:27 | Humidity: 70.10 %
+21:28 | ===== Sensor Readings =====
+21:28 | MQ-4 (Methane): 266
+21:28 | MQ-135 (Air Quality): 190
+21:28 | Temperature: 33.00 °C
+21:28 | Humidity: 70.10 %
+21:29 | ===== Sensor Readings =====
+21:29 | MQ-4 (Methane): 266
+21:29 | MQ-135 (Air Quality): 197
+21:29 | Temperature: 32.90 °C
+21:29 | Humidity: 70.20 %
+21:29 | ===== Sensor Readings =====
+21:29 | MQ-4 (Methane): 264
+21:29 | MQ-135 (Air Quality): 188
+21:29 | Temperature: 33.00 °C
+21:29 | Humidity: 70.20 %
+21:30 | ===== Sensor Readings =====
+21:30 | MQ-4 (Methane): 239
+21:30 | MQ-135 (Air Quality): 177
+21:30 | Temperature: 33.00 °C
+21:30 | Humidity: 70.10 %
+21:31 | ===== Sensor Readings =====
+21:31 | MQ-4 (Methane): 241
+21:31 | MQ-135 (Air Quality): 170
+21:31 | Temperature: 33.00 °C
+21:31 | Humidity: 69.90 %
+19:37 | MQ-3 + MQ-135 + DHT22 Sensor Test
+19:37 | --------------------------------
+19:37 | ===== Sensor Readings =====
+19:37 | MQ-4 (Methane): 279
+19:37 | MQ-135 (Air Quality): 312
+19:37 | Temperature: 32.70 °C
+19:37 | Humidity: 65.10 %
+19:37 | ===== Sensor Readings =====
+19:37 | MQ-4 (Methane): 299
+19:37 | MQ-135 (Air Quality): 337
+19:37 | Temperature: 32.70 °C
+19:37 | Humidity: 65.10 %
+19:37 | ===== Sensor Readings =====
+19:37 | MQ-4 (Methane): 298
+19:37 | MQ-135 (Air Quality): 342
+19:37 | Temperature: 32.70 °C
+19:37 | Humidity: 65.00 %
+19:37 | ===== Sensor Readings =====
+19:37 | MQ-4 (Methane): 298
+19:37 | MQ-135 (Air Quality): 348
+19:37 | Temperature: 32.80 °C
+19:37 | Humidity: 65.90 %
+19:37 | ===== Sensor Readings =====
+19:37 | MQ-4 (Methane): 298
+19:37 | MQ-135 (Air Quality): 349
+19:37 | Temperature: 32.80 °C
+19:37 | Humidity: 65.80 %
+19:37 | ===== Sensor Readings =====
+19:37 | MQ-4 (Methane): 292
+19:37 | MQ-135 (Air Quality): 342
+19:37 | Temperature: 32.70 °C
+19:37 | Humidity: 65.10 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 288
+19:38 | MQ-135 (Air Quality): 339
+19:38 | Temperature: 32.70 °C
+19:38 | Humidity: 64.90 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 288
+19:38 | MQ-135 (Air Quality): 348
+19:38 | Temperature: 32.80 °C
+19:38 | Humidity: 65.70 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 287
+19:38 | MQ-135 (Air Quality): 347
+19:38 | Temperature: 32.80 °C
+19:38 | Humidity: 65.00 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 284
+19:38 | MQ-135 (Air Quality): 353
+19:38 | Temperature: 32.80 °C
+19:38 | Humidity: 65.70 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 285
+19:38 | MQ-135 (Air Quality): 351
+19:38 | Temperature: 32.80 °C
+19:38 | Humidity: 65.70 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 285
+19:38 | MQ-135 (Air Quality): 354
+19:38 | Temperature: 32.70 °C
+19:38 | Humidity: 65.00 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 286
+19:38 | MQ-135 (Air Quality): 357
+19:38 | Temperature: 32.70 °C
+19:38 | Humidity: 65.00 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 285
+19:38 | MQ-135 (Air Quality): 360
+19:38 | Temperature: 32.70 °C
+19:38 | Humidity: 65.00 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 287
+19:38 | MQ-135 (Air Quality): 363
+19:38 | Temperature: 32.80 °C
+19:38 | Humidity: 65.00 %
+19:38 | ===== Sensor Readings =====
+19:38 | MQ-4 (Methane): 288
+19:38 | MQ-135 (Air Quality): 364
+19:38 | Temperature: 32.80 °C
+19:38 | Humidity: 65.00 %
+19:39 | ===== Sensor Readings =====
+19:39 | MQ-4 (Methane): 289
+19:39 | MQ-135 (Air Quality): 360
+19:39 | Temperature: 32.70 °C
+19:39 | Humidity: 64.90 %
+19:39 | ===== Sensor Readings =====
+19:39 | MQ-4 (Methane): 289
+19:39 | MQ-135 (Air Quality): 359
+19:39 | Temperature: 32.80 °C
+19:39 | Humidity: 65.50 %
+10:47 | MQ-3 + MQ-135 + DHT22 Sensor Test
+10:47 | --------------------------------
+10:47 | ===== Sensor Readings =====
+10:47 | MQ-4 (Methane): 281
+10:47 | MQ-135 (Air Quality): 471
+10:47 | Temperature: 32.80 °C
+10:47 | Humidity: 64.10 %
+10:48 | ===== Sensor Readings =====
+10:48 | MQ-4 (Methane): 276
+10:48 | MQ-135 (Air Quality): 465
+10:48 | Temperature: 32.80 °C
+10:48 | Humidity: 64.00 %
+10:48 | ===== Sensor Readings =====
+10:48 | MQ-4 (Methane): 278
+10:48 | MQ-135 (Air Quality): 463
+10:48 | Temperature: 32.80 °C
+10:48 | Humidity: 63.80 %
+10:48 | ===== Sensor Readings =====
+10:48 | MQ-4 (Methane): 277
+10:48 | MQ-135 (Air Quality): 455
+10:48 | Temperature: 32.80 °C
+10:48 | Humidity: 63.80 %
+10:49 | ===== Sensor Readings =====
+10:49 | MQ-4 (Methane): 279
+10:49 | MQ-135 (Air Quality): 457
+10:49 | Temperature: 32.80 °C
+10:49 | Humidity: 63.60 %
+10:49 | ===== Sensor Readings =====
+10:49 | MQ-4 (Methane): 279
+10:49 | MQ-135 (Air Quality): 443
+10:49 | Temperature: 32.80 °C
+10:49 | Humidity: 63.70 %
+10:49 | ===== Sensor Readings =====
+10:49 | MQ-4 (Methane): 280
+10:49 | MQ-135 (Air Quality): 432
+10:49 | DHT22 Read Failed!
+10:50 | ===== Sensor Readings =====
+10:50 | MQ-4 (Methane): 280
+10:50 | MQ-135 (Air Quality): 426
+10:50 | Temperature: 32.90 °C
+10:50 | Humidity: 63.40 %
+10:50 | ===== Sensor Readings =====
+10:50 | MQ-4 (Methane): 282
+10:50 | MQ-135 (Air Quality): 422
+10:50 | Temperature: 32.90 °C
+10:50 | Humidity: 63.40 %
+10:50 | ===== Sensor Readings =====
+10:50 | MQ-4 (Methane): 284
+10:50 | MQ-135 (Air Quality): 415
+10:50 | Temperature: 32.90 °C
+10:50 | Humidity: 63.20 %
+10:51 | ===== Sensor Readings =====
+10:51 | MQ-4 (Methane): 284
+10:51 | MQ-135 (Air Quality): 415
+10:51 | Temperature: 32.90 °C
+10:51 | Humidity: 63.10 %
+10:51 | ===== Sensor Readings =====
+10:51 | MQ-4 (Methane): 284
+10:51 | MQ-135 (Air Quality): 415
+10:51 | Temperature: 32.90 °C
+10:51 | Humidity: 62.90 %
+10:51 | ===== Sensor Readings =====
+10:51 | MQ-4 (Methane): 284
+10:51 | MQ-135 (Air Quality): 405
+10:51 | Temperature: 32.90 °C
+10:51 | Humidity: 62.90 %
+10:52 | ===== Sensor Readings =====
+10:52 | MQ-4 (Methane): 284
+10:52 | MQ-135 (Air Quality): 410
+10:52 | Temperature: 32.90 °C
+10:52 | Humidity: 62.90 %
+10:52 | ===== Sensor Readings =====
+10:52 | MQ-4 (Methane): 284
+10:52 | MQ-135 (Air Quality): 407
+10:52 | Temperature: 32.90 °C
+10:52 | Humidity: 62.90 %
+10:52 | ===== Sensor Readings =====
+10:52 | MQ-4 (Methane): 284
+10:52 | MQ-135 (Air Quality): 398
+10:52 | Temperature: 32.90 °C
+10:52 | Humidity: 62.80 %
+10:53 | ===== Sensor Readings =====
+10:53 | MQ-4 (Methane): 285
+10:53 | MQ-135 (Air Quality): 392
+10:53 | Temperature: 32.90 °C
+10:53 | Humidity: 62.80 %
+10:53 | ===== Sensor Readings =====
+10:53 | MQ-4 (Methane): 285
+10:53 | MQ-135 (Air Quality): 390
+10:53 | Temperature: 32.90 °C
+10:53 | Humidity: 62.70 %
+10:53 | ===== Sensor Readings =====
+10:53 | MQ-4 (Methane): 285
+10:53 | MQ-135 (Air Quality): 382
+10:53 | Temperature: 32.90 °C
+10:53 | Humidity: 62.80 %
+10:54 | ===== Sensor Readings =====
+10:54 | MQ-4 (Methane): 285
+10:54 | MQ-135 (Air Quality): 378
+10:54 | Temperature: 32.90 °C
+10:54 | Humidity: 62.60 %
+10:54 | ===== Sensor Readings =====
+10:54 | MQ-4 (Methane): 285
+10:54 | MQ-135 (Air Quality): 377
+10:54 | Temperature: 32.90 °C
+10:54 | Humidity: 62.60 %
+10:54 | ===== Sensor Readings =====
+10:54 | MQ-4 (Methane): 269
+10:54 | MQ-135 (Air Quality): 376
+10:54 | Temperature: 32.90 °C
+10:54 | Humidity: 62.50 %
+10:55 | ===== Sensor Readings =====
+10:55 | MQ-4 (Methane): 271
+10:55 | MQ-135 (Air Quality): 376
+10:55 | Temperature: 32.90 °C
+10:55 | Humidity: 62.70 %
+10:55 | ===== Sensor Readings =====
+10:55 | MQ-4 (Methane): 271
+10:55 | MQ-135 (Air Quality): 377
+10:55 | Temperature: 32.90 °C
+10:55 | Humidity: 62.60 %
+10:55 | ===== Sensor Readings =====
+10:55 | MQ-4 (Methane): 263
+10:55 | MQ-135 (Air Quality): 351
+10:55 | DHT22 Read Failed!
+10:56 | ===== Sensor Readings =====
+10:56 | MQ-4 (Methane): 246
+10:56 | MQ-135 (Air Quality): 365
+10:56 | Temperature: 33.00 °C
+10:56 | Humidity: 62.90 %
+10:56 | ===== Sensor Readings =====
+10:56 | MQ-4 (Methane): 248
+10:56 | MQ-135 (Air Quality): 357
+10:56 | Temperature: 33.00 °C
+10:56 | Humidity: 62.80 %
+10:56 | ===== Sensor Readings =====
+10:56 | MQ-4 (Methane): 248
+10:56 | MQ-135 (Air Quality): 351
+10:56 | Temperature: 33.00 °C
+10:56 | Humidity: 62.80 %
+10:57 | ===== Sensor Readings =====
+10:57 | MQ-4 (Methane): 248
+10:57 | MQ-135 (Air Quality): 354
+10:57 | Temperature: 32.90 °C
+10:57 | Humidity: 63.10 %
+10:57 | ===== Sensor Readings =====
+10:57 | MQ-4 (Methane): 248
+10:57 | MQ-135 (Air Quality): 347
+10:57 | Temperature: 32.90 °C
+10:57 | Humidity: 63.00 %
+10:58 | ===== Sensor Readings =====
+10:58 | MQ-4 (Methane): 251
+10:58 | MQ-135 (Air Quality): 340
+10:58 | Temperature: 32.90 °C
+10:58 | Humidity: 62.80 %
+10:58 | ===== Sensor Readings =====
+10:58 | MQ-4 (Methane): 257
+10:58 | MQ-135 (Air Quality): 335
+10:58 | Temperature: 33.00 °C
+10:58 | Humidity: 62.80 %
+10:58 | ===== Sensor Readings =====
+10:58 | MQ-4 (Methane): 256
+10:58 | MQ-135 (Air Quality): 338
+10:58 | Temperature: 32.90 °C
+10:58 | Humidity: 62.80 %
+10:59 | ===== Sensor Readings =====
+10:59 | MQ-4 (Methane): 235
+10:59 | MQ-135 (Air Quality): 290
+10:59 | Temperature: 33.00 °C
+10:59 | Humidity: 63.00 %
+10:59 | ===== Sensor Readings =====
+10:59 | MQ-4 (Methane): 238
+10:59 | MQ-135 (Air Quality): 329
+10:59 | Temperature: 33.00 °C
+10:59 | Humidity: 62.90 %
+10:59 | ===== Sensor Readings =====
+10:59 | MQ-4 (Methane): 237
+10:59 | MQ-135 (Air Quality): 330
+10:59 | Temperature: 33.00 °C
+10:59 | Humidity: 62.90 %
+11:00 | ===== Sensor Readings =====
+11:00 | MQ-4 (Methane): 236
+11:00 | MQ-135 (Air Quality): 331
+11:00 | Temperature: 33.00 °C
+11:00 | Humidity: 62.90 %
+11:00 | ===== Sensor Readings =====
+11:00 | MQ-4 (Methane): 237
+11:00 | MQ-135 (Air Quality): 322
+11:00 | Temperature: 33.00 °C
+11:00 | Humidity: 62.70 %
+11:00 | ===== Sensor Readings =====
+11:00 | MQ-4 (Methane): 238
+11:00 | MQ-135 (Air Quality): 321
+11:00 | Temperature: 33.00 °C
+11:00 | Humidity: 62.80 %
+11:01 | ===== Sensor Readings =====
+11:01 | MQ-4 (Methane): 238
+11:01 | MQ-135 (Air Quality): 322
+11:01 | Temperature: 33.00 °C
+11:01 | Humidity: 62.70 %
+11:01 | ===== Sensor Readings =====
+11:01 | MQ-4 (Methane): 238
+11:01 | MQ-135 (Air Quality): 313
+11:01 | Temperature: 33.00 °C
+11:01 | Humidity: 62.70 %
+11:01 | ===== Sensor Readings =====
+11:01 | MQ-4 (Methane): 238
+11:01 | MQ-135 (Air Quality): 316
+11:01 | Temperature: 33.00 °C
+11:01 | Humidity: 62.70 %
+11:02 | ===== Sensor Readings =====
+11:02 | MQ-4 (Methane): 238
+11:02 | MQ-135 (Air Quality): 323
+11:02 | Temperature: 33.00 °C
+11:02 | Humidity: 62.80 %
+11:02 | ===== Sensor Readings =====
+11:02 | MQ-4 (Methane): 238
+11:02 | MQ-135 (Air Quality): 349
+11:02 | Temperature: 33.00 °C
+11:02 | Humidity: 62.80 %
+11:02 | ===== Sensor Readings =====
+11:02 | MQ-4 (Methane): 238
+11:02 | MQ-135 (Air Quality): 346
+11:02 | Temperature: 33.00 °C
+11:02 | Humidity: 62.80 %
+11:03 | ===== Sensor Readings =====
+11:03 | MQ-4 (Methane): 239
+11:03 | MQ-135 (Air Quality): 340
+11:03 | Temperature: 33.00 °C
+11:03 | Humidity: 62.80 %
+11:03 | ===== Sensor Readings =====
+11:03 | MQ-4 (Methane): 268
+11:03 | MQ-135 (Air Quality): 349
+11:03 | Temperature: 33.00 °C
+11:03 | Humidity: 62.90 %
+11:03 | ===== Sensor Readings =====
+11:03 | MQ-4 (Methane): 276
+11:03 | MQ-135 (Air Quality): 343
+11:03 | Temperature: 33.00 °C
+11:03 | Humidity: 63.00 %
+11:04 | ===== Sensor Readings =====
+11:04 | MQ-4 (Methane): 278
+11:04 | MQ-135 (Air Quality): 339
+11:04 | Temperature: 33.00 °C
+11:04 | Humidity: 63.10 %
+11:04 | ===== Sensor Readings =====
+11:04 | MQ-4 (Methane): 281
+11:04 | MQ-135 (Air Quality): 334
+11:04 | Temperature: 32.90 °C
+11:04 | Humidity: 63.20 %
+11:04 | ===== Sensor Readings =====
+11:04 | MQ-4 (Methane): 285
+11:04 | MQ-135 (Air Quality): 332
+11:04 | Temperature: 33.00 °C
+11:04 | Humidity: 63.10 %
+11:05 | ===== Sensor Readings =====
+11:05 | MQ-4 (Methane): 287
+11:05 | MQ-135 (Air Quality): 330
+11:05 | Temperature: 33.00 °C
+11:05 | Humidity: 63.00 %
+11:05 | ===== Sensor Readings =====
+11:05 | MQ-4 (Methane): 289
+11:05 | MQ-135 (Air Quality): 325
+11:05 | Temperature: 33.00 °C
+11:05 | Humidity: 63.00 %
+11:05 | ===== Sensor Readings =====
+11:05 | MQ-4 (Methane): 289
+11:05 | MQ-135 (Air Quality): 320
+11:05 | Temperature: 33.00 °C
+11:05 | Humidity: 63.10 %
+11:06 | ===== Sensor Readings =====
+11:06 | MQ-4 (Methane): 367
+11:06 | MQ-135 (Air Quality): 343
+11:06 | Temperature: 33.00 °C
+11:06 | Humidity: 63.00 %
+11:06 | ===== Sensor Readings =====
+11:06 | MQ-4 (Methane): 341
+11:06 | MQ-135 (Air Quality): 326
+11:06 | Temperature: 33.00 °C
+11:06 | Humidity: 63.10 %
+11:06 | ===== Sensor Readings =====
+11:06 | MQ-4 (Methane): 338
+11:06 | MQ-135 (Air Quality): 335
+11:06 | Temperature: 33.00 °C
+11:06 | Humidity: 63.00 %
+11:07 | ===== Sensor Readings =====
+11:07 | MQ-4 (Methane): 337
+11:07 | MQ-135 (Air Quality): 336
+11:07 | Temperature: 33.00 °C
+11:07 | Humidity: 63.00 %
+11:07 | ===== Sensor Readings =====
+11:07 | MQ-4 (Methane): 335
+11:07 | MQ-135 (Air Quality): 332
+11:07 | Temperature: 33.00 °C
+11:07 | Humidity: 62.90 %
+11:07 | ===== Sensor Readings =====
+11:07 | MQ-4 (Methane): 334
+11:07 | MQ-135 (Air Quality): 331
+11:07 | Temperature: 33.00 °C
+11:07 | Humidity: 62.80 %
+11:08 | ===== Sensor Readings =====
+11:08 | MQ-4 (Methane): 290
+11:08 | MQ-135 (Air Quality): 322
+11:08 | Temperature: 33.00 °C
+11:08 | Humidity: 62.80 %
+11:08 | ===== Sensor Readings =====
+11:08 | MQ-4 (Methane): 289
+11:08 | MQ-135 (Air Quality): 310
+11:08 | Temperature: 33.00 °C
+11:08 | Humidity: 62.70 %
+11:08 | ===== Sensor Readings =====
+11:08 | MQ-4 (Methane): 291
+11:08 | MQ-135 (Air Quality): 311
+11:08 | Temperature: 33.10 °C
+11:08 | Humidity: 62.80 %
+11:09 | ===== Sensor Readings =====
+11:09 | MQ-4 (Methane): 293
+11:09 | MQ-135 (Air Quality): 310
+11:09 | Temperature: 33.00 °C
+11:09 | Humidity: 62.90 %
+11:09 | ===== Sensor Readings =====
+11:09 | MQ-4 (Methane): 293
+11:09 | MQ-135 (Air Quality): 308
+11:09 | DHT22 Read Failed!
+11:09 | ===== Sensor Readings =====
+11:09 | MQ-4 (Methane): 293
+11:09 | MQ-135 (Air Quality): 299
+11:09 | Temperature: 33.00 °C
+11:09 | Humidity: 62.80 %
+11:10 | ===== Sensor Readings =====
+11:10 | MQ-4 (Methane): 294
+11:10 | MQ-135 (Air Quality): 297
+11:10 | Temperature: 33.10 °C
+11:10 | Humidity: 62.80 %
+11:10 | ===== Sensor Readings =====
+11:10 | MQ-4 (Methane): 295
+11:10 | MQ-135 (Air Quality): 292
+11:10 | Temperature: 33.10 °C
+11:10 | Humidity: 62.80 %
+11:10 | ===== Sensor Readings =====
+11:10 | MQ-4 (Methane): 295
+11:10 | MQ-135 (Air Quality): 289
+11:10 | Temperature: 33.10 °C
+11:10 | Humidity: 62.70 %
+11:11 | ===== Sensor Readings =====
+11:11 | MQ-4 (Methane): 296
+11:11 | MQ-135 (Air Quality): 282
+11:11 | Temperature: 33.10 °C
+11:11 | Humidity: 62.60 %
+11:11 | ===== Sensor Readings =====
+11:11 | MQ-4 (Methane): 297
+11:11 | MQ-135 (Air Quality): 293
+11:11 | Temperature: 33.10 °C
+11:11 | Humidity: 62.70 %
+11:11 | ===== Sensor Readings =====
+11:11 | MQ-4 (Methane): 298
+11:11 | MQ-135 (Air Quality): 291
+11:11 | Temperature: 33.10 °C
+11:11 | Humidity: 62.70 %
+11:12 | ===== Sensor Readings =====
+11:12 | MQ-4 (Methane): 299
+11:12 | MQ-135 (Air Quality): 284
+11:12 | Temperature: 33.10 °C
+11:12 | Humidity: 62.60 %
+11:12 | ===== Sensor Readings =====
+11:12 | MQ-4 (Methane): 300
+11:12 | MQ-135 (Air Quality): 289
+11:12 | Temperature: 33.10 °C
+11:12 | Humidity: 62.70 %
+11:13 | ===== Sensor Readings =====
+11:13 | MQ-4 (Methane): 301
+11:13 | MQ-135 (Air Quality): 286
+11:13 | Temperature: 33.10 °C
+11:13 | Humidity: 62.70 %
+11:13 | ===== Sensor Readings =====
+11:13 | MQ-4 (Methane): 302
+11:13 | MQ-135 (Air Quality): 280
+11:13 | Temperature: 33.10 °C
+11:13 | Humidity: 62.70 %
+11:13 | ===== Sensor Readings =====
+11:13 | MQ-4 (Methane): 303
+11:13 | MQ-135 (Air Quality): 280
+11:13 | Temperature: 33.10 °C
+11:13 | Humidity: 62.80 %
+11:14 | ===== Sensor Readings =====
+11:14 | MQ-4 (Methane): 304
+11:14 | MQ-135 (Air Quality): 283
+11:14 | Temperature: 33.10 °C
+11:14 | Humidity: 62.80 %
+11:14 | ===== Sensor Readings =====
+11:14 | MQ-4 (Methane): 304
+11:14 | MQ-135 (Air Quality): 284
+11:14 | Temperature: 33.10 °C
+11:14 | Humidity: 62.90 %
+11:14 | ===== Sensor Readings =====
+11:14 | MQ-4 (Methane): 304
+11:14 | MQ-135 (Air Quality): 276
+11:14 | Temperature: 33.10 °C
+11:14 | Humidity: 62.80 %
+11:15 | ===== Sensor Readings =====
+11:15 | MQ-4 (Methane): 305
+11:15 | MQ-135 (Air Quality): 278
+11:15 | Temperature: 33.10 °C
+11:15 | Humidity: 62.90 %
+11:15 | ===== Sensor Readings =====
+11:15 | MQ-4 (Methane): 305
+11:15 | MQ-135 (Air Quality): 270
+11:15 | Temperature: 33.10 °C
+11:15 | Humidity: 62.80 %
+11:15 | ===== Sensor Readings =====
+11:15 | MQ-4 (Methane): 306
+11:15 | MQ-135 (Air Quality): 270
+11:15 | Temperature: 33.10 °C
+11:15 | Humidity: 62.80 %
+11:16 | ===== Sensor Readings =====
+11:16 | MQ-4 (Methane): 306
+11:16 | MQ-135 (Air Quality): 266
+11:16 | Temperature: 33.10 °C
+11:16 | Humidity: 62.80 %
+11:16 | ===== Sensor Readings =====
+11:16 | MQ-4 (Methane): 307
+11:16 | MQ-135 (Air Quality): 266
+11:16 | Temperature: 33.10 °C
+11:16 | Humidity: 62.80 %
+11:16 | ===== Sensor Readings =====
+11:16 | MQ-4 (Methane): 308
+11:16 | MQ-135 (Air Quality): 272
+11:16 | Temperature: 33.10 °C
+11:16 | Humidity: 62.80 %
+11:17 | ===== Sensor Readings =====
+11:17 | MQ-4 (Methane): 308
+11:17 | MQ-135 (Air Quality): 274
+11:17 | Temperature: 33.10 °C
+11:17 | Humidity: 62.80 %
+11:17 | ===== Sensor Readings =====
+11:17 | MQ-4 (Methane): 308
+11:17 | MQ-135 (Air Quality): 263
+11:17 | Temperature: 33.10 °C
+11:17 | Humidity: 62.80 %
+11:17 | ===== Sensor Readings =====
+11:17 | MQ-4 (Methane): 310
+11:17 | MQ-135 (Air Quality): 264
+11:17 | Temperature: 33.10 °C
+11:17 | Humidity: 62.80 %
+11:18 | ===== Sensor Readings =====
+11:18 | MQ-4 (Methane): 310
+11:18 | MQ-135 (Air Quality): 268
+11:18 | Temperature: 33.20 °C
+11:18 | Humidity: 62.80 %
+11:18 | ===== Sensor Readings =====
+11:18 | MQ-4 (Methane): 310
+11:18 | MQ-135 (Air Quality): 267
+11:18 | DHT22 Read Failed!
+11:18 | ===== Sensor Readings =====
+11:18 | MQ-4 (Methane): 311
+11:18 | MQ-135 (Air Quality): 262
+11:18 | Temperature: 33.10 °C
+11:18 | Humidity: 62.90 %
+11:19 | ===== Sensor Readings =====
+11:19 | MQ-4 (Methane): 311
+11:19 | MQ-135 (Air Quality): 261
+11:19 | Temperature: 33.10 °C
+11:19 | Humidity: 62.80 %
+11:19 | ===== Sensor Readings =====
+11:19 | MQ-4 (Methane): 311
+11:19 | MQ-135 (Air Quality): 265
+11:19 | Temperature: 33.10 °C
+11:19 | Humidity: 63.00 %
+11:19 | ===== Sensor Readings =====
+11:19 | MQ-4 (Methane): 311
+11:19 | MQ-135 (Air Quality): 255
+11:19 | Temperature: 33.20 °C
+11:19 | Humidity: 62.90 %
+11:20 | ===== Sensor Readings =====
+11:20 | MQ-4 (Methane): 311
+11:20 | MQ-135 (Air Quality): 259
+11:20 | Temperature: 33.20 °C
+11:20 | Humidity: 62.90 %
+11:20 | ===== Sensor Readings =====
+11:20 | MQ-4 (Methane): 312
+11:20 | MQ-135 (Air Quality): 259
+11:20 | Temperature: 33.10 °C
+11:20 | Humidity: 62.80 %
+11:20 | ===== Sensor Readings =====
+11:20 | MQ-4 (Methane): 312
+11:20 | MQ-135 (Air Quality): 255
+11:20 | Temperature: 33.20 °C
+11:20 | Humidity: 62.70 %
+11:21 | ===== Sensor Readings =====
+11:21 | MQ-4 (Methane): 312
+11:21 | MQ-135 (Air Quality): 257
+11:21 | Temperature: 33.20 °C
+11:21 | Humidity: 62.60 %
+11:21 | ===== Sensor Readings =====
+11:21 | MQ-4 (Methane): 312
+11:21 | MQ-135 (Air Quality): 256
+11:21 | Temperature: 33.10 °C
+11:21 | Humidity: 62.50 %
+11:21 | ===== Sensor Readings =====
+11:21 | MQ-4 (Methane): 313
+11:21 | MQ-135 (Air Quality): 253
+11:21 | Temperature: 33.20 °C
+11:21 | Humidity: 62.50 %
+11:22 | ===== Sensor Readings =====
+11:22 | MQ-4 (Methane): 314
+11:22 | MQ-135 (Air Quality): 249
+11:22 | Temperature: 33.20 °C
+11:22 | Humidity: 62.30 %
+11:22 | ===== Sensor Readings =====
+11:22 | MQ-4 (Methane): 314
+11:22 | MQ-135 (Air Quality): 252
+11:22 | Temperature: 33.10 °C
+11:22 | Humidity: 62.30 %
+11:22 | ===== Sensor Readings =====
+11:22 | MQ-4 (Methane): 314
+11:22 | MQ-135 (Air Quality): 247
+11:22 | Temperature: 33.10 °C
+11:22 | Humidity: 62.40 %
+11:23 | ===== Sensor Readings =====
+11:23 | MQ-4 (Methane): 315
+11:23 | MQ-135 (Air Quality): 251
+11:23 | Temperature: 33.20 °C
+11:23 | Humidity: 62.20 %
+11:23 | ===== Sensor Readings =====
+11:23 | MQ-4 (Methane): 314
+11:23 | MQ-135 (Air Quality): 251
+11:23 | Temperature: 33.20 °C
+11:23 | Humidity: 62.40 %
+11:23 | ===== Sensor Readings =====
+11:23 | MQ-4 (Methane): 314
+11:23 | MQ-135 (Air Quality): 251
+11:23 | Temperature: 33.20 °C
+11:23 | Humidity: 62.40 %
+11:24 | ===== Sensor Readings =====
+11:24 | MQ-4 (Methane): 315
+11:24 | MQ-135 (Air Quality): 252
+11:24 | Temperature: 33.10 °C
+11:24 | Humidity: 62.50 %
+11:24 | ===== Sensor Readings =====
+11:24 | MQ-4 (Methane): 314
+11:24 | MQ-135 (Air Quality): 249
+11:24 | Temperature: 33.20 °C
+11:24 | Humidity: 62.50 %
+11:24 | ===== Sensor Readings =====
+11:24 | MQ-4 (Methane): 314
+11:24 | MQ-135 (Air Quality): 247
+11:24 | Temperature: 33.20 °C
+11:24 | Humidity: 62.30 %
+11:25 | ===== Sensor Readings =====
+11:25 | MQ-4 (Methane): 315
+11:25 | MQ-135 (Air Quality): 247
+11:25 | Temperature: 33.20 °C
+11:25 | Humidity: 62.10 %
+11:25 | ===== Sensor Readings =====
+11:25 | MQ-4 (Methane): 314
+11:25 | MQ-135 (Air Quality): 240
+11:25 | Temperature: 33.20 °C
+11:25 | Humidity: 62.00 %
+11:25 | ===== Sensor Readings =====
+11:25 | MQ-4 (Methane): 315
+11:25 | MQ-135 (Air Quality): 244
+11:25 | Temperature: 33.20 °C
+11:25 | Humidity: 62.00 %
+11:26 | ===== Sensor Readings =====
+11:26 | MQ-4 (Methane): 315
+11:26 | MQ-135 (Air Quality): 247
+11:26 | Temperature: 33.20 °C
+11:26 | Humidity: 62.00 %
+11:26 | ===== Sensor Readings =====
+11:26 | MQ-4 (Methane): 315
+11:26 | MQ-135 (Air Quality): 248
+11:26 | Temperature: 33.30 °C
+11:26 | Humidity: 62.10 %
+11:26 | ===== Sensor Readings =====
+11:26 | MQ-4 (Methane): 315
+11:26 | MQ-135 (Air Quality): 245
+11:26 | Temperature: 33.30 °C
+11:26 | Humidity: 62.10 %
+11:27 | ===== Sensor Readings =====
+11:27 | MQ-4 (Methane): 316
+11:27 | MQ-135 (Air Quality): 248
+11:27 | Temperature: 33.20 °C
+11:27 | Humidity: 62.00 %
+11:27 | ===== Sensor Readings =====
+11:27 | MQ-4 (Methane): 316
+11:27 | MQ-135 (Air Quality): 248
+11:27 | Temperature: 33.20 °C
+11:27 | Humidity: 62.00 %
+11:28 | ===== Sensor Readings =====
+11:28 | MQ-4 (Methane): 316
+11:28 | MQ-135 (Air Quality): 247
+11:28 | Temperature: 33.20 °C
+11:28 | Humidity: 62.00 %
+11:28 | ===== Sensor Readings =====
+11:28 | MQ-4 (Methane): 316
+11:28 | MQ-135 (Air Quality): 241
+11:28 | Temperature: 33.30 °C
+11:28 | Humidity: 61.90 %
+11:28 | ===== Sensor Readings =====
+11:28 | MQ-4 (Methane): 316
+11:28 | MQ-135 (Air Quality): 246
+11:28 | Temperature: 33.20 °C
+11:28 | Humidity: 61.90 %
+11:29 | ===== Sensor Readings =====
+11:29 | MQ-4 (Methane): 320
+11:29 | MQ-135 (Air Quality): 250
+11:29 | Temperature: 33.20 °C
+11:29 | Humidity: 61.80 %
+11:29 | ===== Sensor Readings =====
+11:29 | MQ-4 (Methane): 316
+11:29 | MQ-135 (Air Quality): 246
+11:29 | Temperature: 33.20 °C
+11:29 | Humidity: 61.90 %
+11:29 | ===== Sensor Readings =====
+11:29 | MQ-4 (Methane): 315
+11:29 | MQ-135 (Air Quality): 239
+11:29 | Temperature: 33.20 °C
+11:29 | Humidity: 61.80 %
+11:30 | ===== Sensor Readings =====
+11:30 | MQ-4 (Methane): 315
+11:30 | MQ-135 (Air Quality): 241
+11:30 | Temperature: 33.20 °C
+11:30 | Humidity: 61.80 %
+11:30 | ===== Sensor Readings =====
+11:30 | MQ-4 (Methane): 315
+11:30 | MQ-135 (Air Quality): 242
+11:30 | Temperature: 33.20 °C
+11:30 | Humidity: 61.80 %
+11:30 | ===== Sensor Readings =====
+11:30 | MQ-4 (Methane): 321
+11:30 | MQ-135 (Air Quality): 243
+11:30 | Temperature: 33.20 °C
+11:30 | Humidity: 61.80 %
+11:31 | ===== Sensor Readings =====
+11:31 | MQ-4 (Methane): 320
+11:31 | MQ-135 (Air Quality): 243
+11:31 | Temperature: 33.30 °C
+11:31 | Humidity: 61.80 %
+11:31 | ===== Sensor Readings =====
+11:31 | MQ-4 (Methane): 320
+11:31 | MQ-135 (Air Quality): 240
+11:31 | Temperature: 33.20 °C
+11:31 | Humidity: 61.80 %
+11:31 | ===== Sensor Readings =====
+11:31 | MQ-4 (Methane): 323
+11:31 | MQ-135 (Air Quality): 246
+11:31 | Temperature: 33.20 °C
+11:31 | Humidity: 61.90 %
+11:32 | ===== Sensor Readings =====
+11:32 | MQ-4 (Methane): 330
+11:32 | MQ-135 (Air Quality): 246
+11:32 | Temperature: 33.20 °C
+11:32 | Humidity: 61.80 %
+11:32 | ===== Sensor Readings =====
+11:32 | MQ-4 (Methane): 329
+11:32 | MQ-135 (Air Quality): 240
+11:32 | Temperature: 33.20 °C
+11:32 | Humidity: 61.60 %
+11:32 | ===== Sensor Readings =====
+11:32 | MQ-4 (Methane): 328
+11:32 | MQ-135 (Air Quality): 242
+11:32 | Temperature: 33.20 °C
+11:32 | Humidity: 61.60 %
+11:33 | ===== Sensor Readings =====
+11:33 | MQ-4 (Methane): 327
+11:33 | MQ-135 (Air Quality): 239
+11:33 | Temperature: 33.20 °C
+11:33 | Humidity: 61.50 %
+11:33 | ===== Sensor Readings =====
+11:33 | MQ-4 (Methane): 327
+11:33 | MQ-135 (Air Quality): 241
+11:33 | Temperature: 33.20 °C
+11:33 | Humidity: 61.50 %
+11:33 | ===== Sensor Readings =====
+11:33 | MQ-4 (Methane): 327
+11:33 | MQ-135 (Air Quality): 243
+11:33 | Temperature: 33.20 °C
+11:33 | Humidity: 61.60 %
+11:34 | ===== Sensor Readings =====
+11:34 | MQ-4 (Methane): 327
+11:34 | MQ-135 (Air Quality): 243
+11:34 | Temperature: 33.20 °C
+11:34 | Humidity: 61.40 %
+11:34 | ===== Sensor Readings =====
+11:34 | MQ-4 (Methane): 327
+11:34 | MQ-135 (Air Quality): 243
+11:34 | Temperature: 33.20 °C
+11:34 | Humidity: 61.30 %
+11:34 | ===== Sensor Readings =====
+11:34 | MQ-4 (Methane): 327
+11:34 | MQ-135 (Air Quality): 240
+11:34 | Temperature: 33.20 °C
+11:34 | Humidity: 61.20 %
+11:35 | ===== Sensor Readings =====
+11:35 | MQ-4 (Methane): 326
+11:35 | MQ-135 (Air Quality): 238
+11:35 | Temperature: 33.20 °C
+11:35 | Humidity: 61.20 %
+11:35 | ===== Sensor Readings =====
+11:35 | MQ-4 (Methane): 327
+11:35 | MQ-135 (Air Quality): 240
+11:35 | Temperature: 33.20 °C
+11:35 | Humidity: 61.20 %
+11:35 | ===== Sensor Readings =====
+11:35 | MQ-4 (Methane): 293
+11:35 | MQ-135 (Air Quality): 206
+11:35 | Temperature: 33.20 °C
+11:35 | Humidity: 61.30 %
+11:36 | ===== Sensor Readings =====
+11:36 | MQ-4 (Methane): 295
+11:36 | MQ-135 (Air Quality): 243
+11:36 | Temperature: 33.20 °C
+11:36 | Humidity: 61.30 %
+11:36 | ===== Sensor Readings =====
+11:36 | MQ-4 (Methane): 299
+11:36 | MQ-135 (Air Quality): 241
+11:36 | Temperature: 33.20 °C
+11:36 | Humidity: 61.30 %
+11:36 | ===== Sensor Readings =====
+11:36 | MQ-4 (Methane): 301
+11:36 | MQ-135 (Air Quality): 235
+11:36 | Temperature: 33.20 °C
+11:36 | Humidity: 61.30 %
+11:37 | ===== Sensor Readings =====
+11:37 | MQ-4 (Methane): 303
+11:37 | MQ-135 (Air Quality): 236
+11:37 | Temperature: 33.20 °C
+11:37 | Humidity: 61.30 %
+11:37 | ===== Sensor Readings =====
+11:37 | MQ-4 (Methane): 304
+11:37 | MQ-135 (Air Quality): 233
+11:37 | Temperature: 33.30 °C
+11:37 | Humidity: 61.30 %
+11:37 | ===== Sensor Readings =====
+11:37 | MQ-4 (Methane): 306
+11:37 | MQ-135 (Air Quality): 229
+11:37 | Temperature: 33.20 °C
+11:37 | Humidity: 61.40 %
+11:38 | ===== Sensor Readings =====
+11:38 | MQ-4 (Methane): 306
+11:38 | MQ-135 (Air Quality): 229
+11:38 | Temperature: 33.20 °C
+11:38 | Humidity: 61.50 %
+11:38 | ===== Sensor Readings =====
+11:38 | MQ-4 (Methane): 307
+11:38 | MQ-135 (Air Quality): 233
+11:38 | Temperature: 33.20 °C
+11:38 | Humidity: 61.50 %
+11:38 | ===== Sensor Readings =====
+11:38 | MQ-4 (Methane): 307
+11:38 | MQ-135 (Air Quality): 229
+11:38 | Temperature: 33.20 °C
+11:38 | Humidity: 61.60 %
+11:39 | ===== Sensor Readings =====
+11:39 | MQ-4 (Methane): 308
+11:39 | MQ-135 (Air Quality): 230
+11:39 | Temperature: 33.20 °C
+11:39 | Humidity: 61.60 %
+11:39 | ===== Sensor Readings =====
+11:39 | MQ-4 (Methane): 309
+11:39 | MQ-135 (Air Quality): 229
+11:39 | Temperature: 33.30 °C
+11:39 | Humidity: 61.50 %
+11:39 | ===== Sensor Readings =====
+11:39 | MQ-4 (Methane): 309
+11:39 | MQ-135 (Air Quality): 221
+11:39 | Temperature: 33.20 °C
+11:39 | Humidity: 61.70 %
+11:40 | ===== Sensor Readings =====
+11:40 | MQ-4 (Methane): 310
+11:40 | MQ-135 (Air Quality): 225
+11:40 | Temperature: 33.30 °C
+11:40 | Humidity: 61.70 %
+11:40 | ===== Sensor Readings =====
+11:40 | MQ-4 (Methane): 310
+11:40 | MQ-135 (Air Quality): 224
+11:40 | Temperature: 33.30 °C
+11:40 | Humidity: 61.80 %
+11:40 | ===== Sensor Readings =====
+11:40 | MQ-4 (Methane): 310
+11:40 | MQ-135 (Air Quality): 225
+11:40 | Temperature: 33.30 °C
+11:40 | Humidity: 61.80 %
+11:41 | ===== Sensor Readings =====
+11:41 | MQ-4 (Methane): 311
+11:41 | MQ-135 (Air Quality): 222
+11:41 | Temperature: 33.30 °C
+11:41 | Humidity: 61.90 %
+11:41 | ===== Sensor Readings =====
+11:41 | MQ-4 (Methane): 311
+11:41 | MQ-135 (Air Quality): 224
+11:41 | Temperature: 33.30 °C
+11:41 | Humidity: 61.90 %
+11:41 | ===== Sensor Readings =====
+11:41 | MQ-4 (Methane): 312
+11:41 | MQ-135 (Air Quality): 225
+11:41 | Temperature: 33.30 °C
+11:41 | Humidity: 61.90 %
+11:42 | ===== Sensor Readings =====
+11:42 | MQ-4 (Methane): 312
+11:42 | MQ-135 (Air Quality): 224
+11:42 | Temperature: 33.30 °C
+11:42 | Humidity: 61.90 %
+11:42 | ===== Sensor Readings =====
+11:42 | MQ-4 (Methane): 313
+11:42 | MQ-135 (Air Quality): 224
+11:42 | Temperature: 33.30 °C
+11:42 | Humidity: 61.90 %
+11:43 | ===== Sensor Readings =====
+11:43 | MQ-4 (Methane): 312
+11:43 | MQ-135 (Air Quality): 222
+11:43 | Temperature: 33.30 °C
+11:43 | Humidity: 61.80 %
+11:43 | ===== Sensor Readings =====
+11:43 | MQ-4 (Methane): 313
+11:43 | MQ-135 (Air Quality): 221
+11:43 | Temperature: 33.20 °C
+11:43 | Humidity: 61.80 %
+11:43 | ===== Sensor Readings =====
+11:43 | MQ-4 (Methane): 313
+11:43 | MQ-135 (Air Quality): 222
+11:43 | Temperature: 33.30 °C
+11:43 | Humidity: 61.70 %
+11:44 | ===== Sensor Readings =====
+11:44 | MQ-4 (Methane): 313
+11:44 | MQ-135 (Air Quality): 224
+11:44 | Temperature: 33.30 °C
+11:44 | Humidity: 61.70 %
+11:44 | ===== Sensor Readings =====
+11:44 | MQ-4 (Methane): 313
+11:44 | MQ-135 (Air Quality): 218
+11:44 | Temperature: 33.30 °C
+11:44 | Humidity: 61.70 %
+11:44 | ===== Sensor Readings =====
+11:44 | MQ-4 (Methane): 313
+11:44 | MQ-135 (Air Quality): 219
+11:44 | Temperature: 33.30 °C
+11:44 | Humidity: 61.70 %
+11:45 | ===== Sensor Readings =====
+11:45 | MQ-4 (Methane): 314
+11:45 | MQ-135 (Air Quality): 219
+11:45 | Temperature: 33.30 °C
+11:45 | Humidity: 61.70 %
+11:45 | ===== Sensor Readings =====
+11:45 | MQ-4 (Methane): 314
+11:45 | MQ-135 (Air Quality): 223
+11:45 | Temperature: 33.30 °C
+11:45 | Humidity: 61.70 %
+11:45 | ===== Sensor Readings =====
+11:45 | MQ-4 (Methane): 314
+11:45 | MQ-135 (Air Quality): 216
+11:45 | Temperature: 33.30 °C
+11:45 | Humidity: 61.70 %
+11:46 | ===== Sensor Readings =====
+11:46 | MQ-4 (Methane): 314
+11:46 | MQ-135 (Air Quality): 221
+11:46 | Temperature: 33.30 °C
+11:46 | Humidity: 61.70 %
+11:46 | ===== Sensor Readings =====
+11:46 | MQ-4 (Methane): 314
+11:46 | MQ-135 (Air Quality): 218
+11:46 | Temperature: 33.30 °C
+11:46 | Humidity: 61.70 %
+11:46 | ===== Sensor Readings =====
+11:46 | MQ-4 (Methane): 314
+11:46 | MQ-135 (Air Quality): 220
+11:46 | Temperature: 33.30 °C
+11:46 | Humidity: 61.70 %
+11:47 | ===== Sensor Readings =====
+11:47 | MQ-4 (Methane): 315
+11:47 | MQ-135 (Air Quality): 212
+11:47 | Temperature: 33.30 °C
+11:47 | Humidity: 61.70 %
+11:47 | ===== Sensor Readings =====
+11:47 | MQ-4 (Methane): 315
+11:47 | MQ-135 (Air Quality): 218
+11:47 | Temperature: 33.30 °C
+11:47 | Humidity: 61.80 %
+11:47 | ===== Sensor Readings =====
+11:47 | MQ-4 (Methane): 315
+11:47 | MQ-135 (Air Quality): 214
+11:47 | Temperature: 33.30 °C
+11:47 | Humidity: 61.80 %
+11:48 | ===== Sensor Readings =====
+11:48 | MQ-4 (Methane): 315
+11:48 | MQ-135 (Air Quality): 218
+11:48 | Temperature: 33.30 °C
+11:48 | Humidity: 61.80 %
+11:48 | ===== Sensor Readings =====
+11:48 | MQ-4 (Methane): 315
+11:48 | MQ-135 (Air Quality): 217
+11:48 | Temperature: 33.30 °C
+11:48 | Humidity: 61.90 %
+11:49 | ===== Sensor Readings =====
+11:49 | MQ-4 (Methane): 315
+11:49 | MQ-135 (Air Quality): 220
+11:49 | Temperature: 33.30 °C
+11:49 | Humidity: 61.90 %
+11:49 | ===== Sensor Readings =====
+11:49 | MQ-4 (Methane): 315
+11:49 | MQ-135 (Air Quality): 218
+11:49 | Temperature: 33.30 °C
+11:49 | Humidity: 62.00 %
+11:49 | ===== Sensor Readings =====
+11:49 | MQ-4 (Methane): 315
+11:49 | MQ-135 (Air Quality): 217
+11:49 | Temperature: 33.30 °C
+11:49 | Humidity: 61.90 %
+11:49 | ===== Sensor Readings =====
+11:49 | MQ-4 (Methane): 315
+11:49 | MQ-135 (Air Quality): 219
+11:49 | Temperature: 33.30 °C
+11:49 | Humidity: 61.90 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 315
+11:52 | MQ-135 (Air Quality): 217
+11:52 | Temperature: 33.30 °C
+11:52 | Humidity: 61.90 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 315
+11:52 | MQ-135 (Air Quality): 210
+11:52 | Temperature: 33.30 °C
+11:52 | Humidity: 61.90 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 315
+11:52 | MQ-135 (Air Quality): 212
+11:52 | Temperature: 33.30 °C
+11:52 | Humidity: 61.90 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 315
+11:52 | MQ-135 (Air Quality): 213
+11:52 | Temperature: 33.40 °C
+11:52 | Humidity: 61.90 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 315
+11:52 | MQ-135 (Air Quality): 217
+11:52 | Temperature: 33.30 °C
+11:52 | Humidity: 62.00 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 316
+11:52 | MQ-135 (Air Quality): 212
+11:52 | Temperature: 33.40 °C
+11:52 | Humidity: 62.10 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 316
+11:52 | MQ-135 (Air Quality): 216
+11:52 | Temperature: 33.30 °C
+11:52 | Humidity: 62.10 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 316
+11:52 | MQ-135 (Air Quality): 213
+11:52 | Temperature: 33.30 °C
+11:52 | Humidity: 62.20 %
+11:52 | ===== Sensor Readings =====
+11:52 | MQ-4 (Methane): 317
+11:52 | MQ-135 (Air Quality): 208
+11:52 | Temperature: 33.40 °C
+11:52 | Humidity: 62.30 %
+11:53 | ===== Sensor Readings =====
+11:53 | MQ-4 (Methane): 318
+11:53 | MQ-135 (Air Quality): 212
+11:53 | Temperature: 33.40 °C
+11:53 | Humidity: 62.30 %
+11:53 | ===== Sensor Readings =====
+11:53 | MQ-4 (Methane): 321
+11:53 | MQ-135 (Air Quality): 211
+11:53 | Temperature: 33.40 °C
+11:53 | Humidity: 62.20 %
+11:53 | ===== Sensor Readings =====
+11:53 | MQ-4 (Methane): 325
+11:53 | MQ-135 (Air Quality): 215
+11:53 | Temperature: 33.40 °C
+11:53 | Humidity: 62.10 %
+11:54 | ===== Sensor Readings =====
+11:54 | MQ-4 (Methane): 326
+11:54 | MQ-135 (Air Quality): 207
+11:54 | Temperature: 33.40 °C
+11:54 | Humidity: 62.00 %
+11:54 | ===== Sensor Readings =====
+11:54 | MQ-4 (Methane): 328
+11:54 | MQ-135 (Air Quality): 215
+11:54 | Temperature: 33.40 °C
+11:54 | Humidity: 62.10 %
+11:54 | ===== Sensor Readings =====
+11:54 | MQ-4 (Methane): 329
+11:54 | MQ-135 (Air Quality): 218
+11:54 | Temperature: 33.40 °C
+11:54 | Humidity: 62.10 %
+11:55 | ===== Sensor Readings =====
+11:55 | MQ-4 (Methane): 329
+11:55 | MQ-135 (Air Quality): 214
+11:55 | Temperature: 33.50 °C
+11:55 | Humidity: 62.20 %
+11:55 | ===== Sensor Readings =====
+11:55 | MQ-4 (Methane): 328
+11:55 | MQ-135 (Air Quality): 217
+11:55 | Temperature: 33.40 °C
+11:55 | Humidity: 62.20 %
+11:55 | ===== Sensor Readings =====
+11:55 | MQ-4 (Methane): 326
+11:55 | MQ-135 (Air Quality): 212
+11:55 | Temperature: 33.40 °C
+11:55 | Humidity: 62.20 %
+11:56 | ===== Sensor Readings =====
+11:56 | MQ-4 (Methane): 325
+11:56 | MQ-135 (Air Quality): 218
+11:56 | Temperature: 33.40 °C
+11:56 | Humidity: 62.30 %
+11:56 | ===== Sensor Readings =====
+11:56 | MQ-4 (Methane): 323
+11:56 | MQ-135 (Air Quality): 215
+11:56 | Temperature: 33.40 °C
+11:56 | Humidity: 62.30 %
+11:56 | ===== Sensor Readings =====
+11:56 | MQ-4 (Methane): 323
+11:56 | MQ-135 (Air Quality): 213
+11:56 | Temperature: 33.40 °C
+11:56 | Humidity: 62.30 %
+11:57 | ===== Sensor Readings =====
+11:57 | MQ-4 (Methane): 324
+11:57 | MQ-135 (Air Quality): 212
+11:57 | Temperature: 33.40 °C
+11:57 | Humidity: 62.40 %
+11:57 | ===== Sensor Readings =====
+11:57 | MQ-4 (Methane): 326
+11:57 | MQ-135 (Air Quality): 216
+11:57 | Temperature: 33.40 °C
+11:57 | Humidity: 62.20 %
+11:57 | ===== Sensor Readings =====
+11:58 | MQ-4 (Methane): 324
+11:58 | MQ-135 (Air Quality): 212
+11:58 | Temperature: 33.40 °C
+11:58 | Humidity: 62.10 %
+11:58 | ===== Sensor Readings =====
+11:58 | MQ-4 (Methane): 323
+11:58 | MQ-135 (Air Quality): 211
+11:58 | Temperature: 33.50 °C
+11:58 | Humidity: 62.10 %
+11:58 | ===== Sensor Readings =====
+11:58 | MQ-4 (Methane): 339
+11:58 | MQ-135 (Air Quality): 220
+11:58 | Temperature: 33.40 °C
+11:58 | Humidity: 62.00 %
+11:59 | ===== Sensor Readings =====
+11:59 | MQ-4 (Methane): 336
+11:59 | MQ-135 (Air Quality): 220
+11:59 | Temperature: 33.50 °C
+11:59 | Humidity: 62.00 %
+11:59 | ===== Sensor Readings =====
+11:59 | MQ-4 (Methane): 336
+11:59 | MQ-135 (Air Quality): 222
+11:59 | Temperature: 33.40 °C
+11:59 | Humidity: 62.00 %
+11:59 | ===== Sensor Readings =====
+11:59 | MQ-4 (Methane): 341
+11:59 | MQ-135 (Air Quality): 226
+11:59 | Temperature: 33.40 °C
+11:59 | Humidity: 61.90 %
+12:00 | ===== Sensor Readings =====
+12:00 | MQ-4 (Methane): 338
+12:00 | MQ-135 (Air Quality): 226
+12:00 | Temperature: 33.40 °C
+12:00 | Humidity: 62.00 %
+12:00 | ===== Sensor Readings =====
+12:00 | MQ-4 (Methane): 336
+12:00 | MQ-135 (Air Quality): 221
+12:00 | Temperature: 33.40 °C
+12:00 | Humidity: 62.20 %
+12:00 | ===== Sensor Readings =====
+12:00 | MQ-4 (Methane): 336
+12:00 | MQ-135 (Air Quality): 224
+12:00 | Temperature: 33.50 °C
+12:00 | Humidity: 62.30 %
+12:01 | ===== Sensor Readings =====
+12:01 | MQ-4 (Methane): 335
+12:01 | MQ-135 (Air Quality): 222
+12:01 | Temperature: 33.50 °C
+12:01 | Humidity: 62.40 %
+12:01 | ===== Sensor Readings =====
+12:01 | MQ-4 (Methane): 323
+12:01 | MQ-135 (Air Quality): 216
+12:01 | Temperature: 33.40 °C
+12:01 | Humidity: 62.40 %
+12:01 | ===== Sensor Readings =====
+12:01 | MQ-4 (Methane): 323
+12:01 | MQ-135 (Air Quality): 220
+12:01 | Temperature: 33.40 °C
+12:01 | Humidity: 62.30 %
+12:02 | ===== Sensor Readings =====
+12:02 | MQ-4 (Methane): 322
+12:02 | MQ-135 (Air Quality): 213
+12:02 | Temperature: 33.50 °C
+12:02 | Humidity: 62.40 %
+12:02 | ===== Sensor Readings =====
+12:02 | MQ-4 (Methane): 322
+12:02 | MQ-135 (Air Quality): 212
+12:02 | Temperature: 33.40 °C
+12:02 | Humidity: 62.20 %
+12:02 | ===== Sensor Readings =====
+12:02 | MQ-4 (Methane): 325
+12:02 | MQ-135 (Air Quality): 218
+12:02 | Temperature: 33.50 °C
+12:02 | Humidity: 62.30 %
+12:03 | ===== Sensor Readings =====
+12:03 | MQ-4 (Methane): 324
+12:03 | MQ-135 (Air Quality): 217
+12:03 | Temperature: 33.40 °C
+12:03 | Humidity: 62.20 %
+12:03 | ===== Sensor Readings =====
+12:03 | MQ-4 (Methane): 324
+12:03 | MQ-135 (Air Quality): 220
+12:03 | Temperature: 33.40 °C
+12:03 | Humidity: 62.20 %
+12:03 | ===== Sensor Readings =====
+12:03 | MQ-4 (Methane): 323
+12:03 | MQ-135 (Air Quality): 216
+12:03 | Temperature: 33.40 °C
+12:03 | Humidity: 62.10 %
+12:04 | ===== Sensor Readings =====
+12:04 | MQ-4 (Methane): 323
+12:04 | MQ-135 (Air Quality): 219
+12:04 | Temperature: 33.40 °C
+12:04 | Humidity: 62.10 %
+12:04 | ===== Sensor Readings =====
+12:04 | MQ-4 (Methane): 323
+12:04 | MQ-135 (Air Quality): 219
+12:04 | Temperature: 33.40 °C
+12:04 | Humidity: 62.10 %
+12:04 | ===== Sensor Readings =====
+12:04 | MQ-4 (Methane): 323
+12:04 | MQ-135 (Air Quality): 217
+12:04 | Temperature: 33.50 °C
+12:04 | Humidity: 62.00 %
+12:05 | ===== Sensor Readings =====
+12:05 | MQ-4 (Methane): 323
+12:05 | MQ-135 (Air Quality): 219
+12:05 | Temperature: 33.40 °C
+12:05 | Humidity: 62.10 %
+12:05 | ===== Sensor Readings =====
+12:05 | MQ-4 (Methane): 323
+12:05 | MQ-135 (Air Quality): 215
+12:05 | Temperature: 33.40 °C
+12:05 | Humidity: 62.10 %
+12:05 | ===== Sensor Readings =====
+12:05 | MQ-4 (Methane): 323
+12:05 | MQ-135 (Air Quality): 216
+12:05 | Temperature: 33.50 °C
+12:05 | Humidity: 62.00 %
+12:06 | ===== Sensor Readings =====
+12:06 | MQ-4 (Methane): 323
+12:06 | MQ-135 (Air Quality): 215
+12:06 | Temperature: 33.50 °C
+12:06 | Humidity: 62.10 %
+12:06 | ===== Sensor Readings =====
+12:06 | MQ-4 (Methane): 323
+12:06 | MQ-135 (Air Quality): 217
+12:06 | Temperature: 33.50 °C
+12:06 | Humidity: 62.00 %
+12:06 | ===== Sensor Readings =====
+12:06 | MQ-4 (Methane): 323
+12:06 | MQ-135 (Air Quality): 213
+12:06 | Temperature: 33.50 °C
+12:06 | Humidity: 62.00 %
+12:07 | ===== Sensor Readings =====
+12:07 | MQ-4 (Methane): 326
+12:07 | MQ-135 (Air Quality): 218
+12:07 | Temperature: 33.60 °C
+12:07 | Humidity: 61.90 %
+12:07 | ===== Sensor Readings =====
+12:07 | MQ-4 (Methane): 322
+12:07 | MQ-135 (Air Quality): 214
+12:07 | Temperature: 33.50 °C
+12:07 | Humidity: 62.00 %
+12:07 | ===== Sensor Readings =====
+12:07 | MQ-4 (Methane): 322
+12:07 | MQ-135 (Air Quality): 216
+12:07 | Temperature: 33.50 °C
+12:07 | Humidity: 62.10 %
+12:08 | ===== Sensor Readings =====
+12:08 | MQ-4 (Methane): 321
+12:08 | MQ-135 (Air Quality): 213
+12:08 | Temperature: 33.50 °C
+12:08 | Humidity: 62.00 %
+12:08 | ===== Sensor Readings =====
+12:08 | MQ-4 (Methane): 321
+12:08 | MQ-135 (Air Quality): 213
+12:08 | Temperature: 33.50 °C
+12:08 | Humidity: 62.10 %
+12:08 | ===== Sensor Readings =====
+12:08 | MQ-4 (Methane): 320
+12:08 | MQ-135 (Air Quality): 213
+12:08 | Temperature: 33.50 °C
+12:08 | Humidity: 62.00 %
+12:09 | ===== Sensor Readings =====
+12:09 | MQ-4 (Methane): 320
+12:09 | MQ-135 (Air Quality): 214
+12:09 | Temperature: 33.50 °C
+12:09 | Humidity: 61.90 %
+12:09 | ===== Sensor Readings =====
+12:09 | MQ-4 (Methane): 320
+12:09 | MQ-135 (Air Quality): 211
+12:09 | Temperature: 33.50 °C
+12:09 | Humidity: 61.90 %
+12:09 | ===== Sensor Readings =====
+12:09 | MQ-4 (Methane): 320
+12:09 | MQ-135 (Air Quality): 213
+12:09 | Temperature: 33.50 °C
+12:09 | Humidity: 61.70 %
+12:10 | ===== Sensor Readings =====
+12:10 | MQ-4 (Methane): 321
+12:10 | MQ-135 (Air Quality): 211
+12:10 | Temperature: 33.60 °C
+12:10 | Humidity: 61.60 %
+12:10 | ===== Sensor Readings =====
+12:10 | MQ-4 (Methane): 320
+12:10 | MQ-135 (Air Quality): 212
+12:10 | Temperature: 33.60 °C
+12:10 | Humidity: 61.70 %
+12:10 | ===== Sensor Readings =====
+12:10 | MQ-4 (Methane): 320
+12:10 | MQ-135 (Air Quality): 215
+12:10 | Temperature: 33.50 °C
+12:10 | Humidity: 61.70 %
+12:11 | ===== Sensor Readings =====
+12:11 | MQ-4 (Methane): 320
+12:11 | MQ-135 (Air Quality): 210
+12:11 | Temperature: 33.60 °C
+12:11 | Humidity: 61.70 %
+12:11 | ===== Sensor Readings =====
+12:11 | MQ-4 (Methane): 320
+12:11 | MQ-135 (Air Quality): 217
+12:11 | Temperature: 33.50 °C
+12:11 | Humidity: 61.70 %
+12:11 | ===== Sensor Readings =====
+12:11 | MQ-4 (Methane): 318
+12:11 | MQ-135 (Air Quality): 215
+12:11 | Temperature: 33.60 °C
+12:11 | Humidity: 61.80 %
+12:12 | ===== Sensor Readings =====
+12:12 | MQ-4 (Methane): 318
+12:12 | MQ-135 (Air Quality): 216
+12:12 | Temperature: 33.60 °C
+12:12 | Humidity: 61.90 %
+12:12 | ===== Sensor Readings =====
+12:12 | MQ-4 (Methane): 302
+12:12 | MQ-135 (Air Quality): 203
+12:12 | Temperature: 33.60 °C
+12:12 | Humidity: 61.80 %
+12:12 | ===== Sensor Readings =====
+12:13 | MQ-4 (Methane): 304
+12:13 | MQ-135 (Air Quality): 205
+12:13 | Temperature: 33.50 °C
+12:13 | Humidity: 62.00 %
+12:13 | ===== Sensor Readings =====
+12:13 | MQ-4 (Methane): 306
+12:13 | MQ-135 (Air Quality): 209
+12:13 | Temperature: 33.50 °C
+12:13 | Humidity: 61.90 %
+12:13 | ===== Sensor Readings =====
+12:13 | MQ-4 (Methane): 308
+12:13 | MQ-135 (Air Quality): 209
+12:13 | Temperature: 33.50 °C
+12:13 | Humidity: 61.80 %
+12:14 | ===== Sensor Readings =====
+12:14 | MQ-4 (Methane): 310
+12:14 | MQ-135 (Air Quality): 209
+12:14 | Temperature: 33.50 °C
+12:14 | Humidity: 61.90 %
+12:14 | ===== Sensor Readings =====
+12:14 | MQ-4 (Methane): 311
+12:14 | MQ-135 (Air Quality): 206
+12:14 | Temperature: 33.50 °C
+12:14 | Humidity: 61.70 %
+12:14 | ===== Sensor Readings =====
+12:14 | MQ-4 (Methane): 311
+12:14 | MQ-135 (Air Quality): 206
+12:14 | DHT22 Read Failed!
+12:15 | ===== Sensor Readings =====
+12:15 | MQ-4 (Methane): 312
+12:15 | MQ-135 (Air Quality): 204
+12:15 | Temperature: 33.50 °C
+12:15 | Humidity: 61.50 %
+12:15 | ===== Sensor Readings =====
+12:15 | MQ-4 (Methane): 312
+12:15 | MQ-135 (Air Quality): 203
+12:15 | Temperature: 33.50 °C
+12:15 | Humidity: 61.50 %
+12:15 | ===== Sensor Readings =====
+12:15 | MQ-4 (Methane): 312
+12:15 | MQ-135 (Air Quality): 203
+12:15 | Temperature: 33.50 °C
+12:15 | Humidity: 61.50 %
+12:16 | ===== Sensor Readings =====
+12:16 | MQ-4 (Methane): 312
+12:16 | MQ-135 (Air Quality): 204
+12:16 | Temperature: 33.50 °C
+12:16 | Humidity: 61.50 %
+12:16 | ===== Sensor Readings =====
+12:16 | MQ-4 (Methane): 312
+12:16 | MQ-135 (Air Quality): 200
+12:16 | Temperature: 33.50 °C
+12:16 | Humidity: 61.30 %
+12:16 | ===== Sensor Readings =====
+12:16 | MQ-4 (Methane): 312
+12:16 | MQ-135 (Air Quality): 202
+12:16 | Temperature: 33.60 °C
+12:16 | Humidity: 61.20 %
+12:17 | ===== Sensor Readings =====
+12:17 | MQ-4 (Methane): 313
+12:17 | MQ-135 (Air Quality): 200
+12:17 | Temperature: 33.60 °C
+12:17 | Humidity: 61.30 %
+12:17 | ===== Sensor Readings =====
+12:17 | MQ-4 (Methane): 313
+12:17 | MQ-135 (Air Quality): 204
+12:17 | Temperature: 33.50 °C
+12:17 | Humidity: 61.20 %
+12:17 | ===== Sensor Readings =====
+12:17 | MQ-4 (Methane): 305
+12:17 | MQ-135 (Air Quality): 202
+12:17 | Temperature: 33.60 °C
+12:17 | Humidity: 61.30 %
+12:18 | ===== Sensor Readings =====
+12:18 | MQ-4 (Methane): 305
+12:18 | MQ-135 (Air Quality): 201
+12:18 | Temperature: 33.60 °C
+12:18 | Humidity: 61.20 %
+12:18 | ===== Sensor Readings =====
+12:18 | MQ-4 (Methane): 306
+12:18 | MQ-135 (Air Quality): 200
+12:18 | Temperature: 33.60 °C
+12:18 | Humidity: 61.20 %
+12:18 | ===== Sensor Readings =====
+12:18 | MQ-4 (Methane): 307
+12:18 | MQ-135 (Air Quality): 199
+12:18 | Temperature: 33.60 °C
+12:18 | Humidity: 61.10 %
+12:19 | ===== Sensor Readings =====
+12:19 | MQ-4 (Methane): 307
+12:19 | MQ-135 (Air Quality): 201
+12:19 | Temperature: 33.60 °C
+12:19 | Humidity: 61.20 %
+12:19 | ===== Sensor Readings =====
+12:19 | MQ-4 (Methane): 308
+12:19 | MQ-135 (Air Quality): 203
+12:19 | Temperature: 33.60 °C
+12:19 | Humidity: 61.10 %
+12:19 | ===== Sensor Readings =====
+12:19 | MQ-4 (Methane): 307
+12:19 | MQ-135 (Air Quality): 199
+12:19 | Temperature: 33.60 °C
+12:19 | Humidity: 61.00 %
+12:20 | ===== Sensor Readings =====
+12:20 | MQ-4 (Methane): 307
+12:20 | MQ-135 (Air Quality): 195
+12:20 | Temperature: 33.60 °C
+12:20 | Humidity: 61.00 %
+12:20 | ===== Sensor Readings =====
+12:20 | MQ-4 (Methane): 308
+12:20 | MQ-135 (Air Quality): 200
+12:20 | Temperature: 33.60 °C
+12:20 | Humidity: 60.90 %
+12:20 | ===== Sensor Readings =====
+12:20 | MQ-4 (Methane): 308
+12:20 | MQ-135 (Air Quality): 196
+12:20 | Temperature: 33.60 °C
+12:20 | Humidity: 60.90 %
+12:21 | ===== Sensor Readings =====
+12:21 | MQ-4 (Methane): 308
+12:21 | MQ-135 (Air Quality): 197
+12:21 | Temperature: 33.60 °C
+12:21 | Humidity: 60.80 %
+12:21 | ===== Sensor Readings =====
+12:21 | MQ-4 (Methane): 308
+12:21 | MQ-135 (Air Quality): 196
+12:21 | Temperature: 33.60 °C
+12:21 | Humidity: 60.80 %
+12:21 | ===== Sensor Readings =====
+12:21 | MQ-4 (Methane): 308
+12:21 | MQ-135 (Air Quality): 190
+12:21 | Temperature: 33.60 °C
+12:21 | Humidity: 60.70 %
+12:22 | ===== Sensor Readings =====
+12:22 | MQ-4 (Methane): 308
+12:22 | MQ-135 (Air Quality): 196
+12:22 | Temperature: 33.60 °C
+12:22 | Humidity: 60.70 %
+12:22 | ===== Sensor Readings =====
+12:22 | MQ-4 (Methane): 308
+12:22 | MQ-135 (Air Quality): 199
+12:22 | Temperature: 33.60 °C
+12:22 | Humidity: 60.80 %
+12:22 | ===== Sensor Readings =====
+12:22 | MQ-4 (Methane): 308
+12:22 | MQ-135 (Air Quality): 199
+12:22 | Temperature: 33.60 °C
+12:22 | Humidity: 60.90 %
+12:23 | ===== Sensor Readings =====
+12:23 | MQ-4 (Methane): 308
+12:23 | MQ-135 (Air Quality): 199
+12:23 | Temperature: 33.60 °C
+12:23 | Humidity: 60.90 %
+12:23 | ===== Sensor Readings =====
+12:23 | MQ-4 (Methane): 307
+12:23 | MQ-135 (Air Quality): 197
+12:23 | Temperature: 33.70 °C
+12:23 | Humidity: 60.90 %
+12:23 | ===== Sensor Readings =====
+12:23 | MQ-4 (Methane): 306
+12:23 | MQ-135 (Air Quality): 196
+12:23 | Temperature: 33.60 °C
+12:23 | Humidity: 60.90 %
+12:24 | ===== Sensor Readings =====
+12:24 | MQ-4 (Methane): 306
+12:24 | MQ-135 (Air Quality): 194
+12:24 | Temperature: 33.60 °C
+12:24 | Humidity: 60.80 %
+12:24 | ===== Sensor Readings =====
+12:24 | MQ-4 (Methane): 306
+12:24 | MQ-135 (Air Quality): 194
+12:24 | Temperature: 33.60 °C
+12:24 | Humidity: 60.80 %
+12:24 | ===== Sensor Readings =====
+12:24 | MQ-4 (Methane): 307
+12:24 | MQ-135 (Air Quality): 197
+12:24 | Temperature: 33.60 °C
+12:24 | Humidity: 60.90 %
+12:25 | ===== Sensor Readings =====
+12:25 | MQ-4 (Methane): 306
+12:25 | MQ-135 (Air Quality): 193
+12:25 | Temperature: 33.70 °C
+12:25 | Humidity: 60.80 %
+12:25 | ===== Sensor Readings =====
+12:25 | MQ-4 (Methane): 306
+12:25 | MQ-135 (Air Quality): 192
+12:25 | Temperature: 33.60 °C
+12:25 | Humidity: 60.60 %
+12:25 | ===== Sensor Readings =====
+12:25 | MQ-4 (Methane): 306
+12:25 | MQ-135 (Air Quality): 196
+12:25 | Temperature: 33.70 °C
+12:25 | Humidity: 60.70 %
+12:26 | ===== Sensor Readings =====
+12:26 | MQ-4 (Methane): 306
+12:26 | MQ-135 (Air Quality): 194
+12:26 | Temperature: 33.60 °C
+12:26 | Humidity: 60.50 %
+12:26 | ===== Sensor Readings =====
+12:26 | MQ-4 (Methane): 306
+12:26 | MQ-135 (Air Quality): 194
+12:26 | Temperature: 33.60 °C
+12:26 | Humidity: 60.50 %
+12:26 | ===== Sensor Readings =====
+12:26 | MQ-4 (Methane): 306
+12:26 | MQ-135 (Air Quality): 194
+12:26 | Temperature: 33.60 °C
+12:26 | Humidity: 60.60 %
+12:27 | ===== Sensor Readings =====
+12:27 | MQ-4 (Methane): 306
+12:27 | MQ-135 (Air Quality): 196
+12:27 | Temperature: 33.70 °C
+12:27 | Humidity: 60.50 %
+12:27 | ===== Sensor Readings =====
+12:27 | MQ-4 (Methane): 306
+12:27 | MQ-135 (Air Quality): 195
+12:27 | Temperature: 33.70 °C
+12:27 | Humidity: 60.50 %
+12:27 | ===== Sensor Readings =====
+12:28 | MQ-4 (Methane): 306
+12:28 | MQ-135 (Air Quality): 192
+12:28 | Temperature: 33.70 °C
+12:28 | Humidity: 60.70 %
+12:28 | ===== Sensor Readings =====
+12:28 | MQ-4 (Methane): 306
+12:28 | MQ-135 (Air Quality): 195
+12:28 | Temperature: 33.70 °C
+12:28 | Humidity: 60.60 %
+12:28 | ===== Sensor Readings =====
+12:28 | MQ-4 (Methane): 306
+12:28 | MQ-135 (Air Quality): 195
+12:28 | Temperature: 33.70 °C
+12:28 | Humidity: 60.60 %
+12:29 | ===== Sensor Readings =====
+12:29 | MQ-4 (Methane): 307
+12:29 | MQ-135 (Air Quality): 198
+12:29 | Temperature: 33.70 °C
+12:29 | Humidity: 60.70 %
+12:29 | ===== Sensor Readings =====
+12:29 | MQ-4 (Methane): 306
+12:29 | MQ-135 (Air Quality): 194
+12:29 | Temperature: 33.60 °C
+12:29 | Humidity: 60.70 %
+12:29 | ===== Sensor Readings =====
+12:29 | MQ-4 (Methane): 307
+12:29 | MQ-135 (Air Quality): 192
+12:29 | Temperature: 33.70 °C
+12:29 | Humidity: 60.60 %
+12:30 | ===== Sensor Readings =====
+12:30 | MQ-4 (Methane): 307
+12:30 | MQ-135 (Air Quality): 193
+12:30 | Temperature: 33.70 °C
+12:30 | Humidity: 60.40 %
+12:30 | ===== Sensor Readings =====
+12:30 | MQ-4 (Methane): 307
+12:30 | MQ-135 (Air Quality): 193
+12:30 | Temperature: 33.70 °C
+12:30 | Humidity: 60.40 %
+12:30 | ===== Sensor Readings =====
+12:30 | MQ-4 (Methane): 307
+12:30 | MQ-135 (Air Quality): 195
+12:30 | Temperature: 33.70 °C
+12:30 | Humidity: 60.50 %
+12:31 | ===== Sensor Readings =====
+12:31 | MQ-4 (Methane): 307
+12:31 | MQ-135 (Air Quality): 192
+12:31 | Temperature: 33.70 °C
+12:31 | Humidity: 60.40 %
+12:31 | ===== Sensor Readings =====
+12:31 | MQ-4 (Methane): 307
+12:31 | MQ-135 (Air Quality): 195
+12:31 | Temperature: 33.80 °C
+12:31 | Humidity: 60.40 %
+12:31 | ===== Sensor Readings =====
+12:31 | MQ-4 (Methane): 307
+12:31 | MQ-135 (Air Quality): 194
+12:31 | Temperature: 33.70 °C
+12:31 | Humidity: 60.40 %
+12:32 | ===== Sensor Readings =====
+12:32 | MQ-4 (Methane): 307
+12:32 | MQ-135 (Air Quality): 190
+12:32 | Temperature: 33.70 °C
+12:32 | Humidity: 60.20 %
+12:32 | ===== Sensor Readings =====
+12:32 | MQ-4 (Methane): 307
+12:32 | MQ-135 (Air Quality): 187
+12:32 | Temperature: 33.80 °C
+12:32 | Humidity: 60.20 %
+12:32 | ===== Sensor Readings =====
+12:32 | MQ-4 (Methane): 307
+12:32 | MQ-135 (Air Quality): 188
+12:32 | Temperature: 33.80 °C
+12:32 | Humidity: 60.10 %
+12:33 | ===== Sensor Readings =====
+12:33 | MQ-4 (Methane): 307
+12:33 | MQ-135 (Air Quality): 194
+12:33 | Temperature: 33.80 °C
+12:33 | Humidity: 60.10 %
+12:33 | ===== Sensor Readings =====
+12:33 | MQ-4 (Methane): 306
+12:33 | MQ-135 (Air Quality): 190
+12:33 | Temperature: 33.80 °C
+12:33 | Humidity: 60.00 %
+12:33 | ===== Sensor Readings =====
+12:33 | MQ-4 (Methane): 306
+12:33 | MQ-135 (Air Quality): 190
+12:33 | Temperature: 33.80 °C
+12:33 | Humidity: 60.00 %
+12:34 | ===== Sensor Readings =====
+12:34 | MQ-4 (Methane): 307
+12:34 | MQ-135 (Air Quality): 190
+12:34 | Temperature: 33.80 °C
+12:34 | Humidity: 59.70 %
+12:34 | ===== Sensor Readings =====
+12:34 | MQ-4 (Methane): 306
+12:34 | MQ-135 (Air Quality): 185
+12:34 | Temperature: 33.90 °C
+12:34 | Humidity: 59.50 %
+12:34 | ===== Sensor Readings =====
+12:34 | MQ-4 (Methane): 306
+12:34 | MQ-135 (Air Quality): 187
+12:34 | Temperature: 33.80 °C
+12:34 | Humidity: 59.50 %
+12:35 | ===== Sensor Readings =====
+12:35 | MQ-4 (Methane): 306
+12:35 | MQ-135 (Air Quality): 188
+12:35 | Temperature: 33.90 °C
+12:35 | Humidity: 59.30 %
+12:35 | ===== Sensor Readings =====
+12:35 | MQ-4 (Methane): 306
+12:35 | MQ-135 (Air Quality): 189
+12:35 | Temperature: 33.90 °C
+12:35 | Humidity: 59.30 %
+12:35 | ===== Sensor Readings =====
+12:35 | MQ-4 (Methane): 306
+12:35 | MQ-135 (Air Quality): 188
+12:35 | Temperature: 33.80 °C
+12:35 | Humidity: 59.30 %
+12:36 | ===== Sensor Readings =====
+12:36 | MQ-4 (Methane): 306
+12:36 | MQ-135 (Air Quality): 188
+12:36 | Temperature: 33.80 °C
+12:36 | Humidity: 59.30 %
+12:36 | ===== Sensor Readings =====
+12:36 | MQ-4 (Methane): 306
+12:36 | MQ-135 (Air Quality): 190
+12:36 | Temperature: 33.90 °C
+12:36 | Humidity: 59.20 %
+12:36 | ===== Sensor Readings =====
+12:36 | MQ-4 (Methane): 306
+12:36 | MQ-135 (Air Quality): 184
+12:36 | Temperature: 33.90 °C
+12:36 | Humidity: 59.10 %
+12:37 | ===== Sensor Readings =====
+12:37 | MQ-4 (Methane): 306
+12:37 | MQ-135 (Air Quality): 186
+12:37 | Temperature: 33.90 °C
+12:37 | Humidity: 59.00 %
+12:37 | ===== Sensor Readings =====
+12:37 | MQ-4 (Methane): 305
+12:37 | MQ-135 (Air Quality): 188
+12:37 | Temperature: 33.90 °C
+12:37 | Humidity: 58.90 %
+12:37 | ===== Sensor Readings =====
+12:37 | MQ-4 (Methane): 306
+12:37 | MQ-135 (Air Quality): 190
+12:37 | Temperature: 33.80 °C
+12:37 | Humidity: 59.00 %
+12:38 | ===== Sensor Readings =====
+12:38 | MQ-4 (Methane): 305
+12:38 | MQ-135 (Air Quality): 191
+12:38 | Temperature: 33.80 °C
+12:38 | Humidity: 59.10 %
+12:38 | ===== Sensor Readings =====
+12:38 | MQ-4 (Methane): 305
+12:38 | MQ-135 (Air Quality): 187
+12:38 | Temperature: 33.80 °C
+12:38 | Humidity: 59.10 %
+12:38 | ===== Sensor Readings =====
+12:38 | MQ-4 (Methane): 306
+12:38 | MQ-135 (Air Quality): 190
+12:38 | Temperature: 33.80 °C
+12:38 | Humidity: 59.10 %
+12:39 | ===== Sensor Readings =====
+12:39 | MQ-4 (Methane): 305
+12:39 | MQ-135 (Air Quality): 188
+12:39 | Temperature: 33.80 °C
+12:39 | Humidity: 58.90 %
+12:39 | ===== Sensor Readings =====
+12:39 | MQ-4 (Methane): 305
+12:39 | MQ-135 (Air Quality): 191
+12:39 | Temperature: 33.80 °C
+12:39 | Humidity: 59.00 %
+12:39 | ===== Sensor Readings =====
+12:39 | MQ-4 (Methane): 305
+12:39 | MQ-135 (Air Quality): 191
+12:39 | Temperature: 33.80 °C
+12:39 | Humidity: 59.00 %
+12:40 | ===== Sensor Readings =====
+12:40 | MQ-4 (Methane): 305
+12:40 | MQ-135 (Air Quality): 190
+12:40 | Temperature: 33.80 °C
+12:40 | Humidity: 59.00 %
+12:40 | ===== Sensor Readings =====
+12:40 | MQ-4 (Methane): 305
+12:40 | MQ-135 (Air Quality): 188
+12:40 | Temperature: 33.80 °C
+12:40 | Humidity: 59.00 %
+12:40 | ===== Sensor Readings =====
+12:40 | MQ-4 (Methane): 305
+12:40 | MQ-135 (Air Quality): 189
+12:40 | Temperature: 33.90 °C
+12:40 | Humidity: 59.00 %
+12:41 | ===== Sensor Readings =====
+12:41 | MQ-4 (Methane): 305
+12:41 | MQ-135 (Air Quality): 189
+12:41 | Temperature: 33.80 °C
+12:41 | Humidity: 58.90 %
+12:41 | ===== Sensor Readings =====
+12:41 | MQ-4 (Methane): 305
+12:41 | MQ-135 (Air Quality): 191
+12:41 | Temperature: 33.80 °C
+12:41 | Humidity: 58.90 %
+12:41 | ===== Sensor Readings =====
+12:41 | MQ-4 (Methane): 305
+12:41 | MQ-135 (Air Quality): 190
+12:41 | Temperature: 33.80 °C
+12:41 | Humidity: 59.00 %
+12:42 | ===== Sensor Readings =====
+12:42 | MQ-4 (Methane): 305
+12:42 | MQ-135 (Air Quality): 191
+12:42 | Temperature: 33.80 °C
+12:42 | Humidity: 59.10 %
+12:42 | ===== Sensor Readings =====
+12:42 | MQ-4 (Methane): 305
+12:42 | MQ-135 (Air Quality): 189
+12:42 | Temperature: 33.90 °C
+12:42 | Humidity: 59.00 %
+12:42 | ===== Sensor Readings =====
+12:43 | MQ-4 (Methane): 305
+12:43 | MQ-135 (Air Quality): 190
+12:43 | Temperature: 33.80 °C
+12:43 | Humidity: 58.90 %
+12:43 | ===== Sensor Readings =====
+12:43 | MQ-4 (Methane): 305
+12:43 | MQ-135 (Air Quality): 191
+12:43 | Temperature: 33.90 °C
+12:43 | Humidity: 58.90 %
+12:43 | ===== Sensor Readings =====
+12:43 | MQ-4 (Methane): 305
+12:43 | MQ-135 (Air Quality): 185
+12:43 | Temperature: 33.90 °C
+12:43 | Humidity: 59.00 %
+12:44 | ===== Sensor Readings =====
+12:44 | MQ-4 (Methane): 305
+12:44 | MQ-135 (Air Quality): 190
+12:44 | Temperature: 33.90 °C
+12:44 | Humidity: 58.90 %
+12:44 | ===== Sensor Readings =====
+12:44 | MQ-4 (Methane): 305
+12:44 | MQ-135 (Air Quality): 189
+12:44 | Temperature: 33.90 °C
+12:44 | Humidity: 58.80 %
+12:44 | ===== Sensor Readings =====
+12:44 | MQ-4 (Methane): 305
+12:44 | MQ-135 (Air Quality): 189
+12:44 | Temperature: 34.00 °C
+12:44 | Humidity: 58.70 %
+12:45 | ===== Sensor Readings =====
+12:45 | MQ-4 (Methane): 305
+12:45 | MQ-135 (Air Quality): 191
+12:45 | Temperature: 33.90 °C
+12:45 | Humidity: 58.60 %
+12:45 | ===== Sensor Readings =====
+12:45 | MQ-4 (Methane): 305
+12:45 | MQ-135 (Air Quality): 187
+12:45 | Temperature: 33.90 °C
+12:45 | Humidity: 58.50 %
+12:45 | ===== Sensor Readings =====
+12:45 | MQ-4 (Methane): 304
+12:45 | MQ-135 (Air Quality): 189
+12:45 | Temperature: 33.90 °C
+12:45 | Humidity: 58.40 %
+12:46 | ===== Sensor Readings =====
+12:46 | MQ-4 (Methane): 304
+12:46 | MQ-135 (Air Quality): 186
+12:46 | Temperature: 33.90 °C
+12:46 | Humidity: 58.30 %
+12:46 | ===== Sensor Readings =====
+12:46 | MQ-4 (Methane): 304
+12:46 | MQ-135 (Air Quality): 186
+12:46 | Temperature: 33.90 °C
+12:46 | Humidity: 58.30 %
+12:46 | ===== Sensor Readings =====
+12:46 | MQ-4 (Methane): 304
+12:46 | MQ-135 (Air Quality): 188
+12:46 | Temperature: 34.00 °C
+12:46 | Humidity: 58.20 %
+12:47 | ===== Sensor Readings =====
+12:47 | MQ-4 (Methane): 304
+12:47 | MQ-135 (Air Quality): 188
+12:47 | Temperature: 33.90 °C
+12:47 | Humidity: 58.30 %
+12:47 | ===== Sensor Readings =====
+12:47 | MQ-4 (Methane): 304
+12:47 | MQ-135 (Air Quality): 188
+12:47 | Temperature: 33.90 °C
+12:47 | Humidity: 58.40 %
+12:47 | ===== Sensor Readings =====
+12:47 | MQ-4 (Methane): 304
+12:47 | MQ-135 (Air Quality): 182
+12:47 | Temperature: 33.90 °C
+12:47 | Humidity: 58.40 %
+12:48 | ===== Sensor Readings =====
+12:48 | MQ-4 (Methane): 304
+12:48 | MQ-135 (Air Quality): 181
+12:48 | Temperature: 34.00 °C
+12:48 | Humidity: 58.40 %
+12:48 | ===== Sensor Readings =====
+12:48 | MQ-4 (Methane): 304
+12:48 | MQ-135 (Air Quality): 187
+12:48 | Temperature: 33.90 °C
+12:48 | Humidity: 58.30 %
+12:48 | ===== Sensor Readings =====
+12:48 | MQ-4 (Methane): 304
+12:48 | MQ-135 (Air Quality): 185
+12:48 | Temperature: 33.90 °C
+12:48 | Humidity: 58.40 %
+12:49 | ===== Sensor Readings =====
+12:49 | MQ-4 (Methane): 303
+12:49 | MQ-135 (Air Quality): 183
+12:49 | Temperature: 33.90 °C
+12:49 | Humidity: 58.50 %
+12:49 | ===== Sensor Readings =====
+12:49 | MQ-4 (Methane): 304
+12:49 | MQ-135 (Air Quality): 185
+12:49 | Temperature: 33.90 °C
+12:49 | Humidity: 58.50 %
+12:49 | ===== Sensor Readings =====
+12:49 | MQ-4 (Methane): 304
+12:49 | MQ-135 (Air Quality): 183
+12:49 | Temperature: 33.90 °C
+12:49 | Humidity: 58.40 %
+12:50 | ===== Sensor Readings =====
+12:50 | MQ-4 (Methane): 304
+12:50 | MQ-135 (Air Quality): 183
+12:50 | Temperature: 33.90 °C
+12:50 | Humidity: 58.50 %
+12:50 | ===== Sensor Readings =====
+12:50 | MQ-4 (Methane): 304
+12:50 | MQ-135 (Air Quality): 185
+12:50 | Temperature: 34.00 °C
+12:50 | Humidity: 58.60 %
+12:50 | ===== Sensor Readings =====
+12:50 | MQ-4 (Methane): 304
+12:50 | MQ-135 (Air Quality): 182
+12:50 | Temperature: 34.00 °C
+12:50 | Humidity: 58.60 %
+12:51 | ===== Sensor Readings =====
+12:51 | MQ-4 (Methane): 304
+12:51 | MQ-135 (Air Quality): 187
+12:51 | Temperature: 34.00 °C
+12:51 | Humidity: 58.60 %
+12:51 | ===== Sensor Readings =====
+12:51 | MQ-4 (Methane): 304
+12:51 | MQ-135 (Air Quality): 186
+12:51 | Temperature: 34.10 °C
+12:51 | Humidity: 58.50 %
+12:51 | ===== Sensor Readings =====
+12:51 | MQ-4 (Methane): 304
+12:51 | MQ-135 (Air Quality): 186
+12:51 | Temperature: 34.10 °C
+12:51 | Humidity: 58.60 %
+12:52 | ===== Sensor Readings =====
+12:52 | MQ-4 (Methane): 304
+12:52 | MQ-135 (Air Quality): 185
+12:52 | Temperature: 34.10 °C
+12:52 | Humidity: 58.50 %
+12:52 | ===== Sensor Readings =====
+12:52 | MQ-4 (Methane): 304
+12:52 | MQ-135 (Air Quality): 188
+12:52 | Temperature: 34.00 °C
+12:52 | Humidity: 58.60 %
+12:52 | ===== Sensor Readings =====
+12:52 | MQ-4 (Methane): 304
+12:52 | MQ-135 (Air Quality): 190
+12:52 | Temperature: 34.10 °C
+12:52 | Humidity: 58.60 %
+12:53 | ===== Sensor Readings =====
+12:53 | MQ-4 (Methane): 308
+12:53 | MQ-135 (Air Quality): 192
+12:53 | Temperature: 34.00 °C
+12:53 | Humidity: 58.40 %
+12:53 | ===== Sensor Readings =====
+12:53 | MQ-4 (Methane): 308
+12:53 | MQ-135 (Air Quality): 192
+12:53 | Temperature: 34.00 °C
+12:53 | Humidity: 58.60 %
+12:53 | ===== Sensor Readings =====
+12:53 | MQ-4 (Methane): 307
+12:53 | MQ-135 (Air Quality): 187
+12:53 | Temperature: 34.00 °C
+12:53 | Humidity: 58.60 %
+12:54 | ===== Sensor Readings =====
+12:54 | MQ-4 (Methane): 307
+12:54 | MQ-135 (Air Quality): 188
+12:54 | Temperature: 34.00 °C
+12:54 | Humidity: 58.60 %
+12:54 | ===== Sensor Readings =====
+12:54 | MQ-4 (Methane): 306
+12:54 | MQ-135 (Air Quality): 188
+12:54 | Temperature: 34.10 °C
+12:54 | Humidity: 58.80 %
+12:54 | ===== Sensor Readings =====
+12:54 | MQ-4 (Methane): 307
+12:54 | MQ-135 (Air Quality): 191
+12:54 | Temperature: 34.00 °C
+12:54 | Humidity: 58.70 %
+12:55 | ===== Sensor Readings =====
+12:55 | MQ-4 (Methane): 306
+12:55 | MQ-135 (Air Quality): 188
+12:55 | Temperature: 34.10 °C
+12:55 | Humidity: 58.60 %
+12:55 | ===== Sensor Readings =====
+12:55 | MQ-4 (Methane): 306
+12:55 | MQ-135 (Air Quality): 191
+12:55 | Temperature: 34.00 °C
+12:55 | Humidity: 58.60 %
+12:55 | ===== Sensor Readings =====
+12:55 | MQ-4 (Methane): 306
+12:55 | MQ-135 (Air Quality): 188
+12:55 | Temperature: 34.00 °C
+12:55 | Humidity: 58.70 %
+12:56 | ===== Sensor Readings =====
+12:56 | MQ-4 (Methane): 306
+12:56 | MQ-135 (Air Quality): 189
+12:56 | Temperature: 34.10 °C
+12:56 | Humidity: 58.60 %
+12:56 | ===== Sensor Readings =====
+12:56 | MQ-4 (Methane): 305
+12:56 | MQ-135 (Air Quality): 190
+12:56 | Temperature: 34.00 °C
+12:56 | Humidity: 58.70 %
+12:56 | ===== Sensor Readings =====
+12:56 | MQ-4 (Methane): 305
+12:56 | MQ-135 (Air Quality): 186
+12:56 | Temperature: 34.00 °C
+12:56 | Humidity: 58.70 %
+12:57 | ===== Sensor Readings =====
+12:57 | MQ-4 (Methane): 305
+12:57 | MQ-135 (Air Quality): 190
+12:57 | Temperature: 34.00 °C
+12:57 | Humidity: 58.60 %
+12:57 | ===== Sensor Readings =====
+12:57 | MQ-4 (Methane): 305
+12:57 | MQ-135 (Air Quality): 188
+12:57 | Temperature: 34.00 °C
+12:57 | Humidity: 58.60 %
+12:57 | ===== Sensor Readings =====
+12:58 | MQ-4 (Methane): 305
+12:58 | MQ-135 (Air Quality): 189
+12:58 | Temperature: 34.00 °C
+12:58 | Humidity: 58.50 %
+12:58 | ===== Sensor Readings =====
+12:58 | MQ-4 (Methane): 304
+12:58 | MQ-135 (Air Quality): 187
+12:58 | Temperature: 34.00 °C
+12:58 | Humidity: 58.50 %
+12:58 | ===== Sensor Readings =====
+12:58 | MQ-4 (Methane): 306
+12:58 | MQ-135 (Air Quality): 188
+12:58 | Temperature: 34.00 °C
+12:58 | Humidity: 58.50 %
+12:59 | ===== Sensor Readings =====
+12:59 | MQ-4 (Methane): 305
+12:59 | MQ-135 (Air Quality): 190
+12:59 | Temperature: 34.10 °C
+12:59 | Humidity: 58.60 %
+12:59 | ===== Sensor Readings =====
+12:59 | MQ-4 (Methane): 305
+12:59 | MQ-135 (Air Quality): 187
+12:59 | Temperature: 34.00 °C
+12:59 | Humidity: 58.50 %
+12:59 | ===== Sensor Readings =====
+12:59 | MQ-4 (Methane): 305
+12:59 | MQ-135 (Air Quality): 188
+12:59 | Temperature: 34.00 °C
+12:59 | Humidity: 58.60 %

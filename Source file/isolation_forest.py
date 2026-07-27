@@ -1,6 +1,11 @@
 import pandas as pd
-import joblib   
-df=pd.read_csv("new_synthetic_data.csv")
+import joblib
+from pathlib import Path
+from sklearn.ensemble import IsolationForest
+
+data_dir = Path(__file__).resolve().parent.parent / "data"
+model_dir = Path(__file__).resolve().parent.parent / "models"
+df = pd.read_csv(data_dir / "sensor_data.csv")
 
 x = df[
     [
@@ -10,7 +15,6 @@ x = df[
         "humidity"
     ]
 ]
-from sklearn.ensemble import IsolationForest
 
 iso = IsolationForest(
     contamination=0.05,
@@ -19,5 +23,8 @@ iso = IsolationForest(
 
 iso.fit(x)
 
-joblib.dump(iso, "isolation_forest.pkl")
+# ensure a repo-level models/ directory exists and save the model there
+models_dir = Path(__file__).resolve().parent.parent / "models"
+models_dir.mkdir(parents=True, exist_ok=True)
+joblib.dump(iso, models_dir / "isolation_forest.pkl")
 print(df.columns.tolist())

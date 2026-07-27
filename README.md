@@ -25,6 +25,7 @@ This application provides comprehensive monitoring and prediction of hazardous c
 - **Machine Learning Models:**
   - Random Forest - Risk classification based on sensor inputs
   - LSTM - Time-series forecasting for trend analysis
+  - Isolation FOrest - Anomaly detection depending on change in environment
 - **SQLite** - Local database for prediction logs and historical data
 
 ## Core Workflow

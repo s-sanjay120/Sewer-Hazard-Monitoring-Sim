@@ -1,80 +1,139 @@
-# CCP 7th Sem - Prototype Sewer Hazard Detection Simulation
+# CCP 7th Sem - Sewer Hazard Detection System
 
-This repository is a prototype simulation of the main application that will eventually power a real-time sewer hazard detection system.
+A real-time sewer hazard detection system with a modern React frontend and robust backend infrastructure.
 
-The goal of this project is to demonstrate how the final app will work from end to end:
+## Project Overview
 
-- a user enters environmental sensor values in a dashboard,
-- the backend processes the input using a machine learning model,
-- the system classifies the risk level,
-- the dashboard shows the prediction, anomaly status, and a simple forecast,
-- prediction history is stored for review.
+This application provides comprehensive monitoring and prediction of hazardous conditions in sewer systems. The system enables real-time analysis of environmental sensor data and delivers actionable risk assessments.
 
-## Project Purpose
+**Key Features:**
 
-This is not the final production app yet. It is a working prototype that simulates the core workflow of the intended system so the team can test the UI, API, model interaction, and overall user experience.
+- User-friendly React dashboard for real-time monitoring
+- Machine learning-powered risk classification
+- Anomaly detection and forecasting
+- Comprehensive prediction history and analytics
+- RESTful FastAPI backend with optimized data handling
+- Persistent data storage with SQLite
 
-## Current Prototype Flow
+## System Architecture
 
-1. A Streamlit dashboard collects methane, air quality, temperature, and humidity values.
-2. The dashboard sends the data to a FastAPI backend.
-3. The backend loads a trained model and returns a risk classification.
-4. The result is displayed in the dashboard for the user.
-5. The output is saved in a local SQLite database for history and basic analytics.
+### Frontend
+- **React** - Modern, responsive user interface for dashboard and data visualization
 
-## Main Files
+### Backend
+- **FastAPI** - High-performance API endpoints for predictions and data retrieval
+- **Machine Learning Models:**
+  - Random Forest - Risk classification based on sensor inputs
+  - LSTM - Time-series forecasting for trend analysis
+- **SQLite** - Local database for prediction logs and historical data
 
-- `Dashboard.py` - Streamlit user interface for the prototype
-- `backend.py` - FastAPI backend for prediction and history endpoints
-- `ccp.py` - core logic for risk classification rules
-- `Random_forest_model.py` - random forest training/classification workflow
-- `lstm.py` - LSTM-based time-series forecasting and training logic
-- `database.py` - database helper logic
-- `data/` - sample datasets used for simulation and testing
+## Core Workflow
 
-## Prototype Notes
+1. Users input environmental sensor readings (methane, air quality, temperature, humidity) through the React dashboard
+2. Data is sent to the FastAPI backend for processing
+3. Machine learning models classify risk levels and generate forecasts
+4. Results are returned to the dashboard with:
+   - Risk classification
+   - Anomaly detection status
+   - Predictive forecasts
+   - Historical trend analysis
+5. All predictions are persisted for audit trails and analytics
 
-This repository is intended to show the structure and behavior of the main application before full deployment and production hardening.
+## Project Structure
 
-Current characteristics:
+```
+├── frontend/                    # React application
+│   └── ...
+├── backend.py                  # FastAPI application and routes
+├── ccp.py                       # Risk classification logic
+├── Random_forest_model.py       # Random forest model training/inference
+├── lstm.py                      # LSTM forecasting model
+├── database.py                  # Database helper functions
+├── requirements.txt             # Python dependencies
+└── data/                        # Sample datasets for testing
+```
 
-- lightweight demo-style implementation
-- local database storage for prediction logs
-- sample ML models and forecast logic
-- simple dashboard-driven simulation of the final app
+## Installation
 
-## Setup
+### Prerequisites
+- Python 3.8+
+- Node.js 14+ (for React frontend)
 
-Install dependencies:
+### Backend Setup
+
+Install Python dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run the Prototype
+### Frontend Setup
 
-Start the API:
+```bash
+cd frontend
+npm install
+```
+
+## Running the Application
+
+### Start the Backend
 
 ```bash
 python -m uvicorn backend:app --reload
 ```
 
-Run the dashboard:
+The API will be available at `http://localhost:8000`
+
+### Run the Frontend
 
 ```bash
-streamlit run Dashboard.py
+cd frontend
+npm start
 ```
 
-## Expected Outcome
+The React dashboard will be available at `http://localhost:3000`
 
-When the prototype is running, the user can input sensor readings through the dashboard and see how the final application will likely function:
+## Usage
 
-- prediction result,
-- risk level,
-- anomaly detection indicator,
-- forecast values,
-- prediction history visualization.
+1. Open the dashboard at `http://localhost:3000`
+2. Input sensor readings (methane levels, air quality index, temperature, humidity)
+3. The system processes the input and displays:
+   - Risk assessment result
+   - Anomaly detection indicators
+   - Forecast predictions
+   - Historical data visualization
+4. Review prediction history for trends and patterns
 
-## Disclaimer
+## Features
 
-This repository represents a proof-of-concept simulation for the main application workflow. It is useful for development, demonstration, and testing, but it is not yet a finished production-grade system.
+- **Real-time Monitoring** - Live sensor data processing and analysis
+- **Risk Assessment** - ML-based classification of hazard levels
+- **Anomaly Detection** - Identification of unusual patterns in sensor data
+- **Time-series Forecasting** - LSTM-based predictions of future conditions
+- **Data Persistence** - Complete audit trail of all predictions
+- **Analytics Dashboard** - Visualization and exploration of historical trends
+
+## Technology Stack
+
+| Component | Technology |
+|-----------|-----------|
+| Frontend | React, TypeScript/JavaScript |
+| Backend | FastAPI (Python) |
+| ML Models | Scikit-learn (Random Forest), TensorFlow/Keras (LSTM) |
+| Database | SQLite |
+| API | REST |
+
+## Development
+
+This is a fully functional application designed for production deployment. The codebase is structured for scalability and maintainability with clear separation of concerns between frontend and backend components.
+
+## Notes
+
+- Ensure all dependencies in `requirements.txt` are installed before running the backend
+- The React frontend requires Node.js and npm to be installed and configured
+- SQLite database is created automatically on first run
+- Sample datasets are available in the `data/` directory for testing and validation
+
+## Support
+
+For issues or questions regarding the system, please refer to the project documentation or create an issue in the repository.

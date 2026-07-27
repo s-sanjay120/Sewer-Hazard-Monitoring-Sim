@@ -9,7 +9,8 @@ from sklearn.preprocessing import MinMaxScaler
 from torch import nn
 from torch.utils.data import DataLoader, TensorDataset
 
-
+data_dir = Path(__file__).resolve().parent.parent / "data"
+model_dir = Path(__file__).resolve().parent.parent / "models"
 BASE_DIR = Path(__file__).resolve().parent
 SEQUENCE_LENGTH = 10
 EPOCHS = 20
@@ -19,9 +20,7 @@ RANDOM_SEED = 42
 
 def load_dataset() -> pd.DataFrame:
     candidates = [
-        BASE_DIR / "new_synthetic_data_with_time.csv",
-        BASE_DIR / "data" / "gas_readings.csv",
-        BASE_DIR / "data" / "time_series.csv",
+        data_dir / "sensor_data.csv"
     ]
 
     for path in candidates:
@@ -80,7 +79,7 @@ def main():
     data = load_dataset()
     scaler = MinMaxScaler()
     scaled_data = scaler.fit_transform(data)
-    joblib.dump(scaler, BASE_DIR / "lstm_scaler.pkl")
+    joblib.dump(scaler, model_dir / "lstm_scaler.pkl")
 
     X, y = create_sequences(scaled_data, SEQUENCE_LENGTH)
     print(f"Input shape: {X.shape}")
@@ -146,9 +145,9 @@ def main():
             "sequence_length": SEQUENCE_LENGTH,
             "feature_columns": list(data.columns),
         },
-        BASE_DIR / "lstm_model.pth",
+        model_dir / "lstm_model.pth",
     )
-    print(f"Saved PyTorch model to {BASE_DIR / 'lstm_model.pth'}")
+    print(f"Saved PyTorch model to {model_dir / 'lstm_model.pth'}")
 
 
 if __name__ == "__main__":

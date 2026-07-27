@@ -40,20 +40,6 @@ This application provides comprehensive monitoring and prediction of hazardous c
    - Historical trend analysis
 5. All predictions are persisted for audit trails and analytics
 
-## Project Structure
-
-```
-├── frontend/                    # React application
-│   └── ...
-├── backend.py                  # FastAPI application and routes
-├── ccp.py                       # Risk classification logic
-├── Random_forest_model.py       # Random forest model training/inference
-├── lstm.py                      # LSTM forecasting model
-├── database.py                  # Database helper functions
-├── requirements.txt             # Python dependencies
-└── data/                        # Sample datasets for testing
-```
-
 ## Installation
 
 ### Prerequisites

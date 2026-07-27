@@ -1,4 +1,4 @@
-# CCP 7th Sem - Sewer Hazard Detection System
+# Sewer Hazard Detection System
 
 A real-time sewer hazard detection system with a modern React frontend and robust backend infrastructure.
 

@@ -1,12 +1,23 @@
+from pathlib import Path
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 import pandas as pd
 import joblib
 import sqlite3
 
+from data_store import DATABASE_PATH, initialize_database, sync_sensor_log
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+MODELS_DIR = PROJECT_ROOT / "models"
+MODEL_PATH = MODELS_DIR / "sewer_rf_model.pkl"
+
 app = FastAPI()
 
-model = joblib.load("sewer_rf_model.pkl")
+initialize_database()
+sync_sensor_log()
+
+model = joblib.load(MODEL_PATH)
 _last_payload = None
 
 
@@ -26,10 +37,10 @@ def home():
 def predict(data: SensorData):
     sample = pd.DataFrame(
         {
-            "Methane": [data.methane],
-            "Air_quality": [data.air_quality],
-            "Temperature": [data.temperature],
-            "Humidity": [data.humidity],
+            "methane": [data.methane],
+            "air_quality": [data.air_quality],
+            "temperature": [data.temperature],
+            "humidity": [data.humidity],
         }
     )
 
@@ -37,7 +48,7 @@ def predict(data: SensorData):
     risk = str(prediction[0])
     anomaly = "Normal" if risk in {"Safe", "Warning"} else "Anomaly"
 
-    conn = sqlite3.connect("sewer_data.db")
+    conn = sqlite3.connect(DATABASE_PATH)
     cursor = conn.cursor()
 
     cursor.execute(
@@ -115,7 +126,8 @@ def forecast():
 
 @app.get("/history")
 def history():
-    conn = sqlite3.connect("sewer_data.db")
+    sync_sensor_log()
+    conn = sqlite3.connect(DATABASE_PATH)
     cursor = conn.cursor()
 
     cursor.execute(

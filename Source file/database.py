@@ -1,21 +1,8 @@
-import sqlite3
+from data_store import DATABASE_PATH, initialize_database, sync_sensor_log
 
-conn = sqlite3.connect("sewer_data.db")
 
-cursor = conn.cursor()
+initialize_database()
+new_readings = sync_sensor_log()
 
-cursor.execute("""
-CREATE TABLE IF NOT EXISTS predictions (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    methane REAL,
-    air_quality REAL,
-    temperature REAL,
-    humidity REAL,
-    risk TEXT
-)
-""")
-
-conn.commit()
-conn.close()
-
-print("Database created successfully!")
+print(f"Database ready at {DATABASE_PATH}")
+print(f"Added {new_readings} new sensor readings")

@@ -119,8 +119,10 @@ This is a fully functional application designed for production deployment. The c
 - Ensure all dependencies in `requirements.txt` are installed before running the backend
 - The React frontend requires Node.js and npm to be installed and configured
 - SQLite database is created automatically on first run
-- Sample datasets are available in the `data/` directory for testing and validation
-
+- Sample datasets are available in the `data/` directory for testing and validation.
+- Data was taken by connecting MQ-4, MQ-135 and DHT22 Sensors and deploying in a sewer environment.
+- H2S values in the dataset were estimated due to budget constraints
+  
 ## Support
 
 For issues or questions regarding the system, please refer to the project documentation or create an issue in the repository.
